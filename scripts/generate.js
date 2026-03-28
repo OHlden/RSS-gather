@@ -7,10 +7,9 @@ require('dotenv').config();
 
 // 配置：你的 RSS 源列表
 const RSS_SOURCES = [
-  'https://rss.huxiu.com',      // Huxiu
-  'https://36kr.com/feed', // 36kr
-  'https://www.ithome.com/rss' // ithome
-  // 添加更多你想聚合的源
+  'https://rss.huxiu.com',           // 虎嗅
+  'https://36kr.com/feed',           // 36氪
+  'https://www.ithome.com/rss',      // IT之家
 ];
 
 // 配置：最终生成的 RSS 信息
@@ -23,10 +22,10 @@ const FEED_INFO = {
   copyright: 'All rights reserved',
 };
 
-// 初始化 OpenAI（使用环境变量）
+// 初始化 DeepSeek（兼容 OpenAI API）
 const openai = new OpenAI({
-  apiKey: process.env.DEEPSEEK_API_KEY,      // 改用 DeepSeek 的 API Key
-  baseURL: 'https://api.deepseek.com',        // 设置 DeepSeek 的 baseURL
+  apiKey: process.env.DEEPSEEK_API_KEY,   // 改为 DEEPSEEK_API_KEY
+  baseURL: 'https://api.deepseek.com',
 });
 
 // 初始化 RSS 解析器
@@ -35,9 +34,9 @@ const parser = new Parser();
 // 存储所有文章
 let allArticles = [];
 
-// 调用 OpenAI 生成摘要
+// 调用 DeepSeek 生成摘要
 async function summarizeArticle(title, content) {
-  if (!process.env.OPENAI_API_KEY) {
+  if (!process.env.DEEPSEEK_API_KEY) {   // 修正判断条件
     // 如果没有 API Key，返回截断的内容作为摘要
     return content ? content.slice(0, 200) + '...' : '暂无内容';
   }
@@ -52,7 +51,7 @@ async function summarizeArticle(title, content) {
     `;
 
     const response = await openai.chat.completions.create({
-  model: 'deepseek-chat',   // DeepSeek 模型
+      model: 'deepseek-chat',
       messages: [{ role: 'user', content: prompt }],
       max_tokens: 200,
       temperature: 0.7,
@@ -124,13 +123,12 @@ async function main() {
   const articlesToProcess = allArticles.slice(0, ARTICLES_LIMIT);
   console.log(`将处理前 ${articlesToProcess.length} 篇文章的摘要`);
 
-  // 5. 为每篇文章生成 AI 摘要（可以并行，但注意 API 速率限制）
+  // 5. 为每篇文章生成 AI 摘要
   for (let i = 0; i < articlesToProcess.length; i++) {
     const article = articlesToProcess[i];
     console.log(`[${i+1}/${articlesToProcess.length}] 正在生成摘要: ${article.title}`);
     article.summary = await summarizeArticle(article.title, article.content);
-    // 避免过快调用 API，加入延时
-    await new Promise(resolve => setTimeout(resolve, 500));
+    await new Promise(resolve => setTimeout(resolve, 500)); // 避免 API 限流
   }
 
   // 6. 生成新 RSS
@@ -148,28 +146,35 @@ async function main() {
     });
   });
 
-  // 7. 写入文件（存放在 public 目录，供 GitHub Pages 访问）
-  // 确保 public 目录存在
-const outputDir = path.join(__dirname, '../public');
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true });
+  // 7. 确保 public 目录存在
+  const outputDir = path.join(__dirname, '../public');
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  // 写入 RSS XML
+  const rssPath = path.join(outputDir, 'feed.xml');
+  fs.writeFileSync(rssPath, feed.rss2());
+  console.log(`✅ RSS 文件已生成: ${rssPath}`);
+
+  // 写入 JSON（供前端展示）
+  const jsonPath = path.join(outputDir, 'feed.json');
+  const jsonData = {
+    title: FEED_INFO.title,
+    description: FEED_INFO.description,
+    updated: new Date().toISOString(),
+    items: articlesToProcess.map(a => ({
+      title: a.title,
+      link: a.link,
+      summary: a.summary,
+      pubDate: a.pubDate,
+      source: a.source,
+    })),
+  };
+  fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
+  console.log(`✅ JSON 文件已生成: ${jsonPath}`);
 }
 
-// 写入 RSS XML
-const outputPath = path.join(outputDir, 'feed.xml');
-fs.writeFileSync(outputPath, feed.rss2());
-console.log(`✅ RSS 文件已生成: ${outputPath}`);
-
-const outputDir = path.join(__dirname, '../public');
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true });
-}
-
-// 然后才是第二段的 JSON 写入
-const jsonPath = path.join(outputDir, 'feed.json');
-const jsonData = { ... };
-fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
-console.log(`✅ JSON 文件已生成: ${jsonPath}`);
 // 执行
 main().catch(error => {
   console.error('脚本执行失败:', error);
