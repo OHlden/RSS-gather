@@ -119,11 +119,23 @@ async function main() {
   allArticles.sort((a, b) => b.pubDate - a.pubDate);
 
   // 4. 限制文章数量（避免过多，节省 token）
-  const ARTICLES_LIMIT = 20;
-  const articlesToProcess = allArticles.slice(0, ARTICLES_LIMIT);
-  console.log(`将处理前 ${articlesToProcess.length} 篇文章的摘要`);
+const ARTICLES_LIMIT = 15;
+let articlesToProcess = allArticles.slice(0, ARTICLES_LIMIT);
+console.log(`将处理前 ${articlesToProcess.length} 篇文章的摘要`);
 
-  // 5. 为每篇文章生成 AI 摘要
+// ========== 新增筛选 ==========
+const KEYWORDS = ['AI', '人工智能', '大模型', 'IT早报', '氪星晚报'];  // 保留包含这些关键词的文章
+articlesToProcess = articlesToProcess.filter(article => {
+  const title = article.title || '';
+  const summary = article.summary || '';
+  return KEYWORDS.some(kw => title.includes(kw) || summary.includes(kw));
+});
+console.log(`筛选后剩余 ${articlesToProcess.length} 篇文章`);
+// =============================
+
+// 5. 为每篇文章生成 AI 摘要（如果还没有生成）
+// 注意：如果你想把筛选放在 AI 摘要之前，可以交换顺序。
+// 但要注意筛选后的文章才会生成摘要，节省 token。
   for (let i = 0; i < articlesToProcess.length; i++) {
     const article = articlesToProcess[i];
     console.log(`[${i+1}/${articlesToProcess.length}] 正在生成摘要: ${article.title}`);
