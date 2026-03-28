@@ -1,0 +1,147 @@
+{
+  "title": "AI 精选周报",
+  "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
+  "updated": "2026-03-28T15:56:14.058Z",
+  "items": [
+    {
+      "title": "谷歌 TurboQuant 算法遭质疑，中国博士后指其论文存在严重问题",
+      "link": "https://www.ithome.com/0/933/679.htm",
+      "summary": "<p data-vmark=\"15cb\">IT之家 3 月 28 日消息，谷歌研究院 3 月 25 日推出全新极端压缩算法 TurboQuant，有望重塑 AI 运行效率并解决大模型键值缓存（KV Cache）的内存瓶颈，据称可以使 AI 内存占用锐降至 1/6、推理狂飙 8 倍。</p><p data-vmark=\"6e57\">然而，3 月 27 日晚上 10 点，苏黎世联邦理工学院博士后、Ra...",
+      "pubDate": "2026-03-28T15:49:55.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "消息称马斯克 xAI“初创十一人”现已全部离职",
+      "link": "https://www.ithome.com/0/933/678.htm",
+      "summary": "<p data-vmark=\"ba9c\">IT之家 3 月 28 日消息，据《商业内幕》报道，埃隆 · 马斯克最初组建的 xAI 创始团队，现已全部离场。</p><p data-vmark=\"befa\">据知情人士透露，11 名联合创始人之一的罗斯 · 诺丁已于当地时间 3 月 27 日正式离开 xAI。与此同时，诺丁在 X 平台上的 xAI 员工身份标识也已被移除，马斯克<strong>最初的创...",
+      "pubDate": "2026-03-28T15:46:18.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "美国驻欧大使喊话欧盟：别再给我们的科技巨头开罚单了",
+      "link": "https://www.ithome.com/0/933/677.htm",
+      "summary": "<p data-vmark=\"efe9\">IT之家 3 月 28 日消息，据美国 CNBC 报道，当地时间 3 月 27 日，美国驻欧盟大使安德鲁 · 普兹德周五表示，如果欧盟希望在 AI 经济时代占据一席之地，就必须<strong>适度放松对美国大型科技公司的监管力度</strong>。</p><p data-vmark=\"3b8a\">普兹德认为，欧洲若想真正参与 AI 产业竞争，就离不开<st...",
+      "pubDate": "2026-03-28T15:28:56.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "小心假冒伪劣硬盘：山寨版三星 990 Pro SSD 已能伪造读写速度",
+      "link": "https://www.ithome.com/0/933/676.htm",
+      "summary": "<p data-vmark=\"bc9a\">IT之家 3 月 28 日消息，零部件短缺推高了内存和 SSD 价格，市场环境正好给了诈骗者可乘之机。面对远低于正常市场价的“超值优惠”，不少消费者很容易上当。尤其是在 AI 数据中心持续大量占用 DRAM 和 NAND 产能的背景下，假冒存储产品已经越来越难辨认，甚至有些产品连常见检测软件都能成功骗过。</p><p data-vmark=\"796c\">当...",
+      "pubDate": "2026-03-28T15:16:03.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 当AI真开始干活，问题才刚刚开始 ",
+      "link": "https://www.huxiu.com/article/4846312.html?f=rss",
+      "summary": " <p data-check-id=\"177734\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyMjU5NDgwNA==&mid=2247484838&idx=1&sn=fa6405be428f444a51615d4bd04cfe99&ch...",
+      "pubDate": "2026-03-28T15:07:04.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " 家族亲人间的枢纽已经越来越淡薄了 ",
+      "link": "https://www.huxiu.com/article/4846311.html?f=rss",
+      "summary": " <p data-check-id=\"435333\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU2MDcwNTg1MA==&mid=2247486704&idx=1&sn=6686dbf86337e76fe3edc6eeadffa435&ch...",
+      "pubDate": "2026-03-28T15:02:49.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "沃顿商学院研究：AI 正重塑人类推理及判断机制，使人误以为其“专业、可信、忠实”",
+      "link": "https://www.ithome.com/0/933/675.htm",
+      "summary": "<p data-vmark=\"b91f\">IT之家 3 月 28 日消息，当地时间 3 月 27 日，据《福布斯》报道，美国宾夕法尼亚大学沃顿商学院最新研究显示，使用 AI 规划旅行、咨询医疗建议或撰写求职信，看似只是节省时间，实际上可能正在深刻改变人类大脑处理决策的方式。研究人员认为，随着越来越多人依赖人工智能，人类的推理和判断机制正在被重塑。</p><p data-vmark=\"5e9f\">此...",
+      "pubDate": "2026-03-28T14:54:54.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 坐飞机最恐怖的事情发生了，“跟猝死乘客遗体同飞13小时” ",
+      "link": "https://www.huxiu.com/article/4846309.html?f=rss",
+      "summary": " <p data-check-id=\"721833\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NDA5NDcyMA==&mid=2652829756&idx=1&sn=df60cacfa317b2f71c16845f9bbc6769&ch...",
+      "pubDate": "2026-03-28T14:53:33.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "小米汽车：SU7 Ultra 已选装“碳纤维尾翼”，可单独购买“3 挡可调尾翼支架”",
+      "link": "https://www.ithome.com/0/933/674.htm",
+      "summary": "<p data-vmark=\"9f96\">IT之家 3 月 28 日消息，小米汽车今日发布答网友问（第 223 集），回答了“SU7 Ultra 推出的三挡可调碳纤维尾翼和之前的区别是什么？”“SU7 Ultra 新出的暮光玫瑰颜色和璀璨洋红区别是什么？”等问题。</p><h2 data-vmark=\"6497\">IT之家整理如下：</h2><h3 data-vmark=\"56bc\">1、SU7 ...",
+      "pubDate": "2026-03-28T14:41:27.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 从奥特曼、马斯克到阿莫戴伊：私人恩怨如何决定AI未来 ",
+      "link": "https://www.huxiu.com/article/4846307.html?f=rss",
+      "summary": " <p data-check-id=\"226726\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU4NDQwMTc3MQ==&mid=2247492657&idx=1&sn=b97bcfdeece22d746e856ecaa0392996&ch...",
+      "pubDate": "2026-03-28T14:39:33.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "华为 Mate X7 等折叠屏机型限时赠 HUAWEI Care+ 一年期",
+      "link": "https://www.ithome.com/0/933/673.htm",
+      "summary": "<p data-vmark=\"31ac\">IT之家 3 月 28 日消息，华为官方商城显示，在 2026 年 3 月 27 日至 2026 年 5 月 5 日活动期间购买 HUAWEI Mate XTs 非凡大师、<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/11/19/a48707d6-4a46-...",
+      "pubDate": "2026-03-28T14:31:21.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "X7 还不是终点？宝马高管称对全尺寸 SUV 持开放态度",
+      "link": "https://www.ithome.com/0/933/672.htm",
+      "summary": "<p data-vmark=\"f685\">IT之家 3 月 28 日消息，当地时间 3 月 27 日，据外媒 Carbuzz 报道，宝马美国经销商正力推宝马推出一款尺寸比 X7 更大的 SUV，若项目落地，预计将直接<strong>对标林肯领航员和凯迪拉克凯雷德</strong>。</p><p data-vmark=\"d881\">宝马品牌与产品管理高级副总裁伯恩德 · 科尔伯在新世代 i3 亮相活...",
+      "pubDate": "2026-03-28T14:25:43.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 不拆家还能下蛋，年轻人被一只母鸡治好了精神内耗 ",
+      "link": "https://www.huxiu.com/article/4846305.html?f=rss",
+      "summary": " <p data-check-id=\"501801\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650552509&idx=1&sn=6a59f942d935e73ff5836af2052f65c0&ch...",
+      "pubDate": "2026-03-28T14:11:23.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "钱学森星际航行码头设想正照进现实，我国试验卫星搭建“太空港口”",
+      "link": "https://www.ithome.com/0/933/671.htm",
+      "summary": "<p data-vmark=\"9007\">IT之家 3 月 28 日消息，据央视财经今日报道，正在举行的中关村论坛上，我国亮出了“太空基建”又一硬核成果：中国科学院部署的三颗试验卫星，其中 1 颗成功在地月空间远距离逆行轨道稳定驻留两年，<strong>搭建起了一个“太空港口”</strong>，而这里有望成为“星际航行码头”的核心区域。</p><p style=\"text-align: cent...",
+      "pubDate": "2026-03-28T14:02:32.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "苹果联合创始人沃兹尼亚克自曝几乎不用 AI：生成的东西很完美，但干巴巴的",
+      "link": "https://www.ithome.com/0/933/670.htm",
+      "summary": "<p data-vmark=\"b2ba\">IT之家 3 月 28 日消息，作为苹果联合创始人、这一技术时代的重要开创者之一，现在的史蒂夫 · 沃兹尼亚克更愿意亲近自然。</p><p data-vmark=\"286f\">当地时间 3 月 23 日，沃兹尼亚克在 CNN 的采访中表示，自己已经在很大程度上远离科技。“我已经和科技<strong>相当程度上脱节了</strong>。我认为，大自然远比人类...",
+      "pubDate": "2026-03-28T13:46:42.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 消失十年，删麻了 ",
+      "link": "https://www.huxiu.com/article/4846302.html?f=rss",
+      "summary": " <p data-check-id=\"741132\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4ODQ5NzIwNQ==&mid=2650514018&idx=1&sn=8af92c1b7e22aa9da7eb205277a06f5c&ch...",
+      "pubDate": "2026-03-28T13:40:28.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "西南首个商业卫星遥感测运控站在四川启用，全自动化数据接收",
+      "link": "https://www.ithome.com/0/933/669.htm",
+      "summary": "<p data-vmark=\"f5a3\">IT之家 3 月 28 日消息，据眉山天府新区官方公众号，3 月 28 日，位于四川天府新区眉山片区视高街道的“<span class=\"wx_search_keyword_wrap\">环天星座<em class=\"wx_search_keyword\"></em></span>”卫星地面接收站（简称“眉山站”）正式投入运行，<strong>这也是西南首个商...",
+      "pubDate": "2026-03-28T13:27:15.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "反向“名人效应”：无聊公司隧道项目遇阻，居民一听到马斯克姓名就反感",
+      "link": "https://www.ithome.com/0/933/666.htm",
+      "summary": "<p data-vmark=\"6774\">IT之家 3 月 28 日消息，当地时间 3 月 28 日，据《财富》杂志报道，马斯克旗下“无聊公司（Boring Company）”正在美国田纳西州纳什维尔推进地下隧道项目。但当地居民的不满情绪正在升温，而争议焦点很大程度上集中在马斯克本人身上。</p><p data-vmark=\"579b\">范德堡大学最新调查显示，在不特别点名马斯克的情况下，<str...",
+      "pubDate": "2026-03-28T13:16:00.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " A股开始交易锂电反转 ",
+      "link": "https://www.huxiu.com/article/4846295.html?f=rss",
+      "summary": " <p data-check-id=\"102455\">出品 | 妙投APP</p><p data-check-id=\"761330\">作者 | 董必政</p><p data-check-id=\"980612\">编辑 | 丁萍</p><p data-check-id=\"230264\">头图 | AI制图</p><p data-check-id=\"169768\"><br/></p><p data-ch...",
+      "pubDate": "2026-03-28T13:15:40.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " 送别张雪峰老师：当路灯熄灭，我们才看清脚下的路 ",
+      "link": "https://www.huxiu.com/article/4846298.html?f=rss",
+      "summary": " <p data-check-id=\"670038\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkwODYyMjk4NA==&mid=2247490650&idx=1&sn=9c184f93d51167aa32dee5c42b0768e8&ch...",
+      "pubDate": "2026-03-28T13:12:57.000Z",
+      "source": " 虎嗅 "
+    }
+  ]
+}
