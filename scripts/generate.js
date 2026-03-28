@@ -149,9 +149,21 @@ async function main() {
   });
 
   // 7. 写入文件（存放在 public 目录，供 GitHub Pages 访问）
-  const outputPath = path.join(__dirname, '../public/feed.xml');
-  fs.writeFileSync(outputPath, feed.rss2());
-  console.log(`✅ RSS 文件已生成: ${outputPath}`);
+  // 确保 public 目录存在
+const outputDir = path.join(__dirname, '../public');
+if (!fs.existsSync(outputDir)) {
+  fs.mkdirSync(outputDir, { recursive: true });
+}
+
+// 写入 RSS XML
+const outputPath = path.join(outputDir, 'feed.xml');
+fs.writeFileSync(outputPath, feed.rss2());
+console.log(`✅ RSS 文件已生成: ${outputPath}`);
+
+// 写入 JSON（可选）
+const jsonPath = path.join(outputDir, 'feed.json');
+fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
+console.log(`✅ JSON 文件已生成: ${jsonPath}`);
 
   // 同时生成一个 JSON 供前端展示（可选）
   const jsonPath = path.join(__dirname, '../public/feed.json');
