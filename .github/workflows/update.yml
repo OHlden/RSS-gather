@@ -31,4 +31,4 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add public/feed.xml public/feed.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新 RSS 源 [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新 RSS 源 [skip ci]" && git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main)
