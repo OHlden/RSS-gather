@@ -7,8 +7,9 @@ require('dotenv').config();
 
 // 配置：你的 RSS 源列表
 const RSS_SOURCES = [
-  'https://hnrss.org/frontpage',      // Hacker News
-  'https://feeds.feedburner.com/TechCrunch', // TechCrunch
+  'https://rss.huxiu.com',      // Huxiu
+  'https://rss.36kr.com/feed', // 36kr
+  'https://www.ithome.com/rss' // ithome
   // 添加更多你想聚合的源
 ];
 
@@ -24,7 +25,8 @@ const FEED_INFO = {
 
 // 初始化 OpenAI（使用环境变量）
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: process.env.DEEPSEEK_API_KEY,      // 改用 DeepSeek 的 API Key
+  baseURL: 'https://api.deepseek.com',        // 设置 DeepSeek 的 baseURL
 });
 
 // 初始化 RSS 解析器
@@ -50,7 +52,7 @@ async function summarizeArticle(title, content) {
     `;
 
     const response = await openai.chat.completions.create({
-      model: 'gpt-3.5-turbo',
+  model: 'deepseek-chat',   // DeepSeek 模型
       messages: [{ role: 'user', content: prompt }],
       max_tokens: 200,
       temperature: 0.7,
