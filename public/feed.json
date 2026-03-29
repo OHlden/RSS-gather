@@ -1,14 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-03-29T13:11:15.100Z",
+  "updated": "2026-03-29T16:43:35.423Z",
   "items": [
     {
-      "title": " 全球AI企业，面临12-24个月“生死线”？ ",
-      "link": "https://www.huxiu.com/article/4846391.html?f=rss",
-      "summary": " <p data-check-id=\"404648\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI4OTcxMDA0MQ==&mid=2247545482&idx=2&sn=93e7ac7559f357c674236e12b7538ca5&ch...",
-      "pubDate": "2026-03-29T12:08:39.000Z",
-      "source": " 虎嗅 "
+      "title": "古尔曼：苹果试图通过发放奖金，阻止 iPhone 产品设计工程师跳槽至 OpenAI",
+      "link": "https://www.ithome.com/0/933/904.htm",
+      "summary": "<p data-vmark=\"8eb0\">IT之家 3 月 29 日消息，今天，彭博社的马克 · 古尔曼在《Power On》通讯谈到了苹果对员工跳槽至 OpenAI 的情况。</p><p data-vmark=\"2557\">他透露，苹果公司试图通过发放奖金，阻止 iPhone 产品设计工程师跳槽至 OpenAI。近几个月来，苹果高管们对工程师纷纷跳槽至 OpenAI 的状况愈发感到沮丧。这家初创...",
+      "pubDate": "2026-03-29T15:28:20.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "古尔曼：苹果 iOS 27 将允许安装 ChatGPT 以外的第三方 AI 聊天机器人，拥有独立的 App Store 专区",
+      "link": "https://www.ithome.com/0/933/903.htm",
+      "summary": "<p data-vmark=\"e260\">IT之家 3 月 29 日消息，彭博社的马克 · 古尔曼在今天的《Power On》通讯中详细地讨论了苹果即将到来的人工智能计划，将于 6 月 8 日（北京时间 6 月 9 日）在全球开发者大会上揭晓。</p><p data-vmark=\"5c1d\">他表示，苹果正采取一种双管齐下的策略：在操作系统中嵌入恰到好处的人工智能，以防止用户转向安卓；同时向第三方...",
+      "pubDate": "2026-03-29T15:21:05.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "“我国人工智能最高奖”吴文俊奖揭晓，116 个项目及个人获奖",
+      "link": "https://www.ithome.com/0/933/897.htm",
+      "summary": "<p data-vmark=\"a384\">IT之家 3 月 29 日消息，据央视新闻报道，今天（3 月 29 日），被誉为我国人工智能最高奖的吴文俊人工智能科学技术奖揭晓。</p><p data-vmark=\"5528\">第十五届吴文俊人工智能科学技术奖共评出 116 个获奖项目及个人，涵盖科技贡献奖、科技进步奖、自然科学奖、技术发明奖及青年科技奖等。涉及生成式 AI、大模型、具身智能和通用人工智...",
+      "pubDate": "2026-03-29T14:20:00.000Z",
+      "source": "IT之家"
     }
   ]
 }
