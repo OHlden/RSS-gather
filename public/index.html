@@ -1,8 +1,45 @@
 <!DOCTYPE html>
-<html>
-<head><title>RSS Aggregator</title></head>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI RSS 聚合器</title>
+    <link rel="alternate" type="application/rss+xml" title="AI 精选 RSS" href="feed.xml">
+</head>
 <body>
-  <h1>RSS 聚合服务运行中</h1>
-  <p>RSS 源地址：<a href="feed.xml">feed.xml</a></p>
+    <h1>🤖 AI RSS 聚合器</h1>
+    <p>本站自动抓取科技资讯，使用 AI 生成摘要，并提供 RSS 源。</p>
+    <p>📡 订阅 RSS：<a href="feed.xml">feed.xml</a></p>
+    <hr>
+    <p>更新时间：<span id="update-time">--</span></p>
+    <div id="articles">
+        <p>加载文章列表...</p>
+    </div>
+    <script>
+        async function loadArticles() {
+            try {
+                const res = await fetch('feed.json');
+                const data = await res.json();
+                if (data.updated) document.getElementById('update-time').innerText = new Date(data.updated).toLocaleString();
+                const container = document.getElementById('articles');
+                if (!data.items || data.items.length === 0) {
+                    container.innerHTML = '<p>暂无文章</p>';
+                    return;
+                }
+                const html = data.items.map(item => `
+                    <div style="margin-bottom: 20px;">
+                        <h3><a href="${item.link}" target="_blank">${escapeHtml(item.title)}</a></h3>
+                        <p>${escapeHtml(item.summary)}</p>
+                        <small>来源：${escapeHtml(item.source)} | 时间：${new Date(item.pubDate).toLocaleString()}</small>
+                    </div>
+                `).join('');
+                container.innerHTML = html;
+            } catch (err) {
+                document.getElementById('articles').innerHTML = '<p>加载失败，请刷新重试。</p>';
+            }
+        }
+        function escapeHtml(str) { return str.replace(/[&<>]/g, function(m){if(m==='&')return'&amp;';if(m==='<')return'&lt;';if(m==='>')return'&gt;';return m;}); }
+        loadArticles();
+    </script>
 </body>
 </html>
