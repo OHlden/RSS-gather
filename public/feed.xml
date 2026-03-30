@@ -4,34 +4,18 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sun, 29 Mar 2026 20:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 03:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[古尔曼：苹果试图通过发放奖金，阻止 iPhone 产品设计工程师跳槽至 OpenAI]]></title>
-            <link>https://www.ithome.com/0/933/904.htm</link>
-            <guid>https://www.ithome.com/0/933/904.htm</guid>
-            <pubDate>Sun, 29 Mar 2026 15:28:20 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="8eb0">IT之家 3 月 29 日消息，今天，彭博社的马克 · 古尔曼在《Power On》通讯谈到了苹果对员工跳槽至 OpenAI 的情况。</p><p data-vmark="2557">他透露，苹果公司试图通过发放奖金，阻止 iPhone 产品设计工程师跳槽至 OpenAI。近几个月来，苹果高管们对工程师纷纷跳槽至 OpenAI 的状况愈发感到沮丧。这家初创...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="8eb0">IT之家 3 月 29 日消息，今天，彭博社的马克 · 古尔曼在《Power On》通讯谈到了苹果对员工跳槽至 OpenAI 的情况。</p><p data-vmark="2557">他透露，苹果公司试图通过发放奖金，阻止 iPhone 产品设计工程师跳槽至 OpenAI。近几个月来，苹果高管们对工程师纷纷跳槽至 OpenAI 的状况愈发感到沮丧。这家初创公司的硬件部门由前苹果设计主管埃文斯 · 汉基和资深工程高管唐坦领导，正积极从 iPhone 制造商的工程团队中挖人。</p><p data-vmark="8ee9">他提到，OpenAI 对以人工智能为核心的产品有着雄心勃勃的规划，曾担任苹果设计总监的乔尼 · 艾维将参与打造这些产品的外观与用户体验。自去年以来，<strong>这家 ChatGPT 的开发者已挖走了数十名苹果工程师</strong> —— 他们此前一直从事 iPhone、Vision Pro 头显、音频技术以及公司几乎所有硬件和设计业务的研发工作。</p><p data-vmark="37ea">从法律角度来看，苹果公司能采取的措施有限，难以阻止这一现象。因此，该公司正尝试一种不同的策略：留住人才。苹果公司已开始向关键的 iPhone 产品设计师提供数额可观的、提前发放的奖金 —— <strong>金额从 20 万美元到 40 万美元</strong>（IT之家注：现汇率约合 138.4 万元到 276.9 万元人民币）不等，且分四年逐步兑现。</p><p data-vmark="6066">古尔曼认为，苹果的挑战在于，OpenAI 愿意走得更远，<strong>提供每年价值数百万美元的股权激励方案</strong>。苹果具备与之竞争的资源，但历史上却选择不这么做。此刻对苹果来说仍是一个至关重要的时刻，它必须证明自己依然具有影响力 —— 尤其是在公司即将迎来成立 50 周年之际。曾几何时，<strong>工程师们为了能在那里工作，甚至愿意接受较低的薪酬</strong>。然而，对于许多人而言，那个时代显然已经一去不复返。</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[古尔曼：苹果 iOS 27 将允许安装 ChatGPT 以外的第三方 AI 聊天机器人，拥有独立的 App Store 专区]]></title>
-            <link>https://www.ithome.com/0/933/903.htm</link>
-            <guid>https://www.ithome.com/0/933/903.htm</guid>
-            <pubDate>Sun, 29 Mar 2026 15:21:05 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="e260">IT之家 3 月 29 日消息，彭博社的马克 · 古尔曼在今天的《Power On》通讯中详细地讨论了苹果即将到来的人工智能计划，将于 6 月 8 日（北京时间 6 月 9 日）在全球开发者大会上揭晓。</p><p data-vmark="5c1d">他表示，苹果正采取一种双管齐下的策略：在操作系统中嵌入恰到好处的人工智能，以防止用户转向安卓；同时向第三方...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="e260">IT之家 3 月 29 日消息，彭博社的马克 · 古尔曼在今天的《Power On》通讯中详细地讨论了苹果即将到来的人工智能计划，将于 6 月 8 日（北京时间 6 月 9 日）在全球开发者大会上揭晓。</p><p data-vmark="5c1d">他表示，苹果正采取一种双管齐下的策略：在操作系统中嵌入恰到好处的人工智能，以防止用户转向安卓；同时向第三方服务开放 Siri 和 Apple Intelligence。这一做法充分利用了苹果的硬件优势，使产品更具可定制性，并确保公司对其生态系统保持掌控。</p><p data-vmark="f150">这项战略的基石是即将推出的 iOS 27 扩展功能，它将允许用户安装 ChatGPT 以外的第三方 AI 聊天机器人，并在 Siri 中运行。此功能将拥有独立的 AppStore 专区，从而真正打造一个 AI 应用商店。<strong>这将是一个面向第三方 AI 集成的类似市场的平台</strong>。</p><p data-vmark="fc62">他认为，一项独立的努力利用谷歌的 Gemini 技术改造 Siri 及其他 AI 功能，使苹果能够提供既实用又功能强大的自研技术。但下一步的关键在于，通过第三方产品来补充这些功能。苹果公司既能保持 iPhone 及其他设备的销量，又能通过 App Store 的 30% 佣金，从人工智能驱动的应用程序中获得收入。</p><p data-vmark="6879">古尔曼指出，随着 iOS 27 及全新 Siri 扩展功能的推出，苹果表明它不会在最先进模型和功能的市场中与 OpenAI 或谷歌展开正面竞争。相反，<strong>它将利用自身的硬件优势和平台控制力</strong>，保持一家高盈利的公司，同时让其他企业承担人工智能创新的重任。</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“我国人工智能最高奖”吴文俊奖揭晓，116 个项目及个人获奖]]></title>
-            <link>https://www.ithome.com/0/933/897.htm</link>
-            <guid>https://www.ithome.com/0/933/897.htm</guid>
-            <pubDate>Sun, 29 Mar 2026 14:20:00 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="a384">IT之家 3 月 29 日消息，据央视新闻报道，今天（3 月 29 日），被誉为我国人工智能最高奖的吴文俊人工智能科学技术奖揭晓。</p><p data-vmark="5528">第十五届吴文俊人工智能科学技术奖共评出 116 个获奖项目及个人，涵盖科技贡献奖、科技进步奖、自然科学奖、技术发明奖及青年科技奖等。涉及生成式 AI、大模型、具身智能和通用人工智...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="a384">IT之家 3 月 29 日消息，据央视新闻报道，今天（3 月 29 日），被誉为我国人工智能最高奖的吴文俊人工智能科学技术奖揭晓。</p><p data-vmark="5528">第十五届吴文俊人工智能科学技术奖共评出 116 个获奖项目及个人，涵盖科技贡献奖、科技进步奖、自然科学奖、技术发明奖及青年科技奖等。涉及生成式 AI、大模型、具身智能和通用人工智能等重点领域。</p><p data-vmark="dc1c">孙富春教授和宋永端院士荣获吴文俊人工智能科技贡献奖。孙富春教授长期从事具身智能与机器人灵巧操作领域的研究，提出了融合感知、认知与行为的“知行体”一体化具身智能理论框架。</p><p data-vmark="c124">吴文俊人工智能科学技术奖由中国人工智能学会发起主办，<strong>得到首届国家最高科学技术奖获得者吴文俊院士的支持</strong>，是面向智能科学技术领域的社会力量科技奖励。</p><h3 data-vmark="cadc">IT之家附名单如下：</h3><p data-vmark="93f7"><strong>2025 年度吴文俊人工智能科技贡献奖</strong>：孙富春 — 清华大学、宋永端 — 重庆大学</p><p data-vmark="d92d"><strong>2025 年度吴文俊人工智能科技进步奖特等奖</strong>：张民 — 哈尔滨工业大学 (深圳)</p><p data-vmark="6808"><strong>2025 年度吴文俊人工智能自然科学奖一等奖</strong>：段海滨 — 北京航空航天大学、江俊君 — 哈尔滨工业大学、肖斌 — 重庆邮电大学、鲁继文 — 清华大学、邓宸伟 — 北京理工大学、刘准釓 — 西北工业大学、杨易 — 浙江大学、刘日升 — 大连理工大学、郑钰辉 — 南京信息工程大学、吴松 — 深圳大学、耿新 — 东南大学、李敏 — 中南大学、张天柱 — 中国科学技术大学、崔来中 — 深圳大学、张蕾 — 四川大学、邱锡鹏 — 复旦大学、谭明奎 — 华南理工大学、方乐缘 — 湖南大学。</p><p data-vmark="249e"><strong>2025 年度吴文俊人工智能技术发明奖一等奖</strong>：张伟 — 山东大学、任勇 — 清华大学、张日崇 — 北京航空航天大学、孙长银 — 安徽大学、徐常胜 — 中国科学院自动化研究所、熊红凯 — 上海交通大学、杨辉 — 北京邮电大学、胡庆雷 — 北京航空航天大学。</p><p data-vmark="42f2"><strong>2025 年度吴文俊人工智能科技进步奖一等奖</strong>：刘婧 — 天津大学、邬惠峰 — 杭州电子科技大学、张钊 — 北京航空航天大学、冯伟 — 中国科学院深圳先进技术研究院、任少卿 — 蔚来汽车科技 (安徽) 有限公司、赵大伟 — 山东省计算中心（国家超级计算济南中心）、张清华 — 重庆邮电大学、赵鑫 — 中国人民大学、陈盈果 — 国防科技大学、鄂海红 — 北京邮电大学、顾庆毅 — 中国科学院自动化研究所、张卫东 — 上海交通大学、杨金柱 — 东北大学、宋爱国 — 东南大学、蒲天骄 — 中国电力科学研究院有限公司、孙茂松 — 清华大学、黄河燕 — 北京理工大学、吴华瑞 — 北京市农林科学院信息技术研究中心、孙佳月 — 东北大学、王轩 — 哈尔滨工业大学 (深圳)。</p><p style="text-align: center;" data-vmark="785f"><img src="https://img.ithome.com/newsuploadfiles/2026/3/280226a4-934f-476b-842a-2c857c3ee89c.jpg?x-bce-process=image/format,f_auto" w="722" h="6986" data-weibo="0"  data-vmark="2901" class="no-alt-img"></p>]]></content:encoded>
+            <title><![CDATA[领益智造：2026年将加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局]]></title>
+            <link>https://36kr.com/newsflashes/3744874139680775?f=rss</link>
+            <guid>https://36kr.com/newsflashes/3744874139680775?f=rss</guid>
+            <pubDate>Mon, 30 Mar 2026 03:22:58 GMT</pubDate>
+            <description><![CDATA[36氪获悉，领益智造发布《致股东信》称，2026年，公司将继续深耕智能制造核心赛道，巩固在AI硬件领域的领先优势，加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局，推动新的增长引擎。...]]></description>
+            <content:encoded><![CDATA[36氪获悉，领益智造发布《致股东信》称，2026年，公司将继续深耕智能制造核心赛道，巩固在AI硬件领域的领先优势，加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局，推动新的增长引擎。]]></content:encoded>
         </item>
     </channel>
 </rss>
