@@ -4,18 +4,18 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Tue, 31 Mar 2026 05:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 09:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[瑞银：中国市场调整或已过度，优质AI股票迎来布局窗口]]></title>
-            <link>https://36kr.com/newsflashes/3746413765427973?f=rss</link>
-            <guid>https://36kr.com/newsflashes/3746413765427973?f=rss</guid>
-            <pubDate>Tue, 31 Mar 2026 05:29:09 GMT</pubDate>
-            <description><![CDATA[瑞银财富管理投资总监办公室（CIO）发表机构观点，认为当前中国市场的调整可能已过度，投资者有机会以较低估值增持优质中国AI股票。中国互联网行业目前12个月远期市盈率约为13倍，已接近DeepSeek发布前的水平，当前估值尚未充分反映过去一年AI投资及变现带来的收益。瑞银财富管理预计，MSCI中国指数今年EPS增速约为13%，科技板块盈利增速有望达到20%至25%。并且政策仍然积极支持AI发展和科技...]]></description>
-            <content:encoded><![CDATA[瑞银财富管理投资总监办公室（CIO）发表机构观点，认为当前中国市场的调整可能已过度，投资者有机会以较低估值增持优质中国AI股票。中国互联网行业目前12个月远期市盈率约为13倍，已接近DeepSeek发布前的水平，当前估值尚未充分反映过去一年AI投资及变现带来的收益。瑞银财富管理预计，MSCI中国指数今年EPS增速约为13%，科技板块盈利增速有望达到20%至25%。并且政策仍然积极支持AI发展和科技创新，随着市场情绪及基本面改善，盈利、估值和仓位有望逐步回升。（上证报）]]></content:encoded>
+            <title><![CDATA[Nebius斥资100亿美元在芬兰建设AI数据中心，进一步拓展欧洲市场]]></title>
+            <link>https://36kr.com/newsflashes/3746621848912390?f=rss</link>
+            <guid>https://36kr.com/newsflashes/3746621848912390?f=rss</guid>
+            <pubDate>Tue, 31 Mar 2026 09:00:49 GMT</pubDate>
+            <description><![CDATA[人工智能基础设施企业Nebius集团周二宣布，将在芬兰新建一座310兆瓦的数据中心，持续推进其在欧洲的快速扩张。随着人工智能算力需求不断增长，该数据中心估值超100亿美元，将成为欧洲规模最大的数据中心之一。（新浪财经）...]]></description>
+            <content:encoded><![CDATA[人工智能基础设施企业Nebius集团周二宣布，将在芬兰新建一座310兆瓦的数据中心，持续推进其在欧洲的快速扩张。随着人工智能算力需求不断增长，该数据中心估值超100亿美元，将成为欧洲规模最大的数据中心之一。（新浪财经）]]></content:encoded>
         </item>
     </channel>
 </rss>
