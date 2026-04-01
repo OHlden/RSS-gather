@@ -1,6 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-03-31T20:51:42.615Z",
-  "items": []
+  "updated": "2026-04-01T03:27:52.273Z",
+  "items": [
+    {
+      "title": " 1220亿美元，OpenAI最新一笔融资没骗人 ",
+      "link": "https://www.huxiu.com/article/4847131.html?f=rss",
+      "summary": " <p data-check-id=\"613732\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA3OTMxMDUzOQ==&mid=2653838443&idx=1&sn=9f57934b9aa707fc32bd721d88aca318&ch...",
+      "pubDate": "2026-04-01T03:15:19.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " AI的看图能力，可能是编出来的 ",
+      "link": "https://www.huxiu.com/article/4847123.html?f=rss",
+      "summary": " <p data-check-id=\"316906\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/-dSyl_sqCo2-VW7J9GjDfA\" target=\"_blank\" rel=\"nofollow\" style=\"text-decoration: non...",
+      "pubDate": "2026-04-01T03:08:49.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "远景首发AIDC能源解决方案，已携手腾讯落地全球首个100%绿电直供数据中心",
+      "link": "https://36kr.com/newsflashes/3747679501632258?f=rss",
+      "summary": "36氪获悉，4月1日，远景正式发布AIDC从\"芯\"到“网”多场景能源解决方案，覆盖电网侧、场站侧、负荷侧和控制侧，高效破解AI算力时代数据中心的电力瓶颈。据了解，远景已与腾讯在内蒙古赤峰落地了全球首个100%绿电直供的数据中心，综合能源成本降低超40%，年减少碳排放可达18万吨。...",
+      "pubDate": "2026-04-01T02:56:43.000Z",
+      "source": "36氪"
+    }
+  ]
 }
