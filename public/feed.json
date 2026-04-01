@@ -1,35 +1,6 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-01T05:59:59.341Z",
-  "items": [
-    {
-      "title": "古尔曼称苹果 iOS 27 输入法升级 AI 纠错功能，能根据上下文推荐更贴切词汇",
-      "link": "https://www.ithome.com/0/934/888.htm",
-      "summary": "<p data-vmark=\"a3a1\">IT之家 4 月 1 日消息，彭博社的马克 · 古尔曼昨日（3 月 31 日）发布博文，报道称在 iOS 27 系统中，苹果计划为 iPhone 默认输入法引入全新的 AI 自动纠错功能。</p><p data-vmark=\"74b3\">IT之家援引博文介绍，不同于现有的基础纠错机制，全新 AI 自动纠错不仅会大幅提升打字准确率，还会提供类似 Gramma...",
-      "pubDate": "2026-04-01T05:52:21.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": " 我以为我在跟老板沟通，其实是两个AI 在对话 ",
-      "link": "https://www.huxiu.com/article/4847172.html?f=rss",
-      "summary": " <p data-check-id=\"520374\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651086138&idx=1&sn=56b131c5c0ee93194489540be2c366fd&ch...",
-      "pubDate": "2026-04-01T05:45:00.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " Claude Code“被开源”：一场51万行代码的意外漂流，正在加速AI开发者的竞赛 ",
-      "link": "https://www.huxiu.com/article/4847193.html?f=rss",
-      "summary": " <p data-check-id=\"625880\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkxNzE5NzAwNA==&mid=2247502228&idx=1&sn=883253e9a326a3528cc397b88f924ad4&ch...",
-      "pubDate": "2026-04-01T05:39:58.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
-      "link": "https://36kr.com/p/3747703171383810?f=rss",
-      "summary": "\n \n \n  <p>近日，张雪峰的溘然离世，再次引发大众对“心源性猝死”这一沉重话题的关注。</p>\n  <p>“每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。</p>\n  <p>在临床专家看来，突发的心源性猝...",
-      "pubDate": "2026-04-01T05:26:15.000Z",
-      "source": "36氪"
-    }
-  ]
+  "updated": "2026-04-01T09:16:57.833Z",
+  "items": []
 }
