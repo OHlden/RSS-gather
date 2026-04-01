@@ -1,6 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-01T13:52:28.296Z",
-  "items": []
+  "updated": "2026-04-01T17:04:17.944Z",
+  "items": [
+    {
+      "title": "华硕推出全球首款 USB AI 加速器 UGen300：自带 8GB 内存，40 TOPS 算力即插即用",
+      "link": "https://www.ithome.com/0/935/125.htm",
+      "summary": "<p data-vmark=\"7027\">IT之家 4 月 1 日消息，华硕今日宣布推出 UGen300 USB AI 加速器（同时提供 M.2 版本），这是华硕首款 AI USB 设备，也是全球首款支持经典 AI 和生成式 AI 的 USB 边缘 AI 加速器。</p><p data-vmark=\"269b\" style=\"text-align: center;\"><img src=\"https...",
+      "pubDate": "2026-04-01T15:11:12.000Z",
+      "source": "IT之家"
+    }
+  ]
 }

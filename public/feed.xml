@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Wed, 01 Apr 2026 13:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 17:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[华硕推出全球首款 USB AI 加速器 UGen300：自带 8GB 内存，40 TOPS 算力即插即用]]></title>
+            <link>https://www.ithome.com/0/935/125.htm</link>
+            <guid>https://www.ithome.com/0/935/125.htm</guid>
+            <pubDate>Wed, 01 Apr 2026 15:11:12 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="7027">IT之家 4 月 1 日消息，华硕今日宣布推出 UGen300 USB AI 加速器（同时提供 M.2 版本），这是华硕首款 AI USB 设备，也是全球首款支持经典 AI 和生成式 AI 的 USB 边缘 AI 加速器。</p><p data-vmark="269b" style="text-align: center;"><img src="https...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="7027">IT之家 4 月 1 日消息，华硕今日宣布推出 UGen300 USB AI 加速器（同时提供 M.2 版本），这是华硕首款 AI USB 设备，也是全球首款支持经典 AI 和生成式 AI 的 USB 边缘 AI 加速器。</p><p data-vmark="269b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/44b712ca-73e4-4b6b-9595-fe4699daa15b.jpg?x-bce-process=image/format,f_auto" w="800" h="341" data-weibo="0" data-marks="1931fd9d012eb6d11bac077382c83d7a33d4e74dd75a670c916aac55209cfa1ecb3518bcffd2188eefd2522946ccde22" data-vmark="80b0" class="no-alt-img"></p><p data-vmark="cd10">这款小巧的 AI 加速器尺寸为 105 x 50 x 18 mm，搭载 Hailo-10H AI 处理器，可提供 40 AI TOPS 的专用算力，支持大型语言模型、视觉语言模型等。</p><p data-vmark="e52c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/64c631b6-2050-43f9-9d41-aa0bf237595e.png?x-bce-process=image/format,f_auto" w="1440" h="887" data-weibo="1" data-vmark="73d9" class="no-alt-img"></p><p data-vmark="38e5">UGen300 配备 8GB LPDDR4 专用内存，通过 USB-C 接口连接其他设备，典型工作负载下功耗仅 2.5 瓦。</p><p data-vmark="9208" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/4c4ddc8d-ec2f-4742-9296-2d078769ef39.jpg?x-bce-process=image/format,f_auto" w="692" h="494" data-weibo="2" data-marks="1931fd9d012eb6d18ab14971976b535e5dbb8df44dabddd5d60030407106b97a21319bb2188cab725bfc754ac5377b4b" data-vmark="b88a" class="no-alt-img"></p><p data-vmark="d0db">它采用了 USB 3.1 Gen 2 Type-C 接口，兼容消费级和工业级设备，提供跨平台支持，涵盖 Windows、Linux 和 Android 生态系统，并开箱支持 TensorFlow、PyTorch 和 ONNX 等主流 AI 框架。</p><p data-vmark="a8d3" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/ef1f01be-bf85-489b-ad31-6a0eaa94e843.jpg?x-bce-process=image/format,f_auto" w="800" h="400" data-weibo="3"  data-vmark="4760" class="no-alt-img"></p><p data-vmark="3674">华硕表示，其 Windows 驱动预计将于 2026 年 5 月中旬上线；Android 平台目前面向 B2B 客户开放支持，更广泛的可用性将在后续版本中推出。</p><p data-vmark="59fa" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/0c4ba4ed-8152-4f76-99d0-29c869a36193.png?x-bce-process=image/format,f_auto" w="906" h="1770" data-weibo="4" data-vmark="8880" class="no-alt-img"></p><p data-vmark="abfe">相关阅读：</p><ul class="small-size list-paddingleft-2"><li><p data-vmark="a57a">《<a target="_blank" href="https://www.ithome.com/0/858/273.htm">惠普基于 Hailo-10H 打造 HP AI Accelerator M.2 卡，面向零售与酒店行业</a>》</p></li></ul>]]></content:encoded>
+        </item>
     </channel>
 </rss>
