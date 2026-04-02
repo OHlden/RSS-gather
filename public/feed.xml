@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 02 Apr 2026 02:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 05:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[首例 AI 逼停游戏在线多人模式事件：人工智能不仅抢饭碗、还抢服务器]]></title>
-            <link>https://www.ithome.com/0/935/217.htm</link>
-            <guid>https://www.ithome.com/0/935/217.htm</guid>
-            <pubDate>Thu, 02 Apr 2026 02:51:58 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="1d73">IT之家 4 月 2 日消息，开发商 Frost Giant Studios 于 3 月 31 日在 Discord 上发布公告，宣布受 AI 公司收购案波及，<strong>旗下游戏《风暴之门》（Stormgate）将于 4 月底被迫关闭在线多人模式。</strong></p><p data-vmark="6c71">根据公告内容，《风暴之门》游戏运营服...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="1d73">IT之家 4 月 2 日消息，开发商 Frost Giant Studios 于 3 月 31 日在 Discord 上发布公告，宣布受 AI 公司收购案波及，<strong>旗下游戏《风暴之门》（Stormgate）将于 4 月底被迫关闭在线多人模式。</strong></p><p data-vmark="6c71">根据公告内容，《风暴之门》游戏运营服务器托管在 Hathora 平台上，而后者已被人工智能公司 Fireworks AI 收购，导致开发商被迫放弃在线多人游戏模式。IT之家附上相关公告如下：</p><p style="text-align: center;" data-vmark="467e"><img src="https://img.ithome.com/newsuploadfiles/2026/4/df49d2e6-a9d9-438c-b08e-8d2b020b550e.jpg?x-bce-process=image/format,f_auto" w="1431" h="973" data-weibo="0" data-mpos="2,2"  data-vmark="0da0" class="no-alt-img"></p><p data-vmark="346f">开发团队在官方社群中向玩家确认，在本次收购后，Hathora 的服务器资源被重新调配，倾斜向 Fireworks 的 AI 业务需求。官方为应对此次“断网”危机，承诺将紧急发布更新补丁，确保游戏能够离线运行，但在此期间线上对战功能将全面停摆。</p><p data-vmark="6a21">开发团队目前正在寻找新的服务器托管伙伴，希望能在未来更新中恢复线上模式。科技媒体 Wccftech 指出，这一突发事件打破了行业先例：在此之前，生成式 AI（GenAI）主要引发的是游戏从业者对岗位被取代的担忧，<strong>而此次则是 AI 产业首次直接“夺走”玩家的游戏体验。</strong></p><p style="text-align: center;" data-vmark="2850"><img src="https://img.ithome.com/newsuploadfiles/2026/4/8cf9bb16-92f3-4e78-b032-049ed191dbac.png?x-bce-process=image/format,f_auto" w="978" h="403" data-weibo="1" data-vmark="dc5d" class="no-alt-img"></p><p data-vmark="e38b">据行业媒体透露，Hathora 同时也是《分裂之门 2》（Splitgate 2）和《先驱者》（Predecessor）等游戏的服务商，这些多人游戏同样面临底层服务器被 AI 业务挤占的潜在风险。</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[国家药监局：到2030年初步构建药品监管与人工智能融合创新体系]]></title>
-            <link>https://36kr.com/newsflashes/3749088355566089?f=rss</link>
-            <guid>https://36kr.com/newsflashes/3749088355566089?f=rss</guid>
-            <pubDate>Thu, 02 Apr 2026 02:49:53 GMT</pubDate>
-            <description><![CDATA[36氪获悉，4月2日，国家药监局发布《关于“人工智能+药品监管”的实施意见》。《意见》提出，到2030年，初步构建药品监管与人工智能融合创新体系，“人工智能+药品监管”运行管理机制基本形成，算力支撑底座更加集约高效，形成满足监管智能化需要的高质量数据集、垂直大模型和智能体，人工智能在审评审批、监督检查、检验监测、政务服务等场景中有效应用，人机协同效率显著提升，全生命周期数智化监管能力迈上新台阶。到...]]></description>
-            <content:encoded><![CDATA[36氪获悉，4月2日，国家药监局发布《关于“人工智能+药品监管”的实施意见》。《意见》提出，到2030年，初步构建药品监管与人工智能融合创新体系，“人工智能+药品监管”运行管理机制基本形成，算力支撑底座更加集约高效，形成满足监管智能化需要的高质量数据集、垂直大模型和智能体，人工智能在审评审批、监督检查、检验监测、政务服务等场景中有效应用，人机协同效率显著提升，全生命周期数智化监管能力迈上新台阶。到2035年，基本形成数智驱动、智能敏捷、自主可控、生态协同的智慧化药品安全治理新格局。]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[英特尔晒 Arc Pro B70 显卡成绩，AI 推理性能较 B60 飙升 80%]]></title>
-            <link>https://www.ithome.com/0/935/204.htm</link>
-            <guid>https://www.ithome.com/0/935/204.htm</guid>
-            <pubDate>Thu, 02 Apr 2026 02:36:57 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="0241">IT之家 4 月 2 日消息，科技媒体 Wccftech 昨日（4 月 1 日）发布博文，报道称基于英特尔发布的 MLPerf v6.0 基准测试结果，<strong>在 AI 推理性能方面，全新 Arc Pro B70 显卡较上代 B60 飙升 80%。</strong></p><p data-vmark="039c">本次核心测试平台采用四卡并联方案，...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="0241">IT之家 4 月 2 日消息，科技媒体 Wccftech 昨日（4 月 1 日）发布博文，报道称基于英特尔发布的 MLPerf v6.0 基准测试结果，<strong>在 AI 推理性能方面，全新 Arc Pro B70 显卡较上代 B60 飙升 80%。</strong></p><p data-vmark="039c">本次核心测试平台采用四卡并联方案，搭载四张 Arc Pro B70 显卡（总显存达 128GB）与最新至强 6 处理器，能轻松驾驭 1200 亿参数的大型语言模型。与竞品相比，B70 在多卡协同运行时，最多可提供 1.6 倍的 KV 缓存容量，极大地提升了长文本处理能力。</p><p data-vmark="eed0">IT之家附上相关测试结果如下：</p><p data-vmark="8cd9">英特尔 MLPerf v6.0 GPT-OSS-120B 推理基准测试：</p><table><tbody><tr class="firstRow"><th>GPU Config</th><th>Offline (Tokens/s)</th><th>Server (Tokens/s)</th></tr><tr><td>4 x Arc Pro B70 (128 GB)</td><td>1536.90</td><td>951.67</td></tr><tr><td>4 x Arc Pro B60 Dual (192 GB)</td><td>1601.91</td><td>884.24</td></tr><tr><td>4 x Arc Pro B60 (96 GB)</td><td>841.04</td><td>452.19</td></tr></tbody></table><p data-vmark="b800">英特尔 MLPerf v6.0 llama2-70b-99 推理基准测试：</p><table><tbody><tr class="firstRow"><th>GPU Config</th><th>Offline (Tokens/s)</th><th>Server (Tokens/s)</th></tr><tr><td>4 x Arc Pro B70 (128 GB)</td><td>2459.18</td><td>1698.57</td></tr><tr><td>4 x Arc Pro B60 Dual (192 GB)</td><td>3270.66</td><td>2199.50</td></tr><tr><td>4 x Arc Pro B60 (96 GB)</td><td>1697.66</td><td>1106.26</td></tr></tbody></table><p data-vmark="55b5">英特尔 MLPerf v6.0 llama3.1 8b 推理基准测试：</p><table><tbody><tr class="firstRow"><th>GPU Config</th><th>Offline (Tokens/s)</th><th>Server (Tokens/s)</th></tr><tr><td>4 x Arc Pro B60 Dual (192 GB)</td><td>52.83</td><td>49.17</td></tr><tr><td>4 x Arc Pro B70 (128 GB)</td><td>36.07</td><td>32.58</td></tr><tr><td>4 x Arc Pro B60 (96 GB)</td><td>26.15</td><td>24.57</td></tr><tr><td>4 x Arc Pro B50 (64 GB)</td><td>13.45</td><td>9.27</td></tr><tr><td>2 x Xeon 6 (128 Cores)</td><td>9.61</td><td>3.68</td></tr></tbody></table><p style="text-align: center;" data-vmark="4e74"><img src="https://img.ithome.com/newsuploadfiles/2026/4/68ac963e-9462-4986-92aa-3aeeec244ba4.png?x-bce-process=image/format,f_auto" w="1024" h="576" data-weibo="0" data-vmark="5193" class="no-alt-img"></p><p data-vmark="d5eb">该媒体指出提升 AI 推理效率的关键，不仅看显卡，处理器同样是核心枢纽。至强 6 处理器凭借内置的 AMX 和 AVX-512 加速引擎，实现最高 90% 的代际性能飞跃。</p><p data-vmark="ada1">除硬件迭代外，英特尔持续深耕 AI 软件栈优化。测试数据显示，现有 Arc Pro B60 显卡用户无需更换硬件，仅通过软件升级即可直接获得 18% 的性能提升。</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
