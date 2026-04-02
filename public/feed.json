@@ -1,6 +1,35 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-02T05:44:46.230Z",
-  "items": []
+  "updated": "2026-04-02T09:08:29.991Z",
+  "items": [
+    {
+      "title": "AI 换脸合成、声纹克隆复刻等侵权行为频发，中国广电联合会演员委员会发布严正声明",
+      "link": "https://www.ithome.com/0/935/405.htm",
+      "summary": "<p data-vmark=\"f3b9\">IT之家 4 月 2 日消息，当前，<strong>AI 换脸合成、声纹克隆复刻、影视素材任意篡改、魔改、擅自抓取演员影像声频用于 AI 模型训练等侵权行为频发</strong>，严重侵害演艺从业人员合法权益，扰乱视听行业正常秩序。</p><p data-vmark=\"7e8d\">为规范行业发展、严守法律底线、强化权益保护，中国广播电视社会组织联合会演员委...",
+      "pubDate": "2026-04-02T09:04:28.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " AI未来五年发展路径 ",
+      "link": "https://www.huxiu.com/article/4847573.html?f=rss",
+      "summary": " <p data-check-id=\"318045\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5Njk2Mzg0MQ==&mid=2651080089&idx=1&sn=abaaa681c1a8bc87979e1007b95fbbe0&ch...",
+      "pubDate": "2026-04-02T09:02:57.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "调查显示：英国学生过于依赖 AI，导致思维能力逐步下降",
+      "link": "https://www.ithome.com/0/935/394.htm",
+      "summary": "<p data-vmark=\"f6ff\">IT之家 4 月 2 日消息，据《卫报》今天报道，英国全国教育工会（IT之家注：NEU）最近发起调查，向 9000 名公立学校教育工作者询问 AI 是否影响日常工作。其中三分之二教师表示，他们认为现在的学生过于依赖 AI，导致思维能力逐步下降。</p><p style=\"text-align: center;\" data-vmark=\"35f9\"><img...",
+      "pubDate": "2026-04-02T08:55:46.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " AI短剧冲击：横店西安多地剧组解散，中腰部演员片酬腰斩 ",
+      "link": "https://www.huxiu.com/article/4847569.html?f=rss",
+      "summary": " <p data-check-id=\"288407\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5NzUyODA5OA==&mid=2247508709&idx=1&sn=a30917e76e3b50d355a5f0485e0bcfd9&ch...",
+      "pubDate": "2026-04-02T08:49:32.000Z",
+      "source": " 虎嗅 "
+    }
+  ]
 }
