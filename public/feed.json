@@ -1,21 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-03T02:55:19.948Z",
+  "updated": "2026-04-03T05:45:02.135Z",
   "items": [
     {
-      "title": "微软推出全球最精准转录 AI 模型 MAI-Transcribe-1，平均字错误率 3.9%",
-      "link": "https://www.ithome.com/0/935/617.htm",
-      "summary": "<p data-vmark=\"38b6\">IT之家 4 月 3 日消息，微软昨日（4 月 2 日）发布公告，持续扩充自研 AI 模型版图，继 MAI-Voice-1 和 MAI-Image-2 之后，推出第三款自研模型 MAI-Transcribe-1，<strong>以 3.9% 的字错误率号称全球最精准转录模型。</strong></p><p style=\"text-align: center...",
-      "pubDate": "2026-04-03T02:46:37.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "微软计划未来四年在日本投资100亿美元，与日企合作开发AI基础设施",
-      "link": "https://36kr.com/newsflashes/3750485448704777?f=rss",
-      "summary": "微软当地时间4月2日宣布，计划未来四年在日本投资100亿美元，将与Sakura Internet和软银公司合作开发人工智能基础设施。（界面）...",
-      "pubDate": "2026-04-03T02:31:05.000Z",
-      "source": "36氪"
+      "title": " AI时代的省钱哲学：如何把每一个Token花在刀刃上 ",
+      "link": "https://www.huxiu.com/article/4847757.html?f=rss",
+      "summary": " <p data-check-id=\"768732\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyMTczNjE3Nw==&mid=2247489041&idx=1&sn=f32111f16854d9f46561f27c4b3b33a8&ch...",
+      "pubDate": "2026-04-03T05:00:00.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
