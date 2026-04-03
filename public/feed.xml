@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 02 Apr 2026 20:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 02:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[微软推出全球最精准转录 AI 模型 MAI-Transcribe-1，平均字错误率 3.9%]]></title>
+            <link>https://www.ithome.com/0/935/617.htm</link>
+            <guid>https://www.ithome.com/0/935/617.htm</guid>
+            <pubDate>Fri, 03 Apr 2026 02:46:37 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="38b6">IT之家 4 月 3 日消息，微软昨日（4 月 2 日）发布公告，持续扩充自研 AI 模型版图，继 MAI-Voice-1 和 MAI-Image-2 之后，推出第三款自研模型 MAI-Transcribe-1，<strong>以 3.9% 的字错误率号称全球最精准转录模型。</strong></p><p style="text-align: center...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="38b6">IT之家 4 月 3 日消息，微软昨日（4 月 2 日）发布公告，持续扩充自研 AI 模型版图，继 MAI-Voice-1 和 MAI-Image-2 之后，推出第三款自研模型 MAI-Transcribe-1，<strong>以 3.9% 的字错误率号称全球最精准转录模型。</strong></p><p style="text-align: center;" data-vmark="651b"><a class="ithome_super_player" contenteditable="false" target="_blank" href="https://weibo.com/tv/show/1034:5283565643169794?mid=5283565908791046"><img src="https://img.ithome.com/newsuploadfiles/2026/4/9800890d-a3da-4347-ad06-68895d8026c6.jpg?x-bce-process=image/format,f_auto" w="1440" h="810" data-weibo="0"></a></p><p data-vmark="8b42">在行业公认的 FLEURS 基准测试（涵盖中文、英文、法语等全球 25 种主要语言）中，MAI-Transcribe-1 模型平均字错误率仅为 3.9%，<strong>宣称这是目前全球最精准的转录模型。</strong></p><p style="text-align: center;" data-vmark="3009"><img src="https://img.ithome.com/newsuploadfiles/2026/4/fc3e7ca6-495c-451c-90c9-e1e6208f17df.jpg?x-bce-process=image/format,f_auto" w="1440" h="533" data-weibo="1" data-mpos="2,0" data-marks="1931fd9d012eb6d1dd22f7f5594a4813b91acc537a9e0febdd1c2be4421a748c2c808df7298a157f2d87ba107a8df575" data-vmark="fcc7" class="no-alt-img"></p><p style="text-align: center;" data-vmark="f5f8"><img src="https://img.ithome.com/newsuploadfiles/2026/4/d82b022e-2dbe-4ad3-aa60-8772d04bcbb8.jpg?x-bce-process=image/format,f_auto" w="1440" h="726" data-weibo="2" data-mpos="2,2"  data-vmark="2a2b" class="no-alt-img"></p><p data-vmark="1590">在 11 种核心语言上，该模型直接登顶榜首；在其余 14 种语言对比中，它击败了 OpenAI 的 Whisper-large-v3，并在其中 11 种语言上超越了谷歌最新发布的 Gemini 3.1 Flash。微软强调该模型能在所有支持语言间保持一致的高准确度，适用于多样化的语音转文字场景。</p><p data-vmark="4b56">除了精准外，微软 MAI-Transcribe-1 模型的另外两大优势是速度与成本。在转录速度上，该模型批量转录速度达到现有 Microsoft Azure Fast 服务的 2.5 倍；在成本定价方面，该模型每小时仅需 0.36 美元，微软称在大型云厂商中，该模型性价比最优。</p><p data-vmark="d663">该模型目前已在 Microsoft Foundry 平台开放使用。值得注意的是，首发版本暂不支持实时转录、说话人分离和偏见调整功能，但微软计划在后续更新中提供这些能力。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[微软计划未来四年在日本投资100亿美元，与日企合作开发AI基础设施]]></title>
+            <link>https://36kr.com/newsflashes/3750485448704777?f=rss</link>
+            <guid>https://36kr.com/newsflashes/3750485448704777?f=rss</guid>
+            <pubDate>Fri, 03 Apr 2026 02:31:05 GMT</pubDate>
+            <description><![CDATA[微软当地时间4月2日宣布，计划未来四年在日本投资100亿美元，将与Sakura Internet和软银公司合作开发人工智能基础设施。（界面）...]]></description>
+            <content:encoded><![CDATA[微软当地时间4月2日宣布，计划未来四年在日本投资100亿美元，将与Sakura Internet和软银公司合作开发人工智能基础设施。（界面）]]></content:encoded>
+        </item>
     </channel>
 </rss>
