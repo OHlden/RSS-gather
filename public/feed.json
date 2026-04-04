@@ -1,6 +1,35 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-04T02:46:03.607Z",
-  "items": []
+  "updated": "2026-04-04T05:24:05.891Z",
+  "items": [
+    {
+      "title": " 巨无霸企业会“死于”AI时代吗 ",
+      "link": "https://www.huxiu.com/article/4848112.html?f=rss",
+      "summary": " <p data-check-id=\"364437\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670377482&idx=3&sn=1176aaa236bdfd05e6ac8c6a546b3880&ch...",
+      "pubDate": "2026-04-04T05:15:19.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "Claude 卸磨杀虾！开发者一夜工作流全断，OpenAI 躺赚用户",
+      "link": "https://www.ithome.com/0/935/972.htm",
+      "summary": "<p data-vmark=\"3f01\" style=\"text-align: left;\">糟了的，龙虾也进了 Claude 的斩杀线。</p><p data-vmark=\"8d00\" style=\"text-align: left;\">昨晚，不少用户收到了一封来自 A 社的邮件。官方直接宣布，像 Claude Pro 这种按月交钱的订阅，以后只能用在 Anthropic 自家的产品上。</p>...",
+      "pubDate": "2026-04-04T05:14:43.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 5小时众筹破百万美金，Tiiny AI为什么能卖爆 ",
+      "link": "https://www.huxiu.com/article/4848076.html?f=rss",
+      "summary": " <p data-check-id=\"124347\"><span class=\"text-remarks\" label=\"备注\">出品｜虎嗅科技组</span></p><p data-check-id=\"822021\"><span class=\"text-remarks\" label=\"备注\">作者｜韦雯</span></p><p data-check-id=\"965177\"><span clas...",
+      "pubDate": "2026-04-04T05:07:32.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "1.4 万亿词元！阿里 Qwen3.6-Plus 刷新全球最大 AI 聚合平台 OpenRouter 日调用量纪录",
+      "link": "https://www.ithome.com/0/935/963.htm",
+      "summary": "<p data-vmark=\"fda6\">IT之家 4 月 4 日消息，OpenRouter 今天（4 月 4 日）通过官方 X 账号发布推文，称阿里千问新模型 Qwen3.6-Plus 发布仅 1 天，<strong>日调用量突破 1.4 万亿词元（Token），打破了该平台单日单模型调用量的全球纪录。</strong></p><p style=\"text-align: center;\" dat...",
+      "pubDate": "2026-04-04T04:32:43.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
