@@ -1,21 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-07T05:50:06.976Z",
+  "updated": "2026-04-07T09:13:10.144Z",
   "items": [
     {
-      "title": "日本团队训练大鼠神经元，可实时执行 AI 计算任务",
-      "link": "https://www.ithome.com/0/936/502.htm",
-      "summary": "<p data-vmark=\"1af8\">IT之家 4 月 7 日消息，科技媒体 Tom's Hardware 于 4 月 5 日发布博文，报道称日本科学家成功训练大鼠皮层神经元，<strong>利用实时机器学习框架自主生成复杂时序信号。</strong></p><p data-vmark=\"88fe\">日本东北大学与未来大学研究团队集成活体神经元与高密度微电极阵列及微流控设备，构建了“闭环储备池...",
-      "pubDate": "2026-04-07T05:44:04.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": " 纽约客惊爆OpenAI 大瓜：山姆·奥特曼是个“反社会骗子” ",
-      "link": "https://www.huxiu.com/article/4848500.html?f=rss",
-      "summary": " <p data-check-id=\"845034\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652449411&idx=1&sn=304cd290b39c8891f5bd441e50b774ae&ch...",
-      "pubDate": "2026-04-07T05:40:00.000Z",
-      "source": " 虎嗅 "
+      "title": "贝索斯新实验室或将从OpenAI挖来xAI联合创始人",
+      "link": "https://36kr.com/newsflashes/3756537435111941?f=rss",
+      "summary": "据报道，贝索斯旗下的一家公司从OpenAI挖走了一名xAI联合创始人。凯尔·科西奇（Kyle Kosic）已加入贝索斯成立的人工智能新公司“普罗米修斯计划”。科西奇是与马斯克共同创立xAI的联合创始人之一。在2024年回到老东家OpenAI之前，他曾负责xAI的Colossus超级计算机背后的基础设施团队。科西奇在“普罗米修斯”将继续从事AI基础设施项目。（财联社）...",
+      "pubDate": "2026-04-07T09:07:29.000Z",
+      "source": "36氪"
     }
   ]
 }
