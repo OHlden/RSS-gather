@@ -4,26 +4,18 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Wed, 08 Apr 2026 09:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 13:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[阿里宣布AI相关组织调整，升级通义大模型事业部]]></title>
-            <link>https://36kr.com/newsflashes/3757942446277121?f=rss</link>
-            <guid>https://36kr.com/newsflashes/3757942446277121?f=rss</guid>
-            <pubDate>Wed, 08 Apr 2026 08:56:44 GMT</pubDate>
-            <description><![CDATA[36氪获悉，4月8日，阿里巴巴集团CEO吴泳铭发布内部信，宣布AI相关组织调整，包括新设立集团技术委员会，升级通义大模型事业部，加速AI建设。根据内部信，最重要的两个调整包括：第一，成立阿里巴巴集团技术委员会，由吴泳铭担任组长，成员包括周靖人、吴泽明、李飞飞；第二，将通义实验室升级为通义大模型事业部。...]]></description>
-            <content:encoded><![CDATA[36氪获悉，4月8日，阿里巴巴集团CEO吴泳铭发布内部信，宣布AI相关组织调整，包括新设立集团技术委员会，升级通义大模型事业部，加速AI建设。根据内部信，最重要的两个调整包括：第一，成立阿里巴巴集团技术委员会，由吴泳铭担任组长，成员包括周靖人、吴泽明、李飞飞；第二，将通义实验室升级为通义大模型事业部。]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴新设集团技术委员会：升级通义大模型事业部，李飞飞出任阿里云 CTO]]></title>
-            <link>https://www.ithome.com/0/937/080.htm</link>
-            <guid>https://www.ithome.com/0/937/080.htm</guid>
-            <pubDate>Wed, 08 Apr 2026 08:51:56 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="657c">4 月 8 日下午消息，阿里巴巴集团 CEO 吴泳铭发布内部信，宣布 AI 相关组织调整，包括新设立集团技术委员会，升级通义大模型事业部，加速 AI 建设。</p><p data-vmark="0452">根据内部信，阿里巴巴在集团层面设立技术委员会，由吴泳铭担任组长，成员包括周靖人、吴泽明、李飞飞。其中，周靖人担任技术委员会首席 AI 架构师，李飞飞负责...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="657c">4 月 8 日下午消息，阿里巴巴集团 CEO 吴泳铭发布内部信，宣布 AI 相关组织调整，包括新设立集团技术委员会，升级通义大模型事业部，加速 AI 建设。</p><p data-vmark="0452">根据内部信，阿里巴巴在集团层面设立技术委员会，由吴泳铭担任组长，成员包括周靖人、吴泽明、李飞飞。其中，周靖人担任技术委员会首席 AI 架构师，李飞飞负责阿里云技术以及 AI 云基础设施建设，吴泽明负责集团业务技术平台以及 AI 推理平台建设。</p><p data-vmark="90f9">围绕加速 AI 建设的整体目标，阿里还将通义实验室升级为通义大模型事业部，由周靖人负责；李飞飞出任阿里云 CTO；吴泽明专注阿里巴巴集团 CTO 工作，淘宝闪购 CEO 职务由雷雁群接任。</p><p data-vmark="f7e6">2026 年是阿里 AI 加速发展的关键一年。从成立以“创造 Token、输送 Token、应用 Token”为核心目标的 ATH 事业群，到最新模型 Qwen 3.6 Plus 问鼎 OpenRouter 全球大模型周调用量冠军，近期阿里在 AI 领域的新动作不断。本次调整意味着聚合优势力量和资源，投入最关键战场，表明阿里已进入 AI 全面加速期。</p><p data-vmark="f74b"><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p data-vmark="fbb1">《<a target="_blank" href="https://www.ithome.com/0/929/639.htm">阿里巴巴成立 Alibaba Token Hub 事业群：吴泳铭亲自挂帅，统筹 AI 研发、应用与变现</a>》</p></li></ul>]]></content:encoded>
+            <title><![CDATA[利用 AI“洗稿”编造车企谣言 70 余万篇，两人非法获利 8 万余元被刑拘]]></title>
+            <link>https://www.ithome.com/0/937/174.htm</link>
+            <guid>https://www.ithome.com/0/937/174.htm</guid>
+            <pubDate>Wed, 08 Apr 2026 13:29:30 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="3126">IT之家 4 月 8 日消息，据央视今日报道，上海警方近日公布多起利用人工智能工具编造谣言、非法获利的典型案例。</p><p data-vmark="0416">其中，两名不法分子通过 AI“洗稿”批量发布针对多家车企的虚假文章，累计发布 70 余万篇次，非法获利 8 万余元，目前因涉嫌非法经营罪被依法刑事拘留。另一起案件中，某微信公众号编造与三甲医院合作...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="3126">IT之家 4 月 8 日消息，据央视今日报道，上海警方近日公布多起利用人工智能工具编造谣言、非法获利的典型案例。</p><p data-vmark="0416">其中，两名不法分子通过 AI“洗稿”批量发布针对多家车企的虚假文章，累计发布 70 余万篇次，非法获利 8 万余元，目前因涉嫌非法经营罪被依法刑事拘留。另一起案件中，某微信公众号编造与三甲医院合作开展干细胞治疗肾病的不实信息，两名运营人员被处以行政处罚；此外，一名网民故意裁切 AI 生成视频中的“技术生成”水印标签，制造外卖骑手负面假象，已被行政拘留。</p><p style="text-align: center;" data-vmark="0280"><img src="https://img.ithome.com/newsuploadfiles/2026/4/2a3540f7-7330-4600-a400-a4aeed47d40a.jpg?x-bce-process=image/format,f_auto" w="1175" h="661" data-weibo="0" data-vmark="1e14" class="no-alt-img"></p><p data-vmark="12f3">今年 3 月初，上海黄浦警方接到一家三甲医院报警，称名为“医学科学院细胞中心”的微信公众号发布多篇不实文章。文章声称该中心与医院合作，可通过干细胞治疗肾脏病，并罗列了所谓联合研究数据和患者康复案例。经医院核实，干细胞目前并未被批准用于肾脏病临床治疗，文章内提到的合作、数据及患者案例均为杜撰。警方调查发现，该公众号为某自媒体运营公司今年 2 月新注册，以医疗科普为名，实际目的是为线下的医疗机构引流，招揽病人后按比例分成。文章由工作人员陈某利用 AI 工具，通过词库和关键词直接生成，其本人没有医疗背景，无法识别内容真伪。团队运营主管蔡某同样缺乏医学知识，在未核实的情况下放任发布。目前，陈某、蔡某已被警方依法处以行政处罚。</p><p style="text-align: center;" data-vmark="e5b4"><img src="https://img.ithome.com/newsuploadfiles/2026/4/88368c43-069d-411e-bf13-f29f428ef113.jpg?x-bce-process=image/format,f_auto" w="1280" h="661" data-weibo="1" data-vmark="0713" class="no-alt-img"></p><p data-vmark="90a9">另一起案件中，一段外卖员将撒落在外卖箱里的面条重新装盒配送的短视频今年 2 月起在网上传播，引发大量指责。经上海青浦警方调查，该视频完全由 AI 生成，原作者在原始视频下方已标注“AI 技术生成”字样。网民刘某某下载该视频后，故意裁切掉水印标签重新发布，以博取眼球。此后，网民高某某、武某某为吸引关注，在评论区发布“我就这样干过”“哪个外卖员没干过”等不实信息。目前，刘某某已被警方依法行政拘留，高某某、武某某被处以罚款。</p><p style="text-align: center;" data-vmark="e4fe"><img src="https://img.ithome.com/newsuploadfiles/2026/4/64f627db-f728-4510-bb67-06c69945e95c.jpg?x-bce-process=image/format,f_auto" w="1280" h="661" data-weibo="2" data-vmark="ed61" class="no-alt-img"></p><p data-vmark="1cfd">在多起涉企谣言案件中，今年 2 月，多家车企向上海警方反映长期遭受网络不实信息侵扰。相关文章捏造企业经营状况、新能源电池风险、交通事故伤亡等内容，并散布销量下滑、亏损扩大、员工福利降低等消息，配上“腰斩”“信任崩塌”“窟窿 50 亿”等耸人听闻的词汇。上海嘉定警方调查发现，这些集中发布虚假信息的账号实际运营者仅梁某、郭某两人。两人于今年 3 月被抓获归案，交代为博取眼球和获取平台奖励，配合搜集车企争议话题，再利用 AI 工具“洗稿”，将细节歪曲或删减后杜撰成不实文章。例如将因撞击导致电池泄漏起火的事件，编造为车辆正常行驶中突然起火。两人通过非法渠道获取约 4000 个网络平台账号，利用新注册用户可获得平台原创奖励的机制，在平台监管较弱的凌晨 1 点至 6 点批量发布谣言。截至案发，累计发布不实文章 70 余万篇次，非法获利 8 万余元。目前，两人因涉嫌非法经营罪被依法采取刑事强制措施。</p><p style="text-align: center;" data-vmark="b3b9"><img src="https://img.ithome.com/newsuploadfiles/2026/4/86710328-40d9-435c-9d88-0c2b366c032e.jpg?x-bce-process=image/format,f_auto" w="1280" h="659" data-weibo="3" data-vmark="553d" class="no-alt-img"></p><p data-vmark="72cc">警方指出，根据相关司法解释，以营利为目的，明知是虚假信息仍通过信息网络有偿提供发布信息服务，扰乱市场秩序，个人非法经营数额达 5 万元以上或违法所得 2 万元以上即达到入刑标准。当前，上海警方已要求案件中涉及的平台方关停相关账号、下架不实信息，并会同网信部门敦促平台企业切实履行用户发布内容的审核义务。</p><p style="text-align: center;" data-vmark="29fd"><img src="https://img.ithome.com/newsuploadfiles/2026/4/3f198194-4c1d-47b3-ba51-5fea974e11a8.jpg?x-bce-process=image/format,f_auto" w="1280" h="661" data-weibo="4" data-vmark="2781" class="no-alt-img"></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
