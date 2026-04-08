@@ -1,21 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-08T05:50:52.499Z",
+  "updated": "2026-04-08T09:12:23.372Z",
   "items": [
     {
-      "title": "马斯克：SpaceXAI的Colossus 2目前有6个模型正在训练中",
-      "link": "https://36kr.com/newsflashes/3757753366331907?f=rss",
-      "summary": "马斯克表示，SpaceXAI的Colossus 2目前有6个模型正在训练中。（财联社）...",
-      "pubDate": "2026-04-08T05:44:23.000Z",
+      "title": "阿里宣布AI相关组织调整，升级通义大模型事业部",
+      "link": "https://36kr.com/newsflashes/3757942446277121?f=rss",
+      "summary": "36氪获悉，4月8日，阿里巴巴集团CEO吴泳铭发布内部信，宣布AI相关组织调整，包括新设立集团技术委员会，升级通义大模型事业部，加速AI建设。根据内部信，最重要的两个调整包括：第一，成立阿里巴巴集团技术委员会，由吴泳铭担任组长，成员包括周靖人、吴泽明、李飞飞；第二，将通义实验室升级为通义大模型事业部。...",
+      "pubDate": "2026-04-08T08:56:44.000Z",
       "source": "36氪"
     },
     {
-      "title": " 美国智库：AI泡沫正在酝酿复合型经济危机 ",
-      "link": "https://www.huxiu.com/article/4848799.html?f=rss",
-      "summary": " <p data-check-id=\"702221\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4Njc3NTI4Mw==&mid=2651961320&idx=1&sn=b29f464d59786fbd76dd3dffde4c1c26&ch...",
-      "pubDate": "2026-04-08T05:26:23.000Z",
-      "source": " 虎嗅 "
+      "title": "阿里巴巴新设集团技术委员会：升级通义大模型事业部，李飞飞出任阿里云 CTO",
+      "link": "https://www.ithome.com/0/937/080.htm",
+      "summary": "<p data-vmark=\"657c\">4 月 8 日下午消息，阿里巴巴集团 CEO 吴泳铭发布内部信，宣布 AI 相关组织调整，包括新设立集团技术委员会，升级通义大模型事业部，加速 AI 建设。</p><p data-vmark=\"0452\">根据内部信，阿里巴巴在集团层面设立技术委员会，由吴泳铭担任组长，成员包括周靖人、吴泽明、李飞飞。其中，周靖人担任技术委员会首席 AI 架构师，李飞飞负责...",
+      "pubDate": "2026-04-08T08:51:56.000Z",
+      "source": "IT之家"
     }
   ]
 }
