@@ -1,13 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-08T03:18:17.141Z",
+  "updated": "2026-04-08T05:50:52.499Z",
   "items": [
     {
-      "title": " 买不起iPhone的人，正在为AI买单 ",
-      "link": "https://www.huxiu.com/article/4848478.html?f=rss",
-      "summary": " <p data-check-id=\"792701\">国产安卓低端手机集体涨价，动辄300~800元，涨幅20%以上，买不起iPhone的人，可能要先为AI技术买单了。</p> ...",
-      "pubDate": "2026-04-08T03:00:00.000Z",
+      "title": "马斯克：SpaceXAI的Colossus 2目前有6个模型正在训练中",
+      "link": "https://36kr.com/newsflashes/3757753366331907?f=rss",
+      "summary": "马斯克表示，SpaceXAI的Colossus 2目前有6个模型正在训练中。（财联社）...",
+      "pubDate": "2026-04-08T05:44:23.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": " 美国智库：AI泡沫正在酝酿复合型经济危机 ",
+      "link": "https://www.huxiu.com/article/4848799.html?f=rss",
+      "summary": " <p data-check-id=\"702221\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4Njc3NTI4Mw==&mid=2651961320&idx=1&sn=b29f464d59786fbd76dd3dffde4c1c26&ch...",
+      "pubDate": "2026-04-08T05:26:23.000Z",
       "source": " 虎嗅 "
     }
   ]
