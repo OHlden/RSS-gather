@@ -1,21 +1,42 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-09T05:52:31.592Z",
+  "updated": "2026-04-09T09:18:12.238Z",
   "items": [
     {
-      "title": " 软件公司，究竟能不能从AI编码中获益？ ",
-      "link": "https://www.huxiu.com/article/4849118.html?f=rss",
-      "summary": " <p data-check-id=\"163682\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU2ODcxNTMzNQ==&mid=2247492167&idx=1&sn=a0b1d3b2c76b20b937dd7bb239389fa9&ch...",
-      "pubDate": "2026-04-09T05:11:08.000Z",
-      "source": " 虎嗅 "
+      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
+      "link": "https://36kr.com/p/3759372854706953?f=rss",
+      "summary": "\n \n \n  <p>作者｜任彩茹</p>\n  <p>编辑｜乔芊</p>\n  <p>并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。</p>\n  <p>为什么是浏览器？大公司在AI领域争展锋芒，行业如今的热词是“虾”、“Agent”、“T...",
+      "pubDate": "2026-04-09T09:15:38.000Z",
+      "source": "36氪"
     },
     {
-      "title": "阿里百度之后，腾讯云宣布 AI 算力、容器服务、EMR 相关产品涨价 5%",
-      "link": "https://www.ithome.com/0/937/363.htm",
-      "summary": "<p data-vmark=\"f4ef\">IT之家 4 月 9 日消息，腾讯云今日（4 月 9 日）发布 AI 算力、容器服务、EMR 相关产品价格调整公告。</p><p data-vmark=\"64f9\">鉴于全球 AI 算力需求持续激增，核心硬件供应链成本大幅上涨，为保障服务质量及算力资源的持续供给，<strong>腾讯云将于 2026 年 5 月 9 日起</strong>，对 AI 算力、...",
-      "pubDate": "2026-04-09T05:01:21.000Z",
+      "title": "英伟达收购告吹后，Nebius正洽谈收购以色列人工智能初创公司AI21",
+      "link": "https://36kr.com/newsflashes/3759373788988160?f=rss",
+      "summary": "知情人士透露，由英伟达支持、市值达320亿美元的云服务提供商Nebius，正就收购以色列人工智能初创公司AI21 Labs展开谈判。这笔潜在交易将帮助总部位于阿姆斯特丹的Nebius，在其核心的服务器租赁业务之外，为客户拓展人工智能服务。AI21主要研发大语言模型及企业智能代理系统。这家以色列初创公司上一轮估值在2023年达到14亿美元；部分知情人士称，该公司去年曾与英伟达洽谈出售事宜，但最终交易...",
+      "pubDate": "2026-04-09T09:12:46.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "报道称OpenAI因安全风险采取了分阶段推出新模型的策略",
+      "link": "https://36kr.com/newsflashes/3759370763043329?f=rss",
+      "summary": "据报道，OpenAI因安全风险采取了分阶段推出新模型的策略。（财联社）...",
+      "pubDate": "2026-04-09T09:09:41.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "比亚迪腾势 D9 汽车全量推送天神之眼 5.0，新增强化学习端到端大模型",
+      "link": "https://www.ithome.com/0/937/491.htm",
+      "summary": "<p data-vmark=\"fde6\">IT之家 4 月 9 日消息，比亚迪腾势汽车今日宣布，<strong>腾势 D9 全量推送天神之眼 5.0</strong>，新增强化学习端到端大模型，同时带来了智舱 UI 焕新和辅助驾驶报告。本次 OTA 适用于 D9 至尊版 / 尊航版和 25 款 D9。</p><p data-vmark=\"1085\" style=\"text-align: cente...",
+      "pubDate": "2026-04-09T09:03:30.000Z",
       "source": "IT之家"
+    },
+    {
+      "title": " 中国AI圈最能炒作的那批人，大概就是卖一体机的了 ",
+      "link": "https://www.huxiu.com/article/4849185.html?f=rss",
+      "summary": " <p data-check-id=\"663000\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5NzUyODA5OA==&mid=2247508752&idx=1&sn=39b5b427439ea8d7fd468ddd0e7256b2&ch...",
+      "pubDate": "2026-04-09T09:00:17.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
