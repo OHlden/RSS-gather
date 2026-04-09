@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-08T20:54:13.070Z",
+  "updated": "2026-04-09T02:55:01.638Z",
   "items": [
     {
-      "title": " 京东美团封杀外部AI，是在自废武功 ",
-      "link": "https://www.huxiu.com/article/4849020.html?f=rss",
-      "summary": " <p data-check-id=\"458228\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzYzMzY0ODc5MA==&mid=2247484465&idx=1&sn=5042ddb7a6f8f699021710420252d48a&ch...",
-      "pubDate": "2026-04-08T16:33:02.000Z",
-      "source": " 虎嗅 "
+      "title": "港股AI应用股持续走高 讯策大涨超15%",
+      "link": "https://36kr.com/newsflashes/3758999578067714?f=rss",
+      "summary": "36氪获悉，港股AI应用股持续走高，讯策大涨超15%，智谱涨超12%，MINIMAX-WP涨超7%，极视角、速腾聚创、佑驾创新涨近6%。...",
+      "pubDate": "2026-04-09T02:52:06.000Z",
+      "source": "36氪"
     },
     {
-      "title": "华为鸿蒙电脑 HarmonyOS 6.0.0.328 花粉 Beta 版小艺升级点公布，新增投喂感应区、AI 音频播客等",
-      "link": "https://www.ithome.com/0/937/200.htm",
-      "summary": "<p data-vmark=\"7a05\">IT之家 4 月 8 日消息，鸿蒙电脑 HarmonyOS 6.0.0.328 花粉 Beta 版已上线，华为官方团队账号 @智慧办公产品经理 昨日分享了小艺优化升级的四大亮点功能。</p><p style=\"text-align: center;\" data-vmark=\"a9ec\"><img src=\"https://img.ithome.com/ne...",
-      "pubDate": "2026-04-08T15:29:18.000Z",
-      "source": "IT之家"
+      "title": "淘宝闪购上线行业首个支持语音搜索能力的商家端AI Agent",
+      "link": "https://36kr.com/newsflashes/3758988609438210?f=rss",
+      "summary": "近日，淘宝闪购面向餐饮商家的AI Agent入口-AI店铺助手，正式上线语音搜索能力（简称“搜问”）。区别于传统语音助手的信息检索功能，淘宝闪购的AI“搜问”支持语音指令执行，是目前行业内首个能直接调起执行窗口、完成复杂操作闭环的商家 AI Agent服务。近期，淘宝闪购智能化商家经营体系全新升级。除了语音搜索功能的上线，AI店铺助手的交互也从被动转为主动服务模式，基于大数据实时诊断店铺健康度，为...",
+      "pubDate": "2026-04-09T02:40:57.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+      "link": "https://36kr.com/p/3758982738641670?f=rss",
+      "summary": "\n \n \n  <p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>制药行业离“告别”动物实验又近了一步。</p>\n  <p>从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。</p>\n  ...",
+      "pubDate": "2026-04-09T02:36:29.000Z",
+      "source": "36氪"
     }
   ]
 }
