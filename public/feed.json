@@ -1,28 +1,35 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-12T08:58:11.635Z",
+  "updated": "2026-04-12T13:16:14.059Z",
   "items": [
     {
-      "title": "一女子起诉 OpenAI，指控 GPT-4o 助长前男友妄想症并加剧骚扰",
-      "link": "https://www.ithome.com/0/938/303.htm",
-      "summary": "<p data-vmark=\"683b\">IT之家 4 月 12 日消息，据科技媒体 The Decoder 今天报道，一匿名女子在美国加州旧金山高等法院起诉 OpenAI，称其前男友在数月内频繁使用旗下 GPT-4o 模型，并逐渐发展出严重的妄想症，并协助对她进行跟踪骚扰。</p><p style=\"text-align: center;\" data-vmark=\"a944\"><img src=...",
-      "pubDate": "2026-04-12T08:41:18.000Z",
+      "title": "央视起底 AI“造黄”产业链：9.9 元教程批量生成擦边视频",
+      "link": "https://www.ithome.com/0/938/348.htm",
+      "summary": "<p data-vmark=\"faf0\">IT之家 4 月 12 日消息，今晚，总台《财经调查》栏目播出专题报道，曝光了一条利用人工智能技术从事非法“造黄”活动的完整产业链。</p><p style=\"text-align: center;\" data-vmark=\"7577\"><a class=\"ithome_super_player\" contenteditable=\"false\" targe...",
+      "pubDate": "2026-04-12T13:00:15.000Z",
       "source": "IT之家"
     },
     {
-      "title": " 120亿，最牛AI骗局爆了 ",
-      "link": "https://www.huxiu.com/article/4849834.html?f=rss",
-      "summary": " <p data-check-id=\"371681\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247720149&idx=1&sn=f6f55fc25d220bc980fdf658ce636b9f&ch...",
-      "pubDate": "2026-04-12T08:31:24.000Z",
+      "title": " 诺奖经济学家彼得·豪伊特：AI难帮到CEO，却能救普通人 ",
+      "link": "https://www.huxiu.com/article/4849864.html?f=rss",
+      "summary": " <p data-check-id=\"329316\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/GzxyYKrR3vz1ODyoKIz6NQ\" target=\"_blank\" rel=\"nofollow\" style=\"text-decoration: non...",
+      "pubDate": "2026-04-12T12:40:04.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": "元戎启行CEO周光：解决小模型的“跷跷板效应”，必须转向大模型范式",
-      "link": "https://36kr.com/newsflashes/3763547677590018?f=rss",
-      "summary": "4月12日，在智能电动汽车发展高层论坛上，元戎启行CEO周光提到，2025年，城区NOA用户黏性大概是在20%-30%区间，城区NOA渗透率仅15%左右。\n周光认为，这背后最本质的原因在于：今天量产的小模型智驾参数量非常小，多数在1B以下，甚至0.1B以下，运行算力典型在100-200 TOPS。要解决小模型的“跷跷板效应”，必须从小模型范式转向大模型范式，用Scaling的方式系统性提升能力。...",
-      "pubDate": "2026-04-12T07:58:40.000Z",
-      "source": "36氪"
+      "title": " AI不会把流量还给组团社：东亚OTA与旅行社的再定价 ",
+      "link": "https://www.huxiu.com/article/4849861.html?f=rss",
+      "summary": " <p data-check-id=\"786534\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MTEzMzIzODIyMQ==&mid=2654989271&idx=1&sn=a37ba233714733296a7955f19eb1d4f6&ch...",
+      "pubDate": "2026-04-12T12:17:08.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " 万能的AI啊，救救我们周董的新专辑吧 ",
+      "link": "https://www.huxiu.com/article/4849860.html?f=rss",
+      "summary": " <p data-check-id=\"851383\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652356372&idx=1&sn=785488ea452024eec499126a1f63cee7&ch...",
+      "pubDate": "2026-04-12T12:11:24.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
