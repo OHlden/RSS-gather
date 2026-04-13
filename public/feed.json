@@ -1,7 +1,7 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-13T17:12:39.976Z",
+  "updated": "2026-04-13T21:03:00.056Z",
   "items": [
     {
       "title": " 奥特曼住宅被袭：AI时代“新卢德运动”兴起的标志？ ",
@@ -16,13 +16,6 @@
       "summary": "\n \n \n  <p>4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。</p>\n  <p>此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。</p>\n  <p>YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO Claw于3月27日开启封测，...",
       "pubDate": "2026-04-13T15:56:59.000Z",
       "source": "36氪"
-    },
-    {
-      "title": "开源监控平台 Grafana 曝提示词漏洞，黑客可诱导 AI 助手泄露企业敏感数据",
-      "link": "https://www.ithome.com/0/938/736.htm",
-      "summary": "<p data-vmark=\"a9c3\">IT之家 4 月 13 日消息，安全公司 Noma 发布研究报告，披露开源监控与数据可视化平台 Grafana 的 AI 助手功能中存在一项名为“GrafanaGhost”的安全漏洞，允许黑客利用“间接提示注入”（Indirect Prompt Injection）方式诱导 AI 助手泄露企业敏感数据至外部服务器。</p><p data-vmark=\"de...",
-      "pubDate": "2026-04-13T14:36:10.000Z",
-      "source": "IT之家"
     }
   ]
 }

@@ -4,7 +4,7 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Mon, 13 Apr 2026 17:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 21:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
@@ -51,14 +51,6 @@
   <p>随着“养虾本”和游戏本这两大产品线的公布，荣耀的PC业务正从传统的硬件竞争转向“智能+性能”的双轨并进模式。</p>
  
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[开源监控平台 Grafana 曝提示词漏洞，黑客可诱导 AI 助手泄露企业敏感数据]]></title>
-            <link>https://www.ithome.com/0/938/736.htm</link>
-            <guid>https://www.ithome.com/0/938/736.htm</guid>
-            <pubDate>Mon, 13 Apr 2026 14:36:10 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="a9c3">IT之家 4 月 13 日消息，安全公司 Noma 发布研究报告，披露开源监控与数据可视化平台 Grafana 的 AI 助手功能中存在一项名为“GrafanaGhost”的安全漏洞，允许黑客利用“间接提示注入”（Indirect Prompt Injection）方式诱导 AI 助手泄露企业敏感数据至外部服务器。</p><p data-vmark="de...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="a9c3">IT之家 4 月 13 日消息，安全公司 Noma 发布研究报告，披露开源监控与数据可视化平台 Grafana 的 AI 助手功能中存在一项名为“GrafanaGhost”的安全漏洞，允许黑客利用“间接提示注入”（Indirect Prompt Injection）方式诱导 AI 助手泄露企业敏感数据至外部服务器。</p><p data-vmark="deac">据介绍，Grafana 内置的 AI 助手支持用户通过自然语言查询与分析监控数据。<strong>但研究人员发现，黑客可以在 Grafana 可访问的外部网页中嵌入恶意指令</strong>。当 AI 助手解析这些内容时，可能被误导绕过既有安全机制，并触发对外请求，将敏感信息以 URL 参数形式发送至黑客控制的服务器，由于整个过程不会产生明显报错提示，用户往往难以及时察觉异常。</p><p data-vmark="74d2" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/66747210-c5c2-4466-959e-a2484260fc4d.png?x-bce-process=image/format,f_auto" w="1266" h="808" data-weibo="0" data-vmark="c5d7"></p><p data-vmark="c5ba" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/f7bc437c-6252-4817-a181-7dcad7a53a29.png?x-bce-process=image/format,f_auto" w="1258" h="810" data-weibo="1" data-vmark="3d8f"></p><p data-vmark="ed13">对此，安全媒体 Hackread 援引 Grafana 开发方 Grafana Labs 首席安全官 Joe McManus 的说法称，<strong>公司在收到通报后已迅速修复相关问题</strong>。同时其强调，该漏洞并不属于“零点击”（zero-click）或“自主攻击”（autonomous exploit）类型，黑客本身需要先获得用户端权限，才能主动与 AI 助手交互，同时需要多次触发才能实现恶意操作。</p><p data-vmark="fd84">Grafana Labs 进一步表示，目前没有证据表明该漏洞已被实际利用，也未发现 Grafana Cloud 有数据泄露的情况。相应问题属于特定条件下、由用户操作触发的风险场景，而非完全自动化、无感知的 AI 攻击，因此呼吁平台用户无需紧张。</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
