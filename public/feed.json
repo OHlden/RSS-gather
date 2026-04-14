@@ -1,35 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-14T03:26:39.348Z",
+  "updated": "2026-04-14T06:04:53.042Z",
   "items": [
     {
-      "title": " 能自己想idea、发论文、过评审的AI科学家来了，科研人要被取代了吗？ ",
-      "link": "https://www.huxiu.com/article/4850302.html?f=rss",
-      "summary": " <p data-check-id=\"673275\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4OTU5MTQ2MA==&mid=2650142500&idx=3&sn=998c5348ae2082201a4433158fedbf89&ch...",
-      "pubDate": "2026-04-14T03:17:03.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " AI既没你想的那么聪明，也抢不走你的饭碗 ",
-      "link": "https://www.huxiu.com/article/4850301.html?f=rss",
-      "summary": " <p data-check-id=\"312124\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4OTU5MTQ2MA==&mid=2650142500&idx=4&sn=347ef092b1f0096b498725997c59ff0d&ch...",
-      "pubDate": "2026-04-14T03:15:32.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " 你也许不敢承认，但这是真的：与人聊你的科研，真的太浪费时间了，不如与AI聊 ",
-      "link": "https://www.huxiu.com/article/4850298.html?f=rss",
-      "summary": " <p data-check-id=\"480034\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4OTU5MTQ2MA==&mid=2650142500&idx=1&sn=f03f189f1720d90f5ea359808c2de99b&ch...",
-      "pubDate": "2026-04-14T03:13:53.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " B站上最会用AI的创作者，关于AI的25条思考 ",
-      "link": "https://www.huxiu.com/article/4850294.html?f=rss",
-      "summary": " <p data-check-id=\"275816\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627477&idx=2&sn=0ab27e6f9e01951263d1ea7504099de0&ch...",
-      "pubDate": "2026-04-14T03:00:58.000Z",
-      "source": " 虎嗅 "
+      "title": "韩 AI 芯片制造商 DEEPX：基于三星 2nm 的 DX-M2 目标 2027 年量产",
+      "link": "https://www.ithome.com/0/938/903.htm",
+      "summary": "<p data-vmark=\"4cae\">IT之家 4 月 14 日消息，参考韩媒 ETNEWS 稍早前报道，该国 AI 芯片制造商 DEEPX 在今日的新闻发布会上表示，基于三星晶圆代工 2nm 工艺制程的 <a href=\"https://www.ithome.com/0/875/025.htm\" target=\"_blank\">DX-M2</a> 芯片目标 2027 年实现量产。</p><p...",
+      "pubDate": "2026-04-14T05:58:24.000Z",
+      "source": "IT之家"
     }
   ]
 }
