@@ -4,58 +4,18 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Wed, 15 Apr 2026 13:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 17:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克]]></title>
-            <link>https://36kr.com/p/3767970803221251?f=rss</link>
-            <guid>https://36kr.com/p/3767970803221251?f=rss</guid>
-            <pubDate>Wed, 15 Apr 2026 13:53:11 GMT</pubDate>
-            <description><![CDATA[
- 
- 
-  <h2><strong>大公司：</strong></h2>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767932351709953"><strong>Snap宣布将裁员约1000人</strong></a></p>
-  <p>4月15日，社交媒体公司S...]]></description>
-            <content:encoded><![CDATA[
- 
- 
-  <h2><strong>大公司：</strong></h2>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767932351709953"><strong>Snap宣布将裁员约1000人</strong></a></p>
-  <p>4月15日，社交媒体公司Snap宣布一系列调整，这些调整将影响Snap约1000名团队成员，包括16%的全职员工，此外，公司还将关闭300多个空缺职位。通过调整，公司预计到2026年下半年，年度成本将减少超过5亿美元。Snap表示，对即将离职的美国团队成员，公司将提供四个月的遣散费、医疗保险和股权激励，以及职业转型支持。在美国以外地区，公司将遵循当地流程，并努力提供符合当地规范的同等支持。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767334817088009"><strong>英特尔据悉将在未来几周向员工披露参与马斯克Terafab项目的细节</strong></a></p>
-  <p>根据英特尔(CEO陈立武上周发出的一份备忘录，该公司计划在“未来几周”向员工披露其参与埃隆·马斯克雄心勃勃的“Terafab”芯片制造项目的“范围和性质”。陈立武上周五向英特尔员工发送了这份备忘录，此前两天，这家半导体巨头宣布与马斯克的公司——SpaceX、xAI 和特斯拉——共同参与Terafab项目，这对于正在经历最新转型尝试的英特尔来说，可能是一个福音。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767370241163780"><strong>特斯拉高管称上海工厂将为擎天柱机器人量产提供“金钥匙”</strong></a></p>
-  <p>特斯拉中国区总经理王昊表示，特斯拉最大的生产基地——上海超级工厂未来有潜力生产人形机器人。该工厂的高效生产和创新能力被视为推动CEO埃隆·马斯克快速实现该技术商业化的关键因素。王昊在周二的一次发布会上表示，CEO马斯克曾指出，大规模生产是制造人形机器人的一个关键挑战。他认为上海制造部门是“解决这一挑战的金钥匙”，但没有具体说明运营将如何支持公司的机器人业务。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767922444927496"><strong>字节启动新一轮期权回购</strong></a></p>
-  <p>字节发布内部邮件，启动最新一轮期权回购。其中：在职员工：229.5美元/股（约人民币1588元）离职员工：201.96美元/股（约人民币1397元）。字节上一轮回购期权时间是2025年10月，此次在职员工的回购价对比上一轮提升约14.5%。在2025年10月的回购中，在职员工回购价200.41美元，离职员工180.37美元。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767891011682823"><strong>广电总局发布微短剧精品创作传播计划</strong></a></p>
-  <p>15日在成都开幕的第13届中国网络视听大会上，国家广播电视总局发布微短剧精品创作传播计划，并启动“长征：我们的故事”主题微短剧创作展播活动。广电总局相关负责人表示，我国微短剧已由粗放式增长进入到繁荣发展的关键阶段，正处于迈向精品化、数智化、产业化、国际化的战略机遇期。广电总局牵头构建“总局引领、省局支持、平台激励”的创作引导体系，启动微短剧精品创作传播计划，推动微短剧高质量发展。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767882377216772"><strong>哈啰回应超量投放共享单车被行政处罚</strong></a></p>
-  <p>4月15日，针对哈啰违规超量投放共享单车被立案调查和约谈处罚一事，哈啰公司方面回应称，哈啰骑行北京分公司在新车置换与跨区域调度中，运力调度及响应效率上存在管理短板，未能将工作做实做细。对此，哈啰表示已启动全面整改：连夜增派运维力量，恢复重点区域的停放秩序，同时启动内部管理机制的调整优化。哈啰称，接受北京市主管部门的约谈与指导，并以此次整改为契机，深耕精细化运营，向主管部门及社会公众汇报进度。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767791865398021"><strong>苹果提高印度iPhone产量，塔塔集团组装份额应能达到10-15%</strong></a></p>
-  <p>根据Counterpoint的数据，印度在全球组装业务中的份额从2022年的5.8%上升至2025年的22.2%。到2026年，这一份额将达到25-30%，到2027年将达到30-35%。鸿海仍是印度最大的组装商，其次是塔塔集团，该集团于2023年收购了纬创资通的工厂，并于2024年收购了和硕在当地工厂60%的股份。未来两年，塔塔集团的iPhone组装份额应能达到10-15%。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767786531488516"><strong>抖音集团将投入5亿专项资金扶持真人短剧</strong></a></p>
-  <p>4月15日，2026年第十三届中国网络视听大会上，抖音集团宣布将投入5亿元专项资金扶持真人短剧内容创新与现实题材深耕。红果短剧总编辑乐力表示，真人短剧是行业高质量发展的“进行时”与“未来时”。只有各方积极引导扶持真人创作，才能让短剧行业行稳致远。</p>
-  <h2><strong>新产品：</strong></h2>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767467065803529"><strong>千问AI眼镜S1宣布正式开售</strong></a></p>
-  <p>36氪获悉，4月15日，千问AI眼镜S1宣布正式开售，最低到手价为3499元。该产品支持屏幕显示、1200万像素摄像头、热插拔换电池，并为全天候AI服务在整机层面进行了系统性重。</p>
-  <h2><strong>投融资：</strong></h2>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767950609203972"><strong>“达美盛（DMS）”完成新一轮过亿元股权融资</strong></a></p>
-  <p>36氪获悉，近日，工业智能化解决方案提供商“达美盛（DMS）”宣布完成了新一轮过亿元股权融资。本轮融资由天津智汇基金领投，中集资本、北洋海棠基金、中控技术等多家机构跟投。融资资金将主要用于工业智能体平台等核心技术研发、市场拓展以及生态建设。</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767826218140166"><strong>苹果CEO库克斥资106万美元增持耐克</strong></a></p>
-  <p>当地时间4月14日，耐克提交至美国证券交易委员会（SEC）的文件显示，苹果首席执行官蒂姆·库克于4月10日以42.43美元每股价格买入25,000股耐克股票，斥资约106万美元。</p>
-  <h2><strong>今日观点：</strong></h2>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767782898795266"><strong>马斯克：特斯拉AI5芯片成功流片，将成为产量最高AI芯片之一</strong></a></p>
-  <p>特斯拉首席执行官埃隆·马斯克4月15日宣布，特斯拉AI芯片设计团队已成功完成AI5芯片的流片。他同时透露，性能更强大的AI6、Dojo3以及其他多款芯片也正在研发中。马斯克表示，感谢合作伙伴台积电和三星在芯片量产过程中的支持，“AI5芯片未来将成为全球��量最大的AI芯片之一”。</p>
-  <h2><strong>其他值得关注的新闻：</strong></h2>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/newsflashes/3767830158820100"><strong>李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立</strong></a></p>
-  <p>4月13日，商务部国际贸易谈判代表兼副部长李成钢在京会见美国福特汽车公司全球执行副总裁兼首席政务官柯立。双方就中美经贸关系、福特公司在华发展等进行了交流。</p>
- 
-]]></content:encoded>
+            <title><![CDATA[华为 Pura X Max 横向阔折叠手机确认支持 AI 眼动翻页功能，4 月 20 日发布]]></title>
+            <link>https://www.ithome.com/0/939/637.htm</link>
+            <guid>https://www.ithome.com/0/939/637.htm</guid>
+            <pubDate>Wed, 15 Apr 2026 14:22:51 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="0c4d">IT之家 4 月 15 日消息，华为终端 BG 首席执行官何刚今日再次预告了 Pura X Max 横向阔折叠新机。据介绍，<strong>华为 Pura X Max 将支持 AI 眼动翻页、横屏双翻页等功能</strong>，同时阅读软件还支持 AI 动态画面生成。</p><p style="text-align: center;" data-vmark...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="0c4d">IT之家 4 月 15 日消息，华为终端 BG 首席执行官何刚今日再次预告了 Pura X Max 横向阔折叠新机。据介绍，<strong>华为 Pura X Max 将支持 AI 眼动翻页、横屏双翻页等功能</strong>，同时阅读软件还支持 AI 动态画面生成。</p><p style="text-align: center;" data-vmark="5ad8"><img src="https://img.ithome.com/newsuploadfiles/2026/4/1f7ae69b-ebdf-4f63-bee1-a6cb8d4e8e60.jpg?x-bce-process=image/format,f_auto" w="1080" h="1440" data-mpos="2,0" data-live="https://qimg.ithome.com/newfiles/2026/4/a264b2b8-91e9-42b4-9fbc-b7e147afedf0.mp4" data-marks="1931fd9d012eb6d135ea7e8a483b3343904dd8c2244ee3bf1fd04beb778a3f53d09ccc51a16d95e588112c15b8fe3a39" data-vmark="08a3" class="no-alt-img"></p><p style="text-align: center;" data-vmark="dd8d"><img src="https://img.ithome.com/newsuploadfiles/2026/4/83d0c00a-24ef-4e7d-b000-1c352a3b0d6d.jpg?x-bce-process=image/format,f_auto" w="1080" h="1440" data-mpos="0,2" data-live="https://qimg.ithome.com/newfiles/2026/4/3b8216f2-3e48-4fa1-b4c9-48d1a0e759b0.mp4" data-marks="1931fd9d012eb6d1ab54fdba0074072590c9bfd1632be85eab28c5fb27500f64b87a6a2db407b692868adb8ddbdb0628" data-vmark="e1af" class="no-alt-img"></p><p style="text-align: center;" data-vmark="9f68"><img src="https://img.ithome.com/newsuploadfiles/2026/4/35a9763f-29d0-457a-b3e2-8fa79eba3b45.jpg?x-bce-process=image/format,f_auto" w="1080" h="1440" data-mpos="2,0" data-live="https://qimg.ithome.com/newfiles/2026/4/ae7f6a77-07a8-40d8-a775-d9f448026e35.mp4" data-marks="1931fd9d012eb6d1f083e4b548e38fcf850ae04e4237a28fd044bbdee36bab1a21a3d14f13e54ae010d0a14aa2616266" data-vmark="8308" class="no-alt-img"></p><p style="text-align: center;" data-vmark="1c3f"><img src="https://img.ithome.com/newsuploadfiles/2026/4/e7a448ca-103b-4640-9c45-014e7b1d2b40.jpg?x-bce-process=image/format,f_auto" w="1080" h="1440" data-mpos="0,2" data-live="https://qimg.ithome.com/newfiles/2026/4/55d36b32-5d43-4e30-bd4c-43cf2ece03da.mp4" data-marks="1931fd9d012eb6d159826d64e156b1339a8640992c7f216c154ff11d824dca782e3a4302742f0ea8f1beecf10c6b1e06" data-vmark="3730" class="no-alt-img"></p><p style="text-align: center;" data-vmark="0c4b"><img src="https://img.ithome.com/newsuploadfiles/2026/4/a0688311-0514-4175-b98b-7baa6db0d0ed.jpg?x-bce-process=image/format,f_auto" w="1080" h="1440" data-mpos="0,2" data-live="https://qimg.ithome.com/newfiles/2026/4/eaa3ff02-465e-459b-b27a-09bedd659657.mp4"  data-vmark="7710" class="no-alt-img"></p><p data-vmark="17ed">IT之家注意到，华为 Pura X Max 已正式亮相，新机是行业首款横向阔折叠手机，定档 4 月 20 日发布。官网显示，新机可选幻夜黑、橄榄金等 5 款配色，同时拥有典藏版可选。</p><p style="text-align: center;" data-vmark="cb20"><a class="ithome_super_player" href="https://weibo.com/1839167003/QAzM303cE"><img src="https://img.ithome.com/newsuploadfiles/2026/4/5a5384dc-7986-4843-9a2f-b61ab9d09b0f.jpg?x-bce-process=image/format,f_auto" w="1440" h="810"></a></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;" data-vmark="1692"><iframe src="https://img.ithome.com/app/calendar/event_card.html?id=3991" frameborder="no"></iframe></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
