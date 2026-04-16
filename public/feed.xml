@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 16 Apr 2026 14:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 17:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线]]></title>
+            <link>https://36kr.com/p/3769501816439555?f=rss</link>
+            <guid>https://36kr.com/p/3769501816439555?f=rss</guid>
+            <pubDate>Thu, 16 Apr 2026 14:13:14 GMT</pubDate>
+            <description><![CDATA[
+ 
+ 
+  <p>2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。</p>
+  <p>4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望能让数据像水电一样即取即用。</p>
+  <p>“GPT5用了10...]]></description>
+            <content:encoded><![CDATA[
+ 
+ 
+  <p>2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。</p>
+  <p>4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望能让数据像水电一样即取即用。</p>
+  <p>“GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只有50万小时的规模。”</p>
+  <p>数据资源匮乏且扩容缓慢，是因为具身智能所需要的训练数据，比大预言模型需要的训练语料要难获得的多。在三维的开放世界，行业各家公司已经尝试了通过真机遥操或仿真数据等等各种方式去积累数据，但仍然难以摆脱高成本和增速慢的问题。</p>
+  <p>现在，最前沿的采集方式是“无本体采集”。</p>
+  <p>无本体采集（Object-free/Body-less Data Collection）是指在具身智能训练中，直接利用人类操作（手戴传感器夹爪）或轻量化设备记录动作，而非依赖昂贵的实体机器人本体进行遥控操作。它通过人手抓取、移动等方式记录高质量、多模态的动作数据，具有成本低、采集效率高、场景泛化性强等优势。</p>
+  <p>发布会上，觅蜂推出了 MEgo 系列无本体数据采集硬件及 MEgo Engine 数据治理引擎。MEgo 系列包含采集夹爪、头戴式采集设备等，设备具备超 300° 全景感知与亚毫秒级数据同步能力，支持在工厂、商超、家庭等全场景随时随地轻量化采集。</p>
+  <p>这款名为 MEgo Gripper 的夹爪全通道支持1080P 60fps，轨迹重建的精度可以达到一毫米，确保拿起一张纸的力度都可以被还原，“让客户拿到数据就能直接落地”，以及亚毫秒级无线时间同步。这个设备只有480g的重量，支持电池快换快拆，摆脱了电线，方便人“走到哪采到哪”。</p>
+  <p class="image-wrapper"><img data-img-size-val="1792,1227" src="https://img.36krcdn.com/hsossms/20260416/v2_e77869efafa648a2bb4c44e0fb5d8a05@10269314_oswg772429oswg1792oswg1227_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"></p>
+  <p class="img-desc">MEgo Gripper</p>
+  <p>另一款头戴式采集设备MEgo View融合了头部超过300度的视野，以及两个附着在手腕上的局部相机，既可以兼顾超广域的环境，也可以做到腕部和手部操作细节的捕捉。它搭载7个高清摄像头，车规级九轴IMU（惯性测量单元），可以输出RGB图片、IMU，还有位姿、音频在内的全感官数据。</p>
+  <p class="image-wrapper"><img data-img-size-val="2560,1440" src="https://img.36krcdn.com/hsossms/20260416/v2_1766de2f79264d5abaf66ad508c9dc9c@10269314_oswg2255585oswg2560oswg1440_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1"></p>
+  <p class="img-desc">MEgo View</p>
+  <p>与夹爪设备一样，头戴式采集设备同样采用无线设计，支持电池快换，并能实现亚毫秒级无线时间同步。</p>
+  <p>轻量化的硬件，带来了数据采集门槛的降低。在发布会后的采访环节，姚卯青告诉包括36氪在内的媒体，<strong>他认为未来理想的采集者工作模式可能会类似于“美团骑手”——“大家可以兼职来做，但同时也要经过驿站的培训才能上岗。”</strong></p>
+  <p>在软件上，MEgo系列解决方案背后有一套MEgo Engine 数据治理引擎，用来处理所有MEgo设备采集到的数据，包括数据的预处理、提取、评估等等，而且可以评估在机器人上的表现，实现一站式数据的多种标注。</p>
+  <p>姚卯青表示，觅蜂已经实现了真机遥操、无本体采集、仿真数据全范式覆盖，旨在“让高质量数据像水电一样即取即用。”该公司计划在 2026 年实现千万小时级数据产能，2030 年达成百亿小时级数据产能。</p>
+  <p>作为智元机器人旗下企业，觅蜂的定位却是面向其他机器人公司的To B数据服务平台。在活动后的采访环节，有媒体向姚卯青提问：“说服说服智元的竞争对手去买你们的数据？”</p>
+  <p>姚卯青回复说，“觅蜂作为一家独立的数据服务平台，所有的用户数据交易都有严格协议。数据的交易模式分为‘使用权’和‘所有权’两种，过去大部分用户都是选择了购买使用权而不是所有权，对于极个别选择购买所有权的客户，我们会进行严格的资产转移，在本地销毁数据。”</p>
+  <p>“智元并不是需要所有数据，它也没法获取觅蜂的数据。”姚卯青说，“智元现在向觅蜂获取数据的唯一途径，就是市场化下订单。智元不存在免费从觅蜂获取数据的途径。”</p>
+  <p>在发布会上，觅蜂宣布与京东云、百度云、阿里云、猎聘及贵州大数据集团等多家企业举行战略签约，各方将在数据生态、场景协同、算力支撑等领域展开深度合作。</p>
+ 
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
