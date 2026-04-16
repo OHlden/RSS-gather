@@ -1,54 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 16 Apr 2026 09:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 14:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[瑞和数智战略投资盛合晶微，布局AI算���核心赛道]]></title>
-            <link>https://36kr.com/newsflashes/3769285996151559?f=rss</link>
-            <guid>https://36kr.com/newsflashes/3769285996151559?f=rss</guid>
-            <pubDate>Thu, 16 Apr 2026 09:15:59 GMT</pubDate>
-            <description><![CDATA[36氪获悉，瑞和数智公告，通过投资某基金参与了对盛合晶微半导体有限公司（简称“盛合晶微”）的投资，持有其重要股权。据了解，盛合晶微在2024年D轮融资估值已达约200亿人民币，2026年2月成功过会，4月进入申购阶段，即将登陆科创板。...]]></description>
-            <content:encoded><![CDATA[36氪获悉，瑞和数智公告，通过投资某基金参与了对盛合晶微半导体有限公司（简称“盛合晶微”）的投资，持有其重要股权。据了解，盛合晶微在2024年D轮融资估值已达约200亿人民币，2026年2月成功过会，4月进入申购阶段，即将登陆科创板。]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[【视频】轻薄本也能兼顾续航和性能，更有AI新视界，荣耀MagicBook系列 2026评测]]></title>
-            <link>https://www.ithome.com/0/939/998.htm</link>
-            <guid>https://www.ithome.com/0/939/998.htm</guid>
-            <pubDate>Thu, 16 Apr 2026 09:15:13 GMT</pubDate>
-            <description><![CDATA[<p>
-大家最近应该都听说荣耀官方下场“养虾”了吧，那么今天，IT之家为大家带来了荣耀 AI PC 战略下的全新轻薄本产品使用体验分享，它们就是荣耀MagicBook 14 |16 2026，能够兼顾性能与续航的全新荣耀AI轻薄本。        </p>
-
-    <p style="text-align: center">
-        <iframe class="ithome_v...]]></description>
-            <content:encoded><![CDATA[<p>
-大家最近应该都听说荣耀官方下场“养虾”了吧，那么今天，IT之家为大家带来了荣耀 AI PC 战略下的全新轻薄本产品使用体验分享，它们就是荣耀MagicBook 14 |16 2026，能够兼顾性能与续航的全新荣耀AI轻薄本。        </p>
-
-    <p style="text-align: center">
-        <iframe class="ithome_video"
-                src="https://player.bilibili.com/player.html?bvid=BV16Sd8BoEmX&amp;page=1"
-                frameborder="no"
-                width="100%"
-                allowfullscreen="true">
-        </iframe>
-    </p>
-
-            <p>
-                <a href="https://space.bilibili.com/13938355"
-                   target="_blank"
-                   data-wapurl="ithome://openurl?url=https%3A%2F%2Fspace.bilibili.com%2F13938355&amp;schemeurl=bilibili%3A%2F%2Fspace%2F13938355"
-                   data-iosurl="ithome://openurl?url=https%3A%2F%2Fspace.bilibili.com%2F13938355&amp;schemeurl=bilibili%3A%2F%2Fspace%2F13938355"
-                   data-androidurl="ithome://openurl?url=https%3A%2F%2Fspace.bilibili.com%2F13938355&amp;schemeurl=bilibili%3A%2F%2Fspace%2F13938355"
-                   data-uwpurl="https://space.bilibili.com/13938355"
-                   data-hosurl="ithome://openurl?url=https%3A%2F%2Fspace.bilibili.com%2F13938355&amp;schemeurl=bilibili%3A%2F%2Fspace%2F13938355"
-                   data-wxmpurl="https://space.bilibili.com/13938355">点击关注IT之家B站账号</a>
-            </p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
