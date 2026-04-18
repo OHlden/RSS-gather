@@ -1,41 +1,27 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-18T05:44:47.383Z",
+  "updated": "2026-04-18T08:59:21.131Z",
   "items": [
     {
-      "title": " AI算力引爆科创板，中际旭创市值破9000亿，单季利润57亿超2024全年 ",
-      "link": "https://www.huxiu.com/article/4851722.html?f=rss",
-      "summary": " <p data-check-id=\"183570\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MjEyODE4MA==&mid=2653343430&idx=4&sn=19e85f7d3acaeda86f9573a2524dc290&ch...",
-      "pubDate": "2026-04-18T05:18:50.000Z",
+      "title": " 为了AI数据中心，马斯克和孟菲斯居民撕两年了 ",
+      "link": "https://www.huxiu.com/article/4851745.html?f=rss",
+      "summary": " <p data-check-id=\"266153\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI2NjU1MTcwMA==&mid=2247560044&idx=1&sn=ac99948b959053dac7f58d26d29686f2&ch...",
+      "pubDate": "2026-04-18T08:44:46.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": "三星吹响 AI 竞争号角，HBM 开发周期砍半缩至 1 年",
-      "link": "https://www.ithome.com/0/940/673.htm",
-      "summary": "<p data-vmark=\"bd69\">IT之家 4 月 18 日消息，科技媒体 Wccftech 昨日（4 月 17 日）发布博文，报道称三星电子为应对 AI 市场需求激增，并匹配英伟达等主要客户每年推出新 AI 加速器的节奏，<strong>将高带宽内存（HBM）开发周期从 2 年大幅缩短至 1 年。</strong></p><p data-vmark=\"ad7c\">消息称三星电子战略调整高...",
-      "pubDate": "2026-04-18T05:04:48.000Z",
+      "title": "咸阳清渭楼美术博物馆回应：“捷途汽车攀爬楼梯”：系 AI 合成，非真实拍摄场景",
+      "link": "https://www.ithome.com/0/940/707.htm",
+      "summary": "<p data-vmark=\"ba06\">IT之家 4 月 18 日消息，咸阳清渭楼美术博物馆今日发布声明：近日，视频号账号“捷途山海一咸阳捷盛昌店”于 2026 年 4 月 17 日发布题为《旅行者 CDM 挑战清渭楼楼梯》的商业宣传视频。该视频通过 AI 技术合成制作，虚构了捷途汽车攀爬清渭楼楼梯的场景，并配以“XWD 智能四驱轻松拿捏任何路况”“封闭路段安全拍摄，请勿模仿”等误导性文字。</...",
+      "pubDate": "2026-04-18T08:23:09.000Z",
       "source": "IT之家"
     },
     {
-      "title": "消息称 AMD 赢得 Anthropic 大单，MI450 GPU 部署应对 AI 算力短缺",
-      "link": "https://www.ithome.com/0/940/664.htm",
-      "summary": "<p data-vmark=\"d51b\">IT之家 4 月 18 日消息，科技媒体 Wccftech 昨日（4 月 17 日）发布博文，报道称 AMD 已与 AI 公司 Anthropic 达成合作，<strong>后者计划采用 Instinct MI450 AI 加速器。</strong></p><p data-vmark=\"bcf5\">消息称受行业算力供应短缺影响，Anthropic 寻求多元...",
-      "pubDate": "2026-04-18T04:53:37.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "英伟达 CEO 黄仁勋：AI 不会取代你，但会用 AI 的人可能会取代你",
-      "link": "https://www.ithome.com/0/940/663.htm",
-      "summary": "<p data-vmark=\"34b6\">IT之家 4 月 18 日消息，当地时间 4 月 17 日，据外媒 Wccftech 报道，英伟达 CEO 黄仁勋在斯坦福大学商学院发言时表示，人工智能不会取代人类，而将成为新的工作平台，<strong>并在长期内创造更多就业机会</strong>。</p><p data-vmark=\"b6da\">黄仁勋再次将 AI 比作现代工业革命，强调“AI 是一项每...",
-      "pubDate": "2026-04-18T04:51:01.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "消息称 OpenAI 股东考虑换掉奥尔特曼：精力放在“副业”上，能否带领公司上市",
-      "link": "https://www.ithome.com/0/940/659.htm",
-      "summary": "<p data-vmark=\"0b2a\">IT之家 4 月 18 日消息，曾解雇过 CEO 奥尔特曼的 OpenAI 股东，现在打算“再来一次”。</p><p data-vmark=\"0a7f\">北京时间今天上午，《华尔街日报》报道称，一些投资者开始质疑，当前将精力日益分散于各类“副业项目”的奥尔特曼，是否仍是带领公司走向上市的合适人选，同时，也有其他科技高管进入潜在接替人选视野。</p><p d...",
-      "pubDate": "2026-04-18T04:35:00.000Z",
+      "title": "OpenAI 政策主管：行业领袖面临人身攻击，AI 公司需要“把 AI 讲好”",
+      "link": "https://www.ithome.com/0/940/705.htm",
+      "summary": "<p data-vmark=\"d02e\">IT之家 4 月 18 日消息，据《财富》杂志网站 4 月 17 日报道，科技大佬们关于 AI 如何影响就业和生活的密集表态，在一定程度上支撑了公司的高估值，同时也加剧了公众反感情绪。NBC News 一项调查显示，<strong>仅 26% 的美国选民对 AI 持正面看法，46% 持负面看法</strong>。</p><p data-vmark=\"1bd...",
+      "pubDate": "2026-04-18T08:14:49.000Z",
       "source": "IT之家"
     }
   ]
