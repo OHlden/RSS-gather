@@ -1,34 +1,41 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-18T03:16:28.461Z",
+  "updated": "2026-04-18T05:44:47.383Z",
   "items": [
     {
-      "title": " 频繁降智的AI产品们，就是新时代最离谱的盲盒 ",
-      "link": "https://www.huxiu.com/article/4851699.html?f=rss",
-      "summary": " <p data-check-id=\"876610\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627672&idx=1&sn=8867c1fdd1fd3feccaa61e7d31160c55&ch...",
-      "pubDate": "2026-04-18T03:01:20.000Z",
+      "title": " AI算力引爆科创板，中际旭创市值破9000亿，单季利润57亿超2024全年 ",
+      "link": "https://www.huxiu.com/article/4851722.html?f=rss",
+      "summary": " <p data-check-id=\"183570\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MjEyODE4MA==&mid=2653343430&idx=4&sn=19e85f7d3acaeda86f9573a2524dc290&ch...",
+      "pubDate": "2026-04-18T05:18:50.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": " 为什么“高价值任务”成了所有AI Labs 的T0级战略？ ",
-      "link": "https://www.huxiu.com/article/4851697.html?f=rss",
-      "summary": " <p data-check-id=\"160858\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523665&idx=1&sn=b607c984c18bc1034b07686a4902166d&ch...",
-      "pubDate": "2026-04-18T02:54:07.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "微软首日集成 Claude Opus 4.7，GitHub Copilot 等 9 大 AI 工具全面接入",
-      "link": "https://www.ithome.com/0/940/642.htm",
-      "summary": "<p data-vmark=\"98a0\">IT之家 4 月 18 日消息，科技媒体 NeoWin 昨日（4 月 17 日）发布博文，报道称在 Anthropic 发布 Claude Opus 4.7 模型后，微软打破与 OpenAI 的排他性合作惯例，<strong>在其 GitHub Copilot 等 9 大开发环境中首日集成支持。</strong></p><p data-vmark=\"c47...",
-      "pubDate": "2026-04-18T02:48:00.000Z",
+      "title": "三星吹响 AI 竞争号角，HBM 开发周期砍半缩至 1 年",
+      "link": "https://www.ithome.com/0/940/673.htm",
+      "summary": "<p data-vmark=\"bd69\">IT之家 4 月 18 日消息，科技媒体 Wccftech 昨日（4 月 17 日）发布博文，报道称三星电子为应对 AI 市场需求激增，并匹配英伟达等主要客户每年推出新 AI 加速器的节奏，<strong>将高带宽内存（HBM）开发周期从 2 年大幅缩短至 1 年。</strong></p><p data-vmark=\"ad7c\">消息称三星电子战略调整高...",
+      "pubDate": "2026-04-18T05:04:48.000Z",
       "source": "IT之家"
     },
     {
-      "title": "消息称马斯克 xAI 进军 AI 智能编程领域，有望下周发布 Grok Build",
-      "link": "https://www.ithome.com/0/940/638.htm",
-      "summary": "<p data-vmark=\"c29a\">IT之家 4 月 18 日消息，科技媒体 testingcatalog 昨日（4 月 17 日）发布博文，报道称埃隆 · 马斯克（Elon Musk）旗下 xAI 公司有望进军智能编程领域，<strong>可能会在下周推出 Grok Build 与 Grok CLI 两款产品。</strong></p><p data-vmark=\"f37f\">此举标志着 ...",
-      "pubDate": "2026-04-18T02:13:11.000Z",
+      "title": "消息称 AMD 赢得 Anthropic 大单，MI450 GPU 部署应对 AI 算力短缺",
+      "link": "https://www.ithome.com/0/940/664.htm",
+      "summary": "<p data-vmark=\"d51b\">IT之家 4 月 18 日消息，科技媒体 Wccftech 昨日（4 月 17 日）发布博文，报道称 AMD 已与 AI 公司 Anthropic 达成合作，<strong>后者计划采用 Instinct MI450 AI 加速器。</strong></p><p data-vmark=\"bcf5\">消息称受行业算力供应短缺影响，Anthropic 寻求多元...",
+      "pubDate": "2026-04-18T04:53:37.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "英伟达 CEO 黄仁勋：AI 不会取代你，但会用 AI 的人可能会取代你",
+      "link": "https://www.ithome.com/0/940/663.htm",
+      "summary": "<p data-vmark=\"34b6\">IT之家 4 月 18 日消息，当地时间 4 月 17 日，据外媒 Wccftech 报道，英伟达 CEO 黄仁勋在斯坦福大学商学院发言时表示，人工智能不会取代人类，而将成为新的工作平台，<strong>并在长期内创造更多就业机会</strong>。</p><p data-vmark=\"b6da\">黄仁勋再次将 AI 比作现代工业革命，强调“AI 是一项每...",
+      "pubDate": "2026-04-18T04:51:01.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "消息称 OpenAI 股东考虑换掉奥尔特曼：精力放在“副业”上，能否带领公司上市",
+      "link": "https://www.ithome.com/0/940/659.htm",
+      "summary": "<p data-vmark=\"0b2a\">IT之家 4 月 18 日消息，曾解雇过 CEO 奥尔特曼的 OpenAI 股东，现在打算“再来一次”。</p><p data-vmark=\"0a7f\">北京时间今天上午，《华尔街日报》报道称，一些投资者开始质疑，当前将精力日益分散于各类“副业项目”的奥尔特曼，是否仍是带领公司走向上市的合适人选，同时，也有其他科技高管进入潜在接替人选视野。</p><p d...",
+      "pubDate": "2026-04-18T04:35:00.000Z",
       "source": "IT之家"
     }
   ]
