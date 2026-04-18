@@ -1,6 +1,35 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-17T20:55:21.347Z",
-  "items": []
+  "updated": "2026-04-18T03:16:28.461Z",
+  "items": [
+    {
+      "title": " 频繁降智的AI产品们，就是新时代最离谱的盲盒 ",
+      "link": "https://www.huxiu.com/article/4851699.html?f=rss",
+      "summary": " <p data-check-id=\"876610\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627672&idx=1&sn=8867c1fdd1fd3feccaa61e7d31160c55&ch...",
+      "pubDate": "2026-04-18T03:01:20.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " 为什么“高价值任务”成了所有AI Labs 的T0级战略？ ",
+      "link": "https://www.huxiu.com/article/4851697.html?f=rss",
+      "summary": " <p data-check-id=\"160858\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523665&idx=1&sn=b607c984c18bc1034b07686a4902166d&ch...",
+      "pubDate": "2026-04-18T02:54:07.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "微软首日集成 Claude Opus 4.7，GitHub Copilot 等 9 大 AI 工具全面接入",
+      "link": "https://www.ithome.com/0/940/642.htm",
+      "summary": "<p data-vmark=\"98a0\">IT之家 4 月 18 日消息，科技媒体 NeoWin 昨日（4 月 17 日）发布博文，报道称在 Anthropic 发布 Claude Opus 4.7 模型后，微软打破与 OpenAI 的排他性合作惯例，<strong>在其 GitHub Copilot 等 9 大开发环境中首日集成支持。</strong></p><p data-vmark=\"c47...",
+      "pubDate": "2026-04-18T02:48:00.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "消息称马斯克 xAI 进军 AI 智能编程领域，有望下周发布 Grok Build",
+      "link": "https://www.ithome.com/0/940/638.htm",
+      "summary": "<p data-vmark=\"c29a\">IT之家 4 月 18 日消息，科技媒体 testingcatalog 昨日（4 月 17 日）发布博文，报道称埃隆 · 马斯克（Elon Musk）旗下 xAI 公司有望进军智能编程领域，<strong>可能会在下周推出 Grok Build 与 Grok CLI 两款产品。</strong></p><p data-vmark=\"f37f\">此举标志着 ...",
+      "pubDate": "2026-04-18T02:13:11.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
