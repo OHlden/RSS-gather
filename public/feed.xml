@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sat, 18 Apr 2026 13:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 16:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[Anthropic CEO 达里奥 · 阿莫迪：AI 发展永无止境，未来五年或取代半数初级白领岗位]]></title>
-            <link>https://www.ithome.com/0/940/785.htm</link>
-            <guid>https://www.ithome.com/0/940/785.htm</guid>
-            <pubDate>Sat, 18 Apr 2026 12:12:44 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="77a6">IT之家 4 月 18 日消息，据科技媒体 The Decoder 今天报道，Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）最近在接受采访时认为，<strong>AI 仍存在巨大发展空间</strong>，<strong>如彩虹一般没有尽头</strong>，并且算力还有很长的增长路径。</p><p style="text-al...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="77a6">IT之家 4 月 18 日消息，据科技媒体 The Decoder 今天报道，Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）最近在接受采访时认为，<strong>AI 仍存在巨大发展空间</strong>，<strong>如彩虹一般没有尽头</strong>，并且算力还有很长的增长路径。</p><p style="text-align: center;" data-vmark="ac17"><img src="https://img.ithome.com/newsuploadfiles/2026/4/292dfa09-46a7-4af1-abaf-7282e43bc202.png?x-bce-process=image/format,f_auto" w="1440" h="864" data-weibo="0" data-vmark="26c9"></p><p data-vmark="c2a9">IT之家援引 The Decoder，阿莫迪在谈到 AI 对就业市场的影响时表示，当前社会对 AI 的信任仍然不足，导致这项技术只能以信任的速度扩散。这其中的部分问题在于，行业并未兑现以前的乐观承诺，但各种风险警告已经不断累积。</p><p data-vmark="1ff3">他对此解释道：“人们会怀疑我们吹的东西只是空中楼阁，因此我们必须真正把想的东西做出来”。</p><p data-vmark="90cc">同时他坚信，AI 将在未来五年内，取代最多 50% 的初级白领岗位。行业不能淡化这种冲击，必须让 AI 带来更大的正面价值。</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
