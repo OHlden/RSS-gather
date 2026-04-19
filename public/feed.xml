@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sun, 19 Apr 2026 13:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 16:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[德国法院裁定：用 AI 将版权照片二创成漫画未必构成侵权]]></title>
+            <link>https://www.ithome.com/0/940/947.htm</link>
+            <guid>https://www.ithome.com/0/940/947.htm</guid>
+            <pubDate>Sun, 19 Apr 2026 13:58:25 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="d4cd">IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，德国杜塞尔多夫高等法院最近宣判，将他人版权照片用 AI 二创成漫画未必构成侵权。</p><p data-vmark="cd94" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfile...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="d4cd">IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，德国杜塞尔多夫高等法院最近宣判，将他人版权照片用 AI 二创成漫画未必构成侵权。</p><p data-vmark="cd94" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/333c6cb0-4682-4a61-998c-7ddbb8649e2b.png?x-bce-process=image/format,f_auto" w="1376" h="768" data-weibo="0" data-vmark="4de6"></p><figcaption>▲ 左：摄影师的版权图片，右：被告 AI 二创漫画</figcaption><p data-vmark="107d">IT之家从报道中获悉，本案起因是一位拍摄水下狗狗照片并出售作品的摄影师，起诉其前商业合作伙伴。<strong>摄影师称被告将她拍摄的“潜水狗”照片输入 AI 软件</strong>，<strong>并将输出的二创漫画风格图片发布到网上</strong>。</p><p data-vmark="e08b">法院审理后驳回上诉，庭审人员认为，<strong>AI 二创图片并未复制原作品的构图、视角、光线等受版权保护要素</strong>，<strong>至于摄影主题和狗狗本身则不属于版权保护范围</strong>。</p><p data-vmark="68c4">法官还引用了欧洲法院的最新裁决，强调界定侵权不只是看图片整体是否相似，而是要关注是否采用了可识别的创作性元素。</p><p data-vmark="1480">此外法院还明确指出，AI 生成作品只有在人类做出“可识别的创造性决策”时，才能获得版权保护。仅仅是选择生成图片或输入通用提示词并不足以构成“版权意义”的创作。</p>]]></content:encoded>
+        </item>
     </channel>
 </rss>
