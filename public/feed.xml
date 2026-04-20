@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Mon, 20 Apr 2026 06:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 10:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[阿里霸榜的 AI 视频模型“欢乐马”HappyHorse 将于 4 月 27 日开放测试]]></title>
-            <link>https://www.ithome.com/0/941/130.htm</link>
-            <guid>https://www.ithome.com/0/941/130.htm</guid>
-            <pubDate>Mon, 20 Apr 2026 06:13:30 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="b44e">IT之家 4 月 20 日消息，阿里 ATH 今日宣布，HappyHorse-1.0 将于 <strong>4 月 27 日</strong>通过阿里云百炼平台逐步开放 API 测试，首批邀测对象为企业级客户。</p><p data-vmark="8b75">阿里 ATH 方面透露，阿里巴巴在 AI 视频生成领域已深耕多年，HappyHorse 项目由 A...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="b44e">IT之家 4 月 20 日消息，阿里 ATH 今日宣布，HappyHorse-1.0 将于 <strong>4 月 27 日</strong>通过阿里云百炼平台逐步开放 API 测试，首批邀测对象为企业级客户。</p><p data-vmark="8b75">阿里 ATH 方面透露，阿里巴巴在 AI 视频生成领域已深耕多年，HappyHorse 项目由 ATH 创新事业部主导，联合阿里平台技术、通义实验室及淘天技术等多个团队协同打造。4 月底开放测试后，<strong>HappyHorse-1.0 将于 5 月份正式发布商用</strong>。</p><p data-vmark="aa1f">本月早些时候，一个名为 HappyHorse（欢乐马）的模型<a href="https://www.ithome.com/0/937/352.htm" target="_blank">悄悄登顶 Artificial Analysis 的 AI Video Arena 排行榜</a>，支持文本转视频、图像转视频，也能够生成音频。</p><p data-vmark="c5f0">4 月 10 日，<a href="https://www.ithome.com/0/937/808.htm" target="_blank">阿里宣布认领这款神秘 AI 视频模型</a>，表示 HappyHorse 是阿里 ATH 创新事业部正在内测中的产品，目前尚未上线。</p><p data-vmark="51da">IT之家查询获悉，HappyHorse-1.0 目前登顶 Artificial Analysis 的 AI Video Arena 排行榜，超过了字节跳动的 Seedance 和快手可灵等模型。</p><p style="text-align: center;" data-vmark="0487"><img src="https://img.ithome.com/newsuploadfiles/2026/4/d7c329c7-73aa-493a-96b4-a4a7f8d66535.png?x-bce-process=image/format,f_auto" w="1440" h="588" data-weibo="0" data-vmark="5ea6"></p><p style="text-align: center;" data-vmark="3e50"><img src="https://img.ithome.com/newsuploadfiles/2026/4/48719191-1368-4e40-b007-9fcc472bf6e7.png?x-bce-process=image/format,f_auto" w="1440" h="600" data-weibo="1" data-vmark="3908"></p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[杰创智能在广州成立科技新公司，含多项AI业务]]></title>
-            <link>https://36kr.com/newsflashes/3774760060420608?f=rss</link>
-            <guid>https://36kr.com/newsflashes/3774760060420608?f=rss</guid>
-            <pubDate>Mon, 20 Apr 2026 06:04:30 GMT</pubDate>
-            <description><![CDATA[36氪获悉，爱企查App显示，近日，广州杰耀信辉科技有限公司成立，法定代表人为孙宇奇，注册资本100万元人民币，经营范围包括人工智能基础软件开发、人工智能应用软件开发、人工智能理论与算法软件开发、人工智能公共数据平台等。股东信息显示，该公司由杰创智能科技股份有限公司全资持股。...]]></description>
-            <content:encoded><![CDATA[36氪获悉，爱企查App显示，近日，广州杰耀信辉科技有限公司成立，法定代表人为孙宇奇，注册资本100万元人民币，经营范围包括人工智能基础软件开发、人工智能应用软件开发、人工智能理论与算法软件开发、人工智能公共数据平台等。股东信息显示，该公司由杰创智能科技股份有限公司全资持股。]]></content:encoded>
-        </item>
     </channel>
 </rss>
