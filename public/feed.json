@@ -1,13 +1,34 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-19T20:47:43.078Z",
+  "updated": "2026-04-20T03:36:49.180Z",
   "items": [
     {
-      "title": "德国法院裁定：用 AI 将版权照片二创成漫画未必构成侵权",
-      "link": "https://www.ithome.com/0/940/947.htm",
-      "summary": "<p data-vmark=\"d4cd\">IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，德国杜塞尔多夫高等法院最近宣判，将他人版权照片用 AI 二创成漫画未必构成侵权。</p><p data-vmark=\"cd94\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfile...",
-      "pubDate": "2026-04-19T13:58:25.000Z",
+      "title": "龚宇：面对 AI 带来的变革，爱奇艺启动去中心化转型、更多创作者可自主上传作品",
+      "link": "https://www.ithome.com/0/941/069.htm",
+      "summary": "<p data-vmark=\"dfd7\">IT之家 4 月 20 日消息，爱奇艺 · 世界大会今日举行，爱奇艺创始人、首席执行官龚宇发表主题演讲。</p><p data-vmark=\"735c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/c16e5b4d-a119-45e4...",
+      "pubDate": "2026-04-20T03:30:39.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " Allbirds 做AI，是自救还是估值幻觉？ ",
+      "link": "https://www.huxiu.com/article/4852021.html?f=rss",
+      "summary": " <p data-check-id=\"663533\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU4Njk1NTQxMA==&mid=2247626099&idx=1&sn=73a2b92eda4f916bb2243619d5da93a8&ch...",
+      "pubDate": "2026-04-20T03:20:46.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "上海：对企业开展人工智能研发、应用，根据本市“算力券”“模型券”等规定给予支持",
+      "link": "https://36kr.com/newsflashes/3774595130819074?f=rss",
+      "summary": "36氪获悉，上海市经济和信息化委员会等7部门印发《上海市推动产业互联网平台赋能产业发展行动方案（2026-2028年）》。其中提到，夯实平台数智化发展基础。实施行业服务商培育行动，支持产业互联网平台企业高水平垂类模型备案，提升行业应用落地服务能力。搭建产业互联网平台算力服务专享通道，支持企业在算力调度平台上进行开发训练与微调、推理部署、模型定制。推动产业互联网平台加强动态安全检测评估，通过实战攻防...",
+      "pubDate": "2026-04-20T03:16:43.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "AI 投入猛增，消息称字节跳动 2025 年净利润同比下滑超 70%",
+      "link": "https://www.ithome.com/0/941/062.htm",
+      "summary": "<p data-vmark=\"315c\">IT之家 4 月 20 日消息，据《科创板日报》今日消息，知情人士透露，<strong>字节跳动 2025 年净利润同比下滑超过 70%</strong>，净利润率也出现了大幅下滑，背景在于该公司在去年三四季度大幅增加了对于 AI 业务的投入。</p><p data-vmark=\"9224\">报道还称，字节跳动 2025 年海外营收增长近 50%，远超约 ...",
+      "pubDate": "2026-04-20T03:14:45.000Z",
       "source": "IT之家"
     }
   ]
