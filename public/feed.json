@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-23T06:11:07.726Z",
+  "updated": "2026-04-23T09:50:30.224Z",
   "items": [
     {
-      "title": "Anthropic二级市场估值升至万亿美元，超越OpenAI",
-      "link": "https://36kr.com/newsflashes/3779005902066946?f=rss",
-      "summary": "Anthropic在Forge Global等未上市企业股权交易平台上的估值已升至1万亿美元左右，超过OpenAI的8800亿美元。据悉，由于买家正在竞相抢购Anthropic日益减少的二级市场股票，使得这家人工智能初创公司的估值迅速攀升。（财联社）...",
-      "pubDate": "2026-04-23T06:03:35.000Z",
+      "title": "微软宣布在澳大利亚投资180亿美元，扩大人工智能布局",
+      "link": "https://36kr.com/newsflashes/3779220623545345?f=rss",
+      "summary": "微软将在澳大利亚开展其史上规模最大的投资，与澳大利亚政府在网络安全、劳动力技能提升及人工智能开发等领域展开合作。此次新投资是在 2023 年 10 月宣布的 50 亿澳元承诺基础上追加的。澳大利亚政府还在吸引亚马逊、OpenAI 等其他人工智能超算企业前来投资。（新浪财经）...",
+      "pubDate": "2026-04-23T09:49:48.000Z",
       "source": "36氪"
     },
     {
-      "title": "美参议员示警：若“AI 泡沫”破碎，恐将引发下一次金融危机",
-      "link": "https://www.ithome.com/0/942/499.htm",
-      "summary": "<p data-vmark=\"4114\">IT之家 4 月 23 日消息，据外媒 The Verge 报道，当地时间周三，美国民主党联邦参议员伊丽莎白 · 沃伦在华盛顿的一场范德堡政策加速器活动上抛出一句话：“我一看就知道什么是泡沫。”</p><p data-vmark=\"94cc\">IT之家从报道中获悉，2008 年金融危机爆发后，沃伦曾主导推动设立新的消费者金融监管机构。近 18 年后的今天，...",
-      "pubDate": "2026-04-23T05:44:09.000Z",
+      "title": "华为手机 AI 自动旋转屏幕功能有望回归，适配产品新增 Pura X 和 Pura X Max",
+      "link": "https://www.ithome.com/0/942/709.htm",
+      "summary": "<p data-vmark=\"cab6\">IT之家 4 月 23 日消息，在 2019 年，华为发布了 Mate 30 系列手机，并率先带来了一项 AI 自动旋转屏幕功能。该功能支持识别当前人脸的方向，并智能切换横屏和竖屏。例如：竖持手机斜躺，手机屏幕不会旋转，横持手机则会旋转。</p><p data-vmark=\"9a98\" style=\"text-align: center;\"><iframe...",
+      "pubDate": "2026-04-23T09:44:47.000Z",
       "source": "IT之家"
+    },
+    {
+      "title": " 2026斯坦福人工智能指数报告（万字中译版） ",
+      "link": "https://www.huxiu.com/article/4853192.html?f=rss",
+      "summary": " <p data-check-id=\"336561\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4Njc3NTI4Mw==&mid=2651961558&idx=1&sn=85b1f9fcd3ff29c7282e2ebdc4e5e55c&ch...",
+      "pubDate": "2026-04-23T09:39:34.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
