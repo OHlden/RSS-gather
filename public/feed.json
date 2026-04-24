@@ -1,21 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-24T06:14:58.389Z",
+  "updated": "2026-04-24T09:50:37.587Z",
   "items": [
     {
-      "title": " 查不到直飞、搞不定闭环：文旅CIO们，别被AI的“聊天能力”骗了 ",
-      "link": "https://www.huxiu.com/article/4853431.html?f=rss",
-      "summary": " <p data-check-id=\"366227\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MTEzMzIzODIyMQ==&mid=2654990083&idx=1&sn=6a6dffc61ef1cbc719d44037902553e6&ch...",
-      "pubDate": "2026-04-24T06:10:31.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " AI火了五年了，终于有人做出了真正的AI浏览器 ",
-      "link": "https://www.huxiu.com/article/4853367.html?f=rss",
-      "summary": " <p data-check-id=\"607938\">Tabbit不光是把浏览器和AI融为一体了，更打造了一个披着浏览器外衣的OpenClaw。最适合普通人的龙虾，没有门槛上手即用。</p> ...",
-      "pubDate": "2026-04-24T06:00:00.000Z",
-      "source": " 虎嗅 "
+      "title": "安克创新发布首款存算一体AI芯片Thus™",
+      "link": "https://36kr.com/newsflashes/3780623796231430?f=rss",
+      "summary": "36氪获悉，近日，安克创新发布首款神经网络存算一体AI音频芯片Thus™。据介绍。该芯片基于NOR Flash技术，原生支持4兆参数模型，实验室测试显示相比传统蓝牙耳机芯片最高可带来150倍AI峰值算力提升。...",
+      "pubDate": "2026-04-24T09:35:42.000Z",
+      "source": "36氪"
     }
   ]
 }
