@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sat, 25 Apr 2026 03:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 05:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[英特尔“库存”CPU 因 AI 推理需求意外售罄，带动股价创历史新高]]></title>
-            <link>https://www.ithome.com/0/943/410.htm</link>
-            <guid>https://www.ithome.com/0/943/410.htm</guid>
-            <pubDate>Sat, 25 Apr 2026 02:42:24 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="b153">IT之家 4 月 25 日消息，据路透社 4 月 24 日报道，今年第一季度，AI 服务企业对英特尔 CPU 的需求异常强劲，甚至连英特尔把原本已经减记的芯片也卖掉了。这一反转相当罕见，也直接推高了英特尔周五的股价。</p><p data-vmark="150e">英特尔早盘<strong>一度大涨超过 24%</strong>，股价升至 83 美元（IT...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="b153">IT之家 4 月 25 日消息，据路透社 4 月 24 日报道，今年第一季度，AI 服务企业对英特尔 CPU 的需求异常强劲，甚至连英特尔把原本已经减记的芯片也卖掉了。这一反转相当罕见，也直接推高了英特尔周五的股价。</p><p data-vmark="150e">英特尔早盘<strong>一度大涨超过 24%</strong>，股价升至 83 美元（IT之家注：现汇率约合 568.3 元人民币），不仅突破 2000 年互联网泡沫时期高点，也把市值<strong>推高到 4160 亿美元（现汇率约合 2.85 万亿元人民币）以上</strong>。</p><p data-vmark="031a">市场情绪也带动了 AMD 和 Arm，两家公司上涨均超过 11%。投资者越来越相信，AI 推理可能会让 CPU 重新站回产业中心。过去几年，AI 训练所需的图形芯片一直是市场主角，CPU 的光芒相对较弱。</p><p data-vmark="3057">长期主导 AI 热潮的图形芯片巨头英伟达也已经感受到风向变化，并开始为更激烈的竞争做准备。英伟达上月<strong>罕见发布了一款新的 CPU</strong>，进入了一个长期由竞争对手占据的市场。</p><p data-vmark="8345">英特尔第一季度业绩好于预期，销售展望也超过市场预估后，至少 23 家券商上调了目标价。汇丰特别提到，用于 AI 数据中心的<strong>英特尔 Xeon（至强）服务器 CPU</strong> 需求正在升温。目前，英特尔股票目标价中值为 75 美元，一个月前只有 46.50 美元。</p><p data-vmark="ff35">英特尔首席财务官戴维 · 辛斯纳称，这次展望上调<strong>部分来自涨价</strong>，同时第一季度供应紧张，英特尔只得动用成品库存，把一些原本没指望卖出去的芯片重新卖给客户。“<strong>要么是降规格产品，要么是我们已经搁置的旧产品</strong>，后来我们又和客户一起想办法。我不确定第二季度还能不能继续享受到这个好处。”</p><p data-vmark="e460">算上周五涨幅，英特尔今年以来股价已<strong>上涨超过 120%</strong>。在此之前，英特尔去年已经上涨约 84%。经历多年失误后，英特尔在 CEO 陈立武领导下，转型势头正在增强。</p><p data-vmark="09c9">英特尔目前估值约为未来 12 个月预期利润的 90 倍，创下有记录以来最高水平，也明显高于 AMD 的 37 倍和英伟达的 22 倍。</p><p data-vmark="e0b6">本周早些时候，英特尔的代工业务也迎来象征性进展。特斯拉已成为英特尔下一代 14A 制程客户，这一合作与埃隆 · 马斯克计划中的 Terafab AI 芯片综合体有关。</p><p data-vmark="1100">TECHnalysis Research 总裁兼首席分析师鲍勃 · 奥唐奈尔说：“如果代工业务能像预期那样在 2027 年开始真正作出贡献，那就足以说明英特尔已经完成转型。”</p><p data-vmark="8158"><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p data-vmark="cacc">《<a target="_blank" href="https://www.ithome.com/0/943/030.htm">陈立武：AI 推理趋势利好英特尔，CPU 与 GPU 配比从 1:8 迈向 1:1</a>》</p></li></ul>]]></content:encoded>
-        </item>
     </channel>
 </rss>
