@@ -1,21 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-26T03:39:46.025Z",
+  "updated": "2026-04-26T06:12:42.757Z",
   "items": [
     {
-      "title": "芯擎科技发布新一代AI座舱芯片“龍鹰二号”，将于2027年Q1启动适配",
-      "link": "https://36kr.com/newsflashes/3783080587926793?f=rss",
-      "summary": "在2026北京车展上，高性能车规和工业数字平台供应商芯擎科技发布全新AI座舱芯片“龍鹰二号”，在中央计算平台领域实现了前瞻布局，将于2027年第一季度启动适配。该芯片覆盖AI座舱、舱驾融合全场景需求，采用柔性架构，灵活适配主机厂从入门级到旗舰级的中央计算平台演进。芯片AI算力高达200 TOPS，原生支持7B+多模态大模型，内置多核CPU 360KDMIPS，GPU 2800GFLOPS，支持LP...",
-      "pubDate": "2026-04-26T03:08:34.000Z",
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "link": "https://36kr.com/p/3783249100397570?f=rss",
+      "summary": "\n \n \n  <p>欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。</p>\n  <p>BRANDSTORM大赛已举办34年，覆盖全球40多个国家和...",
+      "pubDate": "2026-04-26T06:00:34.000Z",
       "source": "36氪"
     },
     {
-      "title": " 本周AI项目推荐：AirJelly、Boxy、Paperboy…Proactive Agent的野心和现实 ",
-      "link": "https://www.huxiu.com/article/4853847.html?f=rss",
-      "summary": " <p data-check-id=\"687864\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247628142&idx=1&sn=86752031858586ad9c33f95df839d992&ch...",
-      "pubDate": "2026-04-26T03:08:06.000Z",
-      "source": " 虎嗅 "
+      "title": "京东启动AI硬件孵化计划",
+      "link": "https://36kr.com/newsflashes/3783158630948103?f=rss",
+      "summary": "36氪获悉，4月26日，京东宣布启动“Aidol创造营”计划，面向全球征集AI智能硬件项目，希望联合产业伙伴在今年孵化101个AI硬件标杆。据京东介绍，报名截止到5月15日，首期“Aidol创造营”活动将于5月25日至6月18日落地。...",
+      "pubDate": "2026-04-26T05:02:53.000Z",
+      "source": "36氪"
     }
   ]
 }
