@@ -1,27 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-27T10:23:50.082Z",
+  "updated": "2026-04-27T14:12:06.229Z",
   "items": [
     {
-      "title": "京东全新升级AI黑科技功能，深度融合生成式AI与3D渲染能力",
-      "link": "https://36kr.com/newsflashes/3784919071104004?f=rss",
-      "summary": "36氪获悉，近日，京东全新升级AI黑科技功能。该功能深度融合生成式AI与3D渲染能力，集成一秒识万物、即刻上脸、虚拟试戴及360°3D产品模型三大核心功能。据了解，2026年京东将持续加码AI设备和智能眼镜品类建设，同时将在数百家线下门店设立AI智能专区。...",
-      "pubDate": "2026-04-27T10:18:46.000Z",
-      "source": "36氪"
-    },
-    {
-      "title": "Ubuntu 未来一年将逐渐“AI 化”：从增强现有功能开始，不会变成 AI 产品",
-      "link": "https://www.ithome.com/0/944/111.htm",
-      "summary": "<p data-vmark=\"d9b8\">IT之家 4 月 27 日消息，Ubuntu 26.04 LTS 发布后，Canonical 披露了 Ubuntu 接下来的重点开发方向：AI 功能将明显增多。</p><p data-vmark=\"9766\">Canonical 工程副总裁 Jon Seager 今天在 Ubuntu Discourse 发文，介绍了 Ubuntu 未来引入 AI 的思路，...",
-      "pubDate": "2026-04-27T10:13:33.000Z",
+      "title": "安克“AI 录音豆”智能录音硬件新增 64GB 存储空间版本，999 元",
+      "link": "https://www.ithome.com/0/944/177.htm",
+      "summary": "<p data-vmark=\"b240\">IT之家 4 月 27 日消息，安克宣布为旗下“AI 录音豆”智能录音硬件新增 64GB 存储空间版本，该产品系安克与飞书合作的产品，定价为 999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/fOOeaNn\" target=\"_blank\" data-wapurl=\"https...",
+      "pubDate": "2026-04-27T14:05:36.000Z",
       "source": "IT之家"
     },
     {
-      "title": " 耶鲁大学发布报告：高等教育的信任危机与AI时代的使命重建 ",
-      "link": "https://www.huxiu.com/article/4854154.html?f=rss",
-      "summary": " <p data-check-id=\"414203\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg4NzYwODIzNw==&mid=2247587405&idx=1&sn=386ae5f0081db22d9a3041579b474a2c&ch...",
-      "pubDate": "2026-04-27T10:11:45.000Z",
+      "title": " 对话周鸿祎： 美国Mythos改变攻防规则，AI正在制造新的“网络核武器” ",
+      "link": "https://www.huxiu.com/article/4854241.html?f=rss",
+      "summary": " <p data-check-id=\"205526\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI0MzAzNjk2Nw==&mid=2651707057&idx=3&sn=a900970a6638e656c719d858f08c8956&ch...",
+      "pubDate": "2026-04-27T13:38:01.000Z",
       "source": " 虎嗅 "
     }
   ]
