@@ -1,41 +1,27 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-27T06:34:10.960Z",
+  "updated": "2026-04-27T10:23:50.082Z",
   "items": [
     {
-      "title": " 马斯克起诉OpenAI案将开庭，他要求“罢免”阿尔特曼、恢复公司非盈利性质，若胜诉，OpenAI上市或被迫搁置，近6万亿元产业链被波及 ",
-      "link": "https://www.huxiu.com/article/4854060.html?f=rss",
-      "summary": " <p data-check-id=\"226123\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248532588&idx=1&sn=63a8f37fa3949a0b3b3dc8c2eb6bb22d&ch...",
-      "pubDate": "2026-04-27T06:24:30.000Z",
-      "source": " 虎嗅 "
+      "title": "京东全新升级AI黑科技功能，深度融合生成式AI与3D渲染能力",
+      "link": "https://36kr.com/newsflashes/3784919071104004?f=rss",
+      "summary": "36氪获悉，近日，京东全新升级AI黑科技功能。该功能深度融合生成式AI与3D渲染能力，集成一秒识万物、即刻上脸、虚拟试戴及360°3D产品模型三大核心功能。据了解，2026年京东将持续加码AI设备和智能眼镜品类建设，同时将在数百家线下门店设立AI智能专区。...",
+      "pubDate": "2026-04-27T10:18:46.000Z",
+      "source": "36氪"
     },
     {
-      "title": " 三星、SK海力士赚翻了，韩国为什么还在AI焦虑？ ",
-      "link": "https://www.huxiu.com/article/4854056.html?f=rss",
-      "summary": " <p data-check-id=\"304681\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1MzQ1NDk3MQ==&mid=2247581246&idx=1&sn=fef0d8cbf1ffd3ce4122b318fbdad0d8&ch...",
-      "pubDate": "2026-04-27T06:17:21.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "紫光展锐、华阳通用携手发布 A8880 芯片 AI 座舱平台",
-      "link": "https://www.ithome.com/0/943/905.htm",
-      "summary": "<p data-vmark=\"fdfc\">IT之家 4 月 27 日消息，紫光展锐本月 24 日在 2026（第十九届）北京国际汽车展览会上与 ADAYO 华阳通用联合发布<strong>搭载旗舰级芯片 A8880 的新一代 AI 座舱平台</strong>。</p><p data-vmark=\"f924\" style=\"text-align: center;\"><img src=\"https:/...",
-      "pubDate": "2026-04-27T06:06:04.000Z",
+      "title": "Ubuntu 未来一年将逐渐“AI 化”：从增强现有功能开始，不会变成 AI 产品",
+      "link": "https://www.ithome.com/0/944/111.htm",
+      "summary": "<p data-vmark=\"d9b8\">IT之家 4 月 27 日消息，Ubuntu 26.04 LTS 发布后，Canonical 披露了 Ubuntu 接下来的重点开发方向：AI 功能将明显增多。</p><p data-vmark=\"9766\">Canonical 工程副总裁 Jon Seager 今天在 Ubuntu Discourse 发文，介绍了 Ubuntu 未来引入 AI 的思路，...",
+      "pubDate": "2026-04-27T10:13:33.000Z",
       "source": "IT之家"
     },
     {
-      "title": "OpenAI 发布 Privacy Filter：1.5B 参数 PII 脱敏模型，Apache 2.0 开源上线",
-      "link": "https://www.ithome.com/0/943/900.htm",
-      "summary": "<p data-vmark=\"9acc\">IT之家 4 月 27 日消息，OpenAI 于 4 月 22 日发布了一款用于脱敏文本中个人身份信息 (PII) 的前沿模型 Privacy Filter。</p><p data-vmark=\"3faf\">该模型已以 Apache 2.0 许可协议在 Hugging Face 和 GitHub 平台同步开源，供开发者下载、定制及商业部署。</p><p s...",
-      "pubDate": "2026-04-27T06:01:36.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": " 连鲁迅都没想到？中国网友为了省AI花费，开始说文言文了 ",
-      "link": "https://www.huxiu.com/article/4853402.html?f=rss",
-      "summary": " <p data-check-id=\"309287\">2026年中国网友省钱大法升级了，开始跟AI说文言文？事实上，AI涨价太狠，有的套餐一年涨了400%，免费版还各种诱惑你花钱。下次和AI聊天前，先精简你的问题吧！</p> ...",
-      "pubDate": "2026-04-27T06:00:00.000Z",
+      "title": " 耶鲁大学发布报告：高等教育的信任危机与AI时代的使命重建 ",
+      "link": "https://www.huxiu.com/article/4854154.html?f=rss",
+      "summary": " <p data-check-id=\"414203\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg4NzYwODIzNw==&mid=2247587405&idx=1&sn=386ae5f0081db22d9a3041579b474a2c&ch...",
+      "pubDate": "2026-04-27T10:11:45.000Z",
       "source": " 虎嗅 "
     }
   ]
