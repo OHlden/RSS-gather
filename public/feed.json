@@ -1,6 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-29T14:19:40.246Z",
-  "items": []
+  "updated": "2026-04-29T17:44:20.382Z",
+  "items": [
+    {
+      "title": " 英特尔和AMD创新高：AI狂热之后，算力世界开始重新定价 ",
+      "link": "https://www.huxiu.com/article/4854919.html?f=rss",
+      "summary": " <p data-check-id=\"202327\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA3ODI5NDg0Mw==&mid=2654254621&idx=1&sn=71c2d23b1c57af242bf098c53877170b&ch...",
+      "pubDate": "2026-04-29T16:08:51.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "倍耐力买下 Univrses 30% 股份，加码 AI 轮胎技术",
+      "link": "https://www.ithome.com/0/945/234.htm",
+      "summary": "<p data-vmark=\"3d0f\">IT之家 4 月 29 日消息，意大利轮胎制造商倍耐力于当地时间周三与瑞典公司 Univrses 签署合作协议，收购后者 30% 的股份，并拥有增持至控股多数股权的选择权，旨在将人工智能计算机视觉技术整合至其智能轮胎（Cyber Tyre）系统中。</p><p style=\"text-align: center;\" data-vmark=\"9f55\"><i...",
+      "pubDate": "2026-04-29T14:58:44.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
