@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 30 Apr 2026 03:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 06:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[Counterpoint：联发科有望占据 AI 计算 ASIC 市场 1/4 份额，仅次于博通]]></title>
+            <link>https://www.ithome.com/0/945/413.htm</link>
+            <guid>https://www.ithome.com/0/945/413.htm</guid>
+            <pubDate>Thu, 30 Apr 2026 06:30:23 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="dee5">IT之家 4 月 30 日消息，调研公司 Counterpoint Research 当地时间 29 日发布简介，认为联发科技 (Mediatek) 有望凭借与 Google（谷歌）的合作<strong>在 2 年内实现 AI 服务器计算 ASIC 出货规模的数量级增长</strong>。</p><p data-vmark="be85">联发科 2028 ...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="dee5">IT之家 4 月 30 日消息，调研公司 Counterpoint Research 当地时间 29 日发布简介，认为联发科技 (Mediatek) 有望凭借与 Google（谷歌）的合作<strong>在 2 年内实现 AI 服务器计算 ASIC 出货规模的数量级增长</strong>。</p><p data-vmark="be85">联发科 2028 年有望合计交付 500 万颗谷歌 TPU 芯片，<strong>以 26% 的市占成为 AI ASIC 设计服务领域仅次于 Broadcom（博通）的参与者</strong>。</p><p style="text-align: center;" data-vmark="ec85"><img src="https://img.ithome.com/newsuploadfiles/2026/4/1439f9c7-9939-435b-8ff9-b11a2b87d67b.png?x-bce-process=image/format,f_auto" w="1440" h="787" data-weibo="0" data-vmark="c3d1"></p><figcaption>▲ 图源：Counterpoint Research</figcaption><p data-vmark="4429">在谷歌近期推出 TPU v8t (Zebrafish) 上，谷歌负责核心计算芯片的设计并协调 HBM 供应，联发科则提供 I/O 芯片。而在传统的博通“交钥匙”解决方案中，博通负责 HBM 采购并有 15~20% 的加价。</p><p data-vmark="5c59">谷歌在部分芯片上转向新的合作方式，<strong>这一方面能节省计算芯片设计成本</strong>，<strong>另一方面也能避免 HBM 上的加价</strong>，实现更有利的成本结构。</p><p data-vmark="fd8b">展望未来，<strong>联发科正与谷歌携手推进 TPU v8e (Zebrafish) </strong>。该项目当前处于设计导入和验证阶段，预计 2027 年底启动量产并在 2028 年放量，并有望至少部分导入 Intel（英特尔）的 EMIB-T 2.5D 异构集成先进封装技术。</p><p data-vmark="b88b">参考</p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p data-vmark="b2c3"><a target="_blank" href="https://counterpointresearch.com/en/insights/MediaTek-to-Contribute-1-in-4-AI-ASIC-Server-Compute-Shipments-in-2028">MediaTek to Contribute 1 in 4 AI ASIC Server Compute Shipments in 2028</a></p></li></ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[英伟达高管称现阶段 AI 服务运营成本高于人力成本]]></title>
+            <link>https://www.ithome.com/0/945/410.htm</link>
+            <guid>https://www.ithome.com/0/945/410.htm</guid>
+            <pubDate>Thu, 30 Apr 2026 06:22:02 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="1214">IT之家 4 月 30 日消息，科技媒体 Tom's Hardware 昨日（4 月 29 日）发布博文，<strong>报道称英伟达高管和 Uber 首席技术官指出，现阶段 AI 服务（如代码助手、自动化智能体）的运营成本高于人力成本。</strong></p><p data-vmark="7523">这一观点挑战了“AI 必然降本增效”的普遍预期，揭示...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="1214">IT之家 4 月 30 日消息，科技媒体 Tom's Hardware 昨日（4 月 29 日）发布博文，<strong>报道称英伟达高管和 Uber 首席技术官指出，现阶段 AI 服务（如代码助手、自动化智能体）的运营成本高于人力成本。</strong></p><p data-vmark="7523">这一观点挑战了“AI 必然降本增效”的普遍预期，揭示了当前阶段企业应用 AI 的一个现实：在追求技术革新的初期，投入成本可能不降反升，而管理层正试图将这种投入重新定义为战略投资。</p><p data-vmark="f3e1">在接受 Axios 采访时，英伟达应用深度学习副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）表示：“对我的团队来说，计算成本远远超过了员工成本。”</p><p data-vmark="20c8">Uber 的首席技术官普拉文 · 纳加（Praveen Naga）也持有同样的观点，他表示 2 周前他预想的预算已经远远超出预期，所以不得不“重新制定计划”。</p><p data-vmark="1659">AI 服务的定价模式主要分为订阅制与 Token 计费制，标准 AI 助手订阅费通常为每月 20 美元，功能完备版则高达 200 美元（IT之家注：现汇率约合 1370 元人民币）。</p><p data-vmark="9150">然而，真正的巨额开支源于基于 Token 的模式，尤其是 Claude Code 和 GitHub Copilot 等编程助手，以及执行复杂自动化任务的智能体。</p><p style="text-align: center;" data-vmark="6c85"><img src="https://img.ithome.com/newsuploadfiles/2025/11/86ce422e-24ad-4b80-ba1b-e22ca85962a6.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto" w="1440" h="1080" data-mpos="2,0"  data-ai="2" data-weibo="0" data-vmark="8b87" class="no-alt-img"></p><p data-vmark="4c25">尽管成本高昂，但企业界的反应出人意料。许多 CEO 并不将高额的 AI 账单视为负担，反而看作积极信号。他们认为，这证明员工正在深入使用 AI 工具，推动大规模自动化进程，从而驱动企业创新。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[微软 CEO 纳德拉：与 OpenAI 达成新协议是双赢]]></title>
+            <link>https://www.ithome.com/0/945/407.htm</link>
+            <guid>https://www.ithome.com/0/945/407.htm</guid>
+            <pubDate>Thu, 30 Apr 2026 06:14:37 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="b975">IT之家 4 月 30 日消息，据 TechCrunch 报道，当地时间 4 月 29 日，一名华尔街分析师直截了当地询问微软首席执行官萨提亚 · 纳德拉，修订后的 OpenAI 合作伙伴关系将如何影响微软的财务状况。</p><p data-vmark="ba4f">纳德拉表示，新协议对每个人来说都是一笔好交易。“我们对与 OpenAI 的合作伙伴关系感到...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="b975">IT之家 4 月 30 日消息，据 TechCrunch 报道，当地时间 4 月 29 日，一名华尔街分析师直截了当地询问微软首席执行官萨提亚 · 纳德拉，修订后的 OpenAI 合作伙伴关系将如何影响微软的财务状况。</p><p data-vmark="ba4f">纳德拉表示，新协议对每个人来说都是一笔好交易。“我们对与 OpenAI 的合作伙伴关系感到满意。我始终非常关注任何合作伙伴关系，<strong>并确保始终存在双赢（win-win）的结构</strong>。我的意思是，这就是你能保持良好合作伙伴关系的方式。”</p><p data-vmark="2d82">纳德拉还强调，微软保留了获取 OpenAI 知识产权（包括其模型和智能体产品）的权限，<strong>但不再需要为此向 OpenAI 支付费用</strong>。</p><p data-vmark="9ff8">据IT之家此前报道，根据修订后的协议条款，<a target="_blank" href="https://www.ithome.com/0/944/167.htm">微软仍保留 OpenAI 首要云服务合作伙伴的地位</a>；除非微软无法或选择不支持相关所需功能，否则 OpenAI 旗下产品将优先在微软 Azure 云平台上线。但如今 <strong>OpenAI 已可通过任意云服务商向客户提供旗下全部产品服务。</strong></p><p data-vmark="c6cb">当地时间 4 月 28 日，<a target="_blank" href="https://www.ithome.com/0/944/915.htm">亚马逊云科技 AWS 宣布携手 OpenAI</a>，<strong>将 OpenAI 最新大模型接入 Amazon Bedroc</strong><strong>k</strong>，在 Amazon Bedrock 上线 Codex 代码 Agent。</p><p data-vmark="1437"><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p data-vmark="36fd">《<a target="_blank" href="https://www.ithome.com/0/945/237.htm">微软 2026 财年第三财季净利润 317.78 亿美元，同比增长 23%</a>》</p></li><li><p data-vmark="7d33">《<a target="_blank" href="https://www.ithome.com/0/939/027.htm">OpenAI 摊牌：微软限制了我们满足客户的能力</a>》</p></li><li><p data-vmark="d472">《<a target="_blank" href="https://www.ithome.com/0/930/340.htm">盟友反目：OpenAI 牵手亚马逊，微软拟对其采取法律行动</a>》</p></li></ul>]]></content:encoded>
+        </item>
     </channel>
 </rss>

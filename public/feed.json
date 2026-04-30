@@ -1,6 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-30T03:48:39.980Z",
-  "items": []
+  "updated": "2026-04-30T06:33:16.666Z",
+  "items": [
+    {
+      "title": "Counterpoint：联发科有望占据 AI 计算 ASIC 市场 1/4 份额，仅次于博通",
+      "link": "https://www.ithome.com/0/945/413.htm",
+      "summary": "<p data-vmark=\"dee5\">IT之家 4 月 30 日消息，调研公司 Counterpoint Research 当地时间 29 日发布简介，认为联发科技 (Mediatek) 有望凭借与 Google（谷歌）的合作<strong>在 2 年内实现 AI 服务器计算 ASIC 出货规模的数量级增长</strong>。</p><p data-vmark=\"be85\">联发科 2028 ...",
+      "pubDate": "2026-04-30T06:30:23.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "英伟达高管称现阶段 AI 服务运营成本高于人力成本",
+      "link": "https://www.ithome.com/0/945/410.htm",
+      "summary": "<p data-vmark=\"1214\">IT之家 4 月 30 日消息，科技媒体 Tom's Hardware 昨日（4 月 29 日）发布博文，<strong>报道称英伟达高管和 Uber 首席技术官指出，现阶段 AI 服务（如代码助手、自动化智能体）的运营成本高于人力成本。</strong></p><p data-vmark=\"7523\">这一观点挑战了“AI 必然降本增效”的普遍预期，揭示...",
+      "pubDate": "2026-04-30T06:22:02.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "微软 CEO 纳德拉：与 OpenAI 达成新协议是双赢",
+      "link": "https://www.ithome.com/0/945/407.htm",
+      "summary": "<p data-vmark=\"b975\">IT之家 4 月 30 日消息，据 TechCrunch 报道，当地时间 4 月 29 日，一名华尔街分析师直截了当地询问微软首席执行官萨提亚 · 纳德拉，修订后的 OpenAI 合作伙伴关系将如何影响微软的财务状况。</p><p data-vmark=\"ba4f\">纳德拉表示，新协议对每个人来说都是一笔好交易。“我们对与 OpenAI 的合作伙伴关系感到...",
+      "pubDate": "2026-04-30T06:14:37.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
