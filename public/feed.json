@@ -1,14 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-01T03:59:29.450Z",
+  "updated": "2026-05-01T06:42:47.923Z",
   "items": [
     {
-      "title": " 猪价走低拖累业绩，京基智农一季度净利转亏，跨界豪赌“机器人+人工智能”新赛道 ",
-      "link": "https://www.huxiu.com/article/4855331.html?f=rss",
-      "summary": " <p data-check-id=\"318641\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MjEyODE4MA==&mid=2653345279&idx=4&sn=b2e99b8097877be0255ce2aef60e6cbc&ch...",
-      "pubDate": "2026-05-01T03:28:10.000Z",
+      "title": " Science：华人团队利用生成式AI设计，迈向只有19种氨基酸的生命 ",
+      "link": "https://www.huxiu.com/article/4855363.html?f=rss",
+      "summary": " <p data-check-id=\"253433\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247799941&idx=1&sn=ebecaf8945ee4eacae62dd8f5f1f982e&ch...",
+      "pubDate": "2026-05-01T06:38:53.000Z",
       "source": " 虎嗅 "
+    },
+    {
+      "title": "韩投称 AI 企业已锁定长期内存订单：即便市场短缺缓解，价格仍维持高位",
+      "link": "https://www.ithome.com/0/945/815.htm",
+      "summary": "<p data-vmark=\"231d\">IT之家 5 月 1 日消息，韩国投资证券（KIS，简称韩投）在最新研报中指出，<strong>即使内存芯片短缺缓解，价格短期内也不会出现明显下降。</strong>研报指出 AI 超大规模企业已锁定长期产能订单，因此会进一步拉长本轮内存超级周期，且内存售价在可以预见的未来始终维持高位运行。</p><p data-vmark=\"1c89\">IT之家援引研报...",
+      "pubDate": "2026-05-01T05:50:12.000Z",
+      "source": "IT之家"
     }
   ]
 }
