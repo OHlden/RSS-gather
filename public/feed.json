@@ -1,20 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-01T21:00:49.751Z",
+  "updated": "2026-05-02T03:33:04.716Z",
   "items": [
     {
-      "title": "美国防部与 OpenAI、谷歌、英伟达、微软等 7 家 AI 公司达成协议",
-      "link": "https://www.ithome.com/0/945/912.htm",
-      "summary": "<p data-vmark=\"2539\">IT之家 5 月 1 日消息，当地时间 5 月 1 日（今天），美国国防部宣布与 7 家 AI 公司达成协议，将把这些公司的先进能力部署到国防部机密网络上，旨在扩大军方可合作的 AI 公司范围。</p><p data-vmark=\"fada\"><strong>SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务</strong...",
-      "pubDate": "2026-05-01T14:20:11.000Z",
+      "title": "OpenAI CEO 萨姆 · 奥尔特曼：我们不会创造取代人类的实体",
+      "link": "https://www.ithome.com/0/945/986.htm",
+      "summary": "<p data-vmark=\"505b\">IT之家 5 月 2 日消息，OpenAI 创始人兼 CEO 萨姆 · 奥尔特曼昨天在 X 平台表示：“我们希望打造增强和提升人类能力的工具，而不是创造取代人类的实体”。</p><p style=\"text-align: center;\" data-vmark=\"b3c7\"><img src=\"https://img.ithome.com/newsuplo...",
+      "pubDate": "2026-05-02T03:31:59.000Z",
       "source": "IT之家"
     },
     {
-      "title": "马斯克承认：xAI 曾使用 OpenAI 模型来“蒸馏”Grok",
-      "link": "https://www.ithome.com/0/945/902.htm",
-      "summary": "<p data-vmark=\"b0c0\">IT之家 5 月 1 日消息，AI 行业一场备受关注的法律战正在升级。当地时间 4 月 30 日，埃隆 · 马斯克在加州联邦法院作证时承认，他旗下初创公司 xAI 曾使用 OpenAI 的模型，帮助训练自家聊天机器人 Grok。</p><p data-vmark=\"d5ce\">这番证词出现在马斯克起诉 OpenAI 及其 CEO 萨姆 · 奥尔特曼的案件中...",
-      "pubDate": "2026-05-01T13:52:50.000Z",
+      "title": "微软公布 Windows 质量更新进展：简化 Insider 通道、电源菜单不再“强求更新”，精简 AI 功能",
+      "link": "https://www.ithome.com/0/945/983.htm",
+      "summary": "<p data-vmark=\"b097\">IT之家 5 月 2 日消息，微软昨天在官网发布博文，公布 Windows 质量更新自 3 月以来的进展。</p><p data-vmark=\"c944\">微软 Windows+ 设备体验负责人 Marcus Ash 表示，他在与内测用户（Insiders）交流中发现，大家希望微软能让透明度更高，看到更新的实际进展。因此在接下来几个月内，<strong>团...",
+      "pubDate": "2026-05-02T02:50:06.000Z",
       "source": "IT之家"
     }
   ]
