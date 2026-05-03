@@ -1,49 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-03T09:26:01.084Z",
+  "updated": "2026-05-03T13:26:22.000Z",
   "items": [
     {
-      "title": "OpenAI 奥尔特曼谈 GPT-5.5 自主策划发布会：希望人类开发者为其祝酒，但它自己拒绝发表祝酒词",
-      "link": "https://www.ithome.com/0/946/140.htm",
-      "summary": "<p data-vmark=\"c6dd\">IT之家 5 月 3 日消息，据《Business Insider》今日报道，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）在 Stripe Sessions 的一次炉边谈话中透露，他曾让该公司最新的大模型 GPT-5.5 为自己策划一场发布活动，而它给出的答复既“美丽”又让人感到“奇怪”。</p><p data-vmark=\"3bdb\"...",
-      "pubDate": "2026-05-03T09:08:07.000Z",
+      "title": "美光 CEO 称 AI 仍处于“早期阶段”，DRAM 内存和 NAND 闪存供应持续吃紧",
+      "link": "https://www.ithome.com/0/946/161.htm",
+      "summary": "<p data-vmark=\"44b1\">IT之家 5 月 3 日消息，存储巨头美光科技（Micron）第二财季创下了营收、毛利率、每股收益和自由现金流的多项纪录。</p><p data-vmark=\"1be9\">美光 CEO 桑杰・梅赫罗特拉（Sanjay Mehrotra）在接受 CNBC 采访时指出，当前的 AI 浪潮仅处于“早期阶段”，随着 AI 智能体的崛起，更高速、更大容量的存储已成为...",
+      "pubDate": "2026-05-03T11:52:24.000Z",
       "source": "IT之家"
-    },
-    {
-      "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
-      "link": "https://36kr.com/newsflashes/3793154827000832?f=rss",
-      "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions...",
-      "pubDate": "2026-05-03T09:00:29.000Z",
-      "source": "36氪"
-    },
-    {
-      "title": "超维动力发布全球最高 115 自由度人形机器人 KAI：173 厘米、70 公斤，全身覆盖 18000 个触觉传感点",
-      "link": "https://www.ithome.com/0/946/138.htm",
-      "summary": "<p data-vmark=\"c60f\">IT之家 5 月 3 日消息，深圳具身智能公司超维动力（Kinetix AI）4 月 26 日举办发布会，正式推出其首款全尺寸人形机器人产品“KAI”。</p><p style=\"text-align: center;\" data-vmark=\"7937\"><img src=\"https://img.ithome.com/newsuploadfiles/2...",
-      "pubDate": "2026-05-03T08:35:04.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "5000 美元一条视频：曝 OpenAI 注资“黑金”组织，收买网红宣扬中国 AI 威胁论",
-      "link": "https://www.ithome.com/0/946/136.htm",
-      "summary": "<p data-vmark=\"8186\">IT之家 5 月 3 日消息，《连线》杂志前天发文，揭露非营利组织“建设美国 AI（Build American AI）”煽动中国 AI 威胁论行径。该组织由人工智能公司 OpenAI、风投机构“安德里森 · 霍罗威茨”相关高管注资。</p><p data-vmark=\"db9b\" style=\"text-align: center;\"><img src=...",
-      "pubDate": "2026-05-03T08:13:36.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": " 为什么和AI聊天，总让当代人感觉更亲密？ ",
-      "link": "https://www.huxiu.com/article/4855570.html?f=rss",
-      "summary": " <p data-check-id=\"528204\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654898438&idx=1&sn=75ece28d086df19fb6599098cf938bee&ch...",
-      "pubDate": "2026-05-03T08:12:30.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " AI时代，劳动如何创造价值？ ",
-      "link": "https://www.huxiu.com/article/4855569.html?f=rss",
-      "summary": " <p data-check-id=\"272137\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4MTQ0ODEwNg==&mid=2650223080&idx=4&sn=0f3007abf2fcda193c075c3f81683ece&ch...",
-      "pubDate": "2026-05-03T08:08:46.000Z",
-      "source": " 虎嗅 "
     }
   ]
 }
