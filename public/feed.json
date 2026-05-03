@@ -1,21 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-02T20:52:09.418Z",
+  "updated": "2026-05-03T03:54:32.464Z",
   "items": [
     {
-      "title": " 传奇落幕，95岁巴菲特正式“退役”，接班人阿贝尔首秀：计划开设霍尔木兹海峡保险业务，对AI持保守态度，“中东战事影响所有业务” ",
-      "link": "https://www.huxiu.com/article/4855531.html?f=rss",
-      "summary": " <p data-check-id=\"370711\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248534448&idx=1&sn=37d5012ade95a3301ee1479c3bd83fae&ch...",
-      "pubDate": "2026-05-02T20:38:37.000Z",
+      "title": " 台上“AI巴菲特”，台下“真巴菲特” ",
+      "link": "https://www.huxiu.com/article/4855544.html?f=rss",
+      "summary": " <p data-check-id=\"103343\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247811782&idx=1&sn=2275e7a4e8a1121412f5fdfd6710c6a3&ch...",
+      "pubDate": "2026-05-03T02:51:04.000Z",
       "source": " 虎嗅 "
-    },
-    {
-      "title": "哈佛新研究：AI 模型“急诊科”场景诊断能力有望超越人类医生",
-      "link": "https://www.ithome.com/0/946/077.htm",
-      "summary": "<p data-vmark=\"1518\">IT之家 5 月 2 日消息，当地时间 5 月 1 日，据外媒 TechSpot 报道，AI 正开始进入医学中最难的一类场景：信息不完整时如何作出正确的判断。《科学》期刊一项新研究显示，OpenAI 的一款推理模型在真实临床病例中接受测试后，在诊断患者和制定治疗方案方面<strong>达到人类医生水平</strong>，很多情况下甚至表现更好。</p><p...",
-      "pubDate": "2026-05-02T14:16:25.000Z",
-      "source": "IT之家"
     }
   ]
 }
