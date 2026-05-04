@@ -1,28 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-04T03:52:12.659Z",
+  "updated": "2026-05-04T06:46:29.232Z",
   "items": [
     {
-      "title": "仅花 12 美元，工程师成功欺骗 AI 将虚构赛事奉为事实",
-      "link": "https://www.ithome.com/0/946/229.htm",
-      "summary": "<p data-vmark=\"69a0\">IT之家 5 月 4 日消息，普通搜索引擎会让用户自行甄别信息来源的可信度，而依托搜索能力的人工智能聊天机器人，却能把漏洞百出的网络素材包装成笃定确凿的答案。据 The Register 报道，就有这样一个典型案例：一名安全工程师哄骗多款 AI 机器人，声称自己是德国一款热门纸牌游戏的现任世界冠军，可事实上这项赛事根本不存在。</p><p data-vma...",
-      "pubDate": "2026-05-04T03:20:10.000Z",
+      "title": "英伟达黄仁勋痛批 Anthropic 阿莫迪，呼吁 AI 行业领袖慎言慎行、以事实为据",
+      "link": "https://www.ithome.com/0/946/240.htm",
+      "summary": "<p data-vmark=\"62c8\">IT之家 5 月 4 日消息，据《商业内幕》昨天报道，英伟达 CEO 黄仁勋上周四在《Memos to the President》播客节目表示，行业领袖应该在谈论 AI 重要性时应“慎言慎行”。</p><p style=\"text-align: center;\" data-vmark=\"2ee8\"><img src=\"https://img.ithome...",
+      "pubDate": "2026-05-04T06:25:34.000Z",
       "source": "IT之家"
     },
     {
-      "title": " 硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰 ",
-      "link": "https://www.huxiu.com/article/4855633.html?f=rss",
-      "summary": " <p data-check-id=\"285552\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651283402&idx=1&sn=6ad76f53f4d33b3463669189fda999e8&ch...",
-      "pubDate": "2026-05-04T02:37:15.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " 当人工智能在诊断考试中超过医生，我们该慌吗？ ",
-      "link": "https://www.huxiu.com/article/4855632.html?f=rss",
-      "summary": " <p data-check-id=\"244611\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4OTU5MTQ2MA==&mid=2650142625&idx=1&sn=6ae27ae7da116167dd393701d3828501&ch...",
-      "pubDate": "2026-05-04T02:29:22.000Z",
-      "source": " 虎嗅 "
+      "title": "Linux 7.1 RC2 发布，AI 已渗透到内核开发",
+      "link": "https://www.ithome.com/0/946/238.htm",
+      "summary": "<p data-vmark=\"9ea9\">IT之家 5 月 4 日消息，Linus Torvalds 刚刚发布了 Linux 7.1 的第二个候选版本（RC2），表示整体开发进展一切正常。这意味着，Linux 7.1 很有可能在第七个候选版本（RC7）之后准时正式发布。</p><p style=\"text-align: center;\" data-vmark=\"763f\"><img src=\"ht...",
+      "pubDate": "2026-05-04T05:56:16.000Z",
+      "source": "IT之家"
     }
   ]
 }
