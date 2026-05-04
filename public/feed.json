@@ -1,6 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-04T10:19:52.005Z",
-  "items": []
+  "updated": "2026-05-04T14:20:03.351Z",
+  "items": [
+    {
+      "title": "“AI 面试”逐渐受企业追捧，近四成求职者因此主动选择放弃机会",
+      "link": "https://www.ithome.com/0/946/316.htm",
+      "summary": "<p data-vmark=\"d7c9\">IT之家 5 月 4 日消息，据《财富》4 日报道，员工已开始担心 AI 会取代自己的工作，而在求职过程中，<strong>AI 也正在让候选人感到反感</strong>。虚拟化身和聊天机器人开始进入面试环节，一些求职者甚至因此直接退出招聘流程。</p><p data-vmark=\"9687\">Greenhouse 最近发布的报告显示，约 63% 的美国求...",
+      "pubDate": "2026-05-04T14:03:30.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " AI进入影视，从下沉市场开始反攻 ",
+      "link": "https://www.huxiu.com/article/4855681.html?f=rss",
+      "summary": " <p data-check-id=\"815650\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NzY0MzEyNg==&mid=2651662138&idx=1&sn=c7c9f94f51920e1cfd5eaa9b9c6768f0&ch...",
+      "pubDate": "2026-05-04T14:02:44.000Z",
+      "source": " 虎嗅 "
+    }
+  ]
 }
