@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Tue, 05 May 2026 14:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[美国政府与微软、谷歌、xAI 达成协议，将提前审查其前沿 AI 模型]]></title>
+            <link>https://www.ithome.com/0/946/484.htm</link>
+            <guid>https://www.ithome.com/0/946/484.htm</guid>
+            <pubDate>Tue, 05 May 2026 15:01:27 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="7032">IT之家 5 月 5 日消息，据路透社报道，根据一项新协议，微软、Alphabet 旗下的谷歌以及埃隆・马斯克创办的 xAI，将在新一代人工智能模型正式公开发布前，提前向美国政府开放模型权限，以便美方开展国家安全风险审查。</p><p style="text-align: center;" data-vmark="2865"><img src="https...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="7032">IT之家 5 月 5 日消息，据路透社报道，根据一项新协议，微软、Alphabet 旗下的谷歌以及埃隆・马斯克创办的 xAI，将在新一代人工智能模型正式公开发布前，提前向美国政府开放模型权限，以便美方开展国家安全风险审查。</p><p style="text-align: center;" data-vmark="2865"><img src="https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto" w="1440" h="810" data-weibo="0" data-vmark="962a" class="no-alt-img"></p><p data-vmark="3b40">IT之家注意到，美国商务部人工智能标准与创新中心于当地时间周二表示，该协议允许其在人工智能模型投入应用前开展评估，并通过专项研究研判模型能力及潜在安全风险。</p><p data-vmark="a611">这份协议凸显出美国华盛顿方面对高性能人工智能系统所带来的国家安全风险日益担忧。美国政府希望通过提前获取前沿 AI 模型权限，在相关技术大规模普及前，提前识别从网络攻击到军事滥用等各类潜在威胁。</p><p data-vmark="927d">近几周，包括 Anthropic 公司 Mythos 在内的先进人工智能系统研发成果在全球引发热议，美国政府官员及美国企业界普遍担忧，这类模型会极大助长黑客的攻击能力。</p><p data-vmark="6ee7">人工智能标准与创新中心主任克里斯・福尔在声明中表示：“想要摸清前沿人工智能技术及其对国家安全造成的潜在影响，独立且严谨的量化评测体系至关重要。”</p><p data-vmark="dd15">此次合作举措，是在 2024 年拜登政府与 OpenAI、Anthropic 达成相关协议的基础上进一步扩展而来。彼时，人工智能标准与创新中心还名为美国人工智能安全研究所。</p><p data-vmark="a801">作为美国政府人工智能模型测试的核心机构，该中心称目前已完成 40 余次模型评估，其中涵盖多款尚未向公众开放的尖端 AI 模型。</p><p data-vmark="d121">该机构透露，人工智能企业开发者常会提交移除安全防护机制的模型版本，供该中心深入排查国家安全层面的潜在风险。</p><p data-vmark="20f2">美国国防部上周宣布，已与七家人工智能企业达成合作协议，将这些企业的先进 AI 技术部署至国防部涉密网络，意在扩充服务军方的人工智能服务商队伍。</p><p data-vmark="eb03">值得一提的是，此次国防部合作名单并未纳入 Anthropic 公司。该公司正因军方对其 AI 工具的使用权限与安全约束问题，和美国国防部陷入纠纷。</p>]]></content:encoded>
+        </item>
     </channel>
 </rss>

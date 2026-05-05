@@ -1,6 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-05T14:12:53.915Z",
-  "items": []
+  "updated": "2026-05-05T17:42:39.917Z",
+  "items": [
+    {
+      "title": "美国政府与微软、谷歌、xAI 达成协议，将提前审查其前沿 AI 模型",
+      "link": "https://www.ithome.com/0/946/484.htm",
+      "summary": "<p data-vmark=\"7032\">IT之家 5 月 5 日消息，据路透社报道，根据一项新协议，微软、Alphabet 旗下的谷歌以及埃隆・马斯克创办的 xAI，将在新一代人工智能模型正式公开发布前，提前向美国政府开放模型权限，以便美方开展国家安全风险审查。</p><p style=\"text-align: center;\" data-vmark=\"2865\"><img src=\"https...",
+      "pubDate": "2026-05-05T15:01:27.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
