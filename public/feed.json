@@ -1,27 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-04T21:14:01.196Z",
+  "updated": "2026-05-05T03:33:56.746Z",
   "items": [
     {
-      "title": "被“AI 教父”辛顿“判死刑”十年后，美国放射科医生平均年薪达 57.1 万美元",
-      "link": "https://www.ithome.com/0/946/318.htm",
-      "summary": "<p data-vmark=\"87e2\">IT之家 5 月 4 日消息，据《财富》杂志 4 月报道，2016 年，“AI 教父”杰弗里 · 辛顿在多伦多一场机器学习会议上预言，AI 很快会终结放射科医生这一职业。</p><p data-vmark=\"5492\">辛顿当时甚至表示，人们应该停止培训新的放射科医生，因为在 5 年内，最多 10 年内，<strong>AI 完成同类任务的表现会超过人类医...",
-      "pubDate": "2026-05-04T14:27:44.000Z",
+      "title": "中国移动官宣将推 AI-eSIM 产品",
+      "link": "https://www.ithome.com/0/946/362.htm",
+      "summary": "<p data-vmark=\"2b82\">IT之家 5 月 5 日消息，2026 移动云大会将于 5 月 7 日-9 日在江苏苏州金鸡湖国际会议中心举办，中国移动今日官宣，届时将带来 <strong>AI-eSIM 产品</strong>。</p><p data-vmark=\"d0f5\" style=\"text-align: center;\"><img src=\"https://img.ithom...",
+      "pubDate": "2026-05-05T03:31:51.000Z",
       "source": "IT之家"
     },
     {
-      "title": "英国警方扩大 AI 人脸识别应用，利用手机等设备实时比对数据库确认人员身份",
-      "link": "https://www.ithome.com/0/946/317.htm",
-      "summary": "<p data-vmark=\"de7c\">IT之家 5 月 4 日消息，据外媒 Sky News 报道，英国警方目前正持续扩大 AI 人脸识别技术在执法中的应用，执法人员可以利用手机等设备将实时拍摄到的画面与警方数据库进行实时比对，从而快速确认人员身份。</p><p data-vmark=\"d21f\">根据警方规划，该系统已逐步与随身手机、执法记录仪等设备整合，可应用于街头巡逻、大型活动安保以及高...",
-      "pubDate": "2026-05-04T14:20:38.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "“AI 面试”逐渐受企业追捧，近四成求职者因此主动选择放弃机会",
-      "link": "https://www.ithome.com/0/946/316.htm",
-      "summary": "<p data-vmark=\"d7c9\">IT之家 5 月 4 日消息，据《财富》4 日报道，员工已开始担心 AI 会取代自己的工作，而在求职过程中，<strong>AI 也正在让候选人感到反感</strong>。虚拟化身和聊天机器人开始进入面试环节，一些求职者甚至因此直接退出招聘流程。</p><p data-vmark=\"9687\">Greenhouse 最近发布的报告显示，约 63% 的美国求...",
-      "pubDate": "2026-05-04T14:03:30.000Z",
+      "title": "成立仅 1 年，物理 AI 初创企业 ARI 被 Meta 收购",
+      "link": "https://www.ithome.com/0/946/359.htm",
+      "summary": "<p data-vmark=\"41e1\">IT之家 5 月 5 日消息，Meta 当地时间本月 1 日完成了对物理 AI 模型初创企业 Assured Robot Intelligence (ARI) 的收购，这笔交易的财务条款未被披露。</p><p data-vmark=\"1431\">Meta 发言人表示，ARI“处于机器人智能的前沿领域，致力于让机器人在复杂且动态的环境中理解、预测并适应人类行...",
+      "pubDate": "2026-05-05T02:59:25.000Z",
       "source": "IT之家"
     }
   ]
