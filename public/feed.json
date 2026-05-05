@@ -1,20 +1,27 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-05T03:33:56.746Z",
+  "updated": "2026-05-05T06:24:08.890Z",
   "items": [
     {
-      "title": "中国移动官宣将推 AI-eSIM 产品",
-      "link": "https://www.ithome.com/0/946/362.htm",
-      "summary": "<p data-vmark=\"2b82\">IT之家 5 月 5 日消息，2026 移动云大会将于 5 月 7 日-9 日在江苏苏州金鸡湖国际会议中心举办，中国移动今日官宣，届时将带来 <strong>AI-eSIM 产品</strong>。</p><p data-vmark=\"d0f5\" style=\"text-align: center;\"><img src=\"https://img.ithom...",
-      "pubDate": "2026-05-05T03:31:51.000Z",
+      "title": "郭明錤：OpenAI 首款 AI Agent 手机目标最快于 2027 年上半年量产，预计采用天玑 9600 定制版本",
+      "link": "https://www.ithome.com/0/946/378.htm",
+      "summary": "<p data-vmark=\"4dbc\">IT之家 5 月 5 日消息，天风国际分析师郭明錤今日对上周发布的产业调查进行更新，称 OpenAI 可能正加速首款 AI Agent 手机开发，<strong>目标最快于 2027 年上半年量产</strong>，考虑原因可能包括有利于年底 IPO 叙事、AI Agent 手机竞争加速等。</p><p data-vmark=\"7259\">目前联发科更有可...",
+      "pubDate": "2026-05-05T05:57:38.000Z",
       "source": "IT之家"
     },
     {
-      "title": "成立仅 1 年，物理 AI 初创企业 ARI 被 Meta 收购",
-      "link": "https://www.ithome.com/0/946/359.htm",
-      "summary": "<p data-vmark=\"41e1\">IT之家 5 月 5 日消息，Meta 当地时间本月 1 日完成了对物理 AI 模型初创企业 Assured Robot Intelligence (ARI) 的收购，这笔交易的财务条款未被披露。</p><p data-vmark=\"1431\">Meta 发言人表示，ARI“处于机器人智能的前沿领域，致力于让机器人在复杂且动态的环境中理解、预测并适应人类行...",
-      "pubDate": "2026-05-05T02:59:25.000Z",
+      "title": "美国考虑对新型 AI 模型实施更严格监管，有望成立专门的监督小组",
+      "link": "https://www.ithome.com/0/946/374.htm",
+      "summary": "<p data-vmark=\"d86d\">IT之家 5 月 5 日消息，据《纽约时报》5 月 4 日报道，<strong>美国白宫可能将成立一个新的工作组来监督 AI 的发展</strong>。该媒体的消息人士称，在 AI 模型公开发布之前进行联邦审查，可能成为该委员会的一项权力。</p><p data-vmark=\"d279\">目前尚未确定明确的方法，但《纽约时报》表示可能类似英国政府目前正在发...",
+      "pubDate": "2026-05-05T05:40:02.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "英伟达黄仁勋称人工智能创造就业机会，反驳“AI 末日论”",
+      "link": "https://www.ithome.com/0/946/373.htm",
+      "summary": "<p data-vmark=\"f2b7\">IT之家 5 月 5 日消息，据 TechCrunch 报道，当地时间 5 月 4 日晚，英伟达首席执行官黄仁勋表示，<strong>人工智能是工业规模的就业机会生成器</strong>，而非所谓的“人工智能末日论者”经常指责的大规模失业的预兆。</p><p data-vmark=\"9f99\">黄仁勋在讨论中称“<strong>人工智能创造就业机会</st...",
+      "pubDate": "2026-05-05T05:39:41.000Z",
       "source": "IT之家"
     }
   ]
