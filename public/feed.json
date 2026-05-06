@@ -1,14 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-06T14:32:06.057Z",
+  "updated": "2026-05-06T17:46:55.837Z",
   "items": [
     {
-      "title": " OpenAI背叛往事和一家开放公司的封闭史 ",
-      "link": "https://www.huxiu.com/article/4856087.html?f=rss",
-      "summary": " <p data-check-id=\"518576\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1MDc3ODg2MQ==&mid=2247489106&idx=1&sn=a061440c90a7cdcb1b7bd436e8e2fd99&ch...",
-      "pubDate": "2026-05-06T14:23:13.000Z",
-      "source": " 虎嗅 "
+      "title": "爱彼迎 CEO 切斯基：只负责“管人”的管理者将很快会被 AI 时代淘汰",
+      "link": "https://www.ithome.com/0/947/020.htm",
+      "summary": "<p data-vmark=\"5c54\">IT之家 5 月 6 日消息，据《商业内幕》6 日（今天）晚间报道，爱彼迎 Airbnb CEO 布莱恩 · 切斯基认为，只负责“管人”的管理者很快会被时代淘汰。“<strong>我不认为人员管理者未来会有任何价值</strong>。那些有大量周期性一对一会议的人将无法生存。那种领导风格行不通。你需要掌握上下文。”</p><p data-vmark=\"34...",
+      "pubDate": "2026-05-06T15:26:26.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
+      "link": "https://www.ithome.com/0/947/013.htm",
+      "summary": "<p data-vmark=\"9fa1\">IT之家 5 月 6 日消息，至少 30 年来，苹果每赚一美元，投入研发的资金首次超过 10 美分，这也是这家 iPhone 制造商为人工智能宏大愿景砸下重金的最有力信号之一。</p><p style=\"text-align: center;\" data-vmark=\"ab38\"><img src=\"https://img.ithome.com/newsu...",
+      "pubDate": "2026-05-06T14:21:03.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "豆包大模型家族首款全模态理解模型：字节跳动 Doubao-Seed-2.0-lite 升级",
+      "link": "https://www.ithome.com/0/947/010.htm",
+      "summary": "<p data-vmark=\"3ac6\">IT之家 5 月 6 日消息，据字节跳动旗下火山引擎官方消息，今天，Doubao-Seed-2.0-lite 升级新版本，这是豆包大模型家族首款全模态理解模型，支持视频、图像、音频、文本原生统一理解，Agent、Coding 与 GUI 能力同步升级。在同等算力成本下，是企业大规模、批量化部署全模态推理任务的更优性价比选择。</p><p data-vmar...",
+      "pubDate": "2026-05-06T13:51:02.000Z",
+      "source": "IT之家"
     }
   ]
 }
