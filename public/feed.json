@@ -1,14 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-05T21:08:33.888Z",
+  "updated": "2026-05-06T03:48:58.879Z",
   "items": [
     {
-      "title": "美国政府与微软、谷歌、xAI 达成协议，将提前审查其前沿 AI 模型",
-      "link": "https://www.ithome.com/0/946/484.htm",
-      "summary": "<p data-vmark=\"7032\">IT之家 5 月 5 日消息，据路透社报道，根据一项新协议，微软、Alphabet 旗下的谷歌以及埃隆・马斯克创办的 xAI，将在新一代人工智能模型正式公开发布前，提前向美国政府开放模型权限，以便美方开展国家安全风险审查。</p><p style=\"text-align: center;\" data-vmark=\"2865\"><img src=\"https...",
-      "pubDate": "2026-05-05T15:01:27.000Z",
+      "title": "全球 AI 电源出货激增，海外公司大规模采购国产 MCU 芯片",
+      "link": "https://www.ithome.com/0/946/725.htm",
+      "summary": "<p data-vmark=\"a497\">IT之家 5 月 6 日消息，据界面新闻今日从国内 MCU 产业链获悉，现在大量海外的 AI 电源、光通信公司，<strong>正开始大规模采购国产 MCU 芯片</strong>，以应对高速扩张的算力和 AI 电源需求。产业链核心人士表示，<strong>服务器和光通信的电源功率大幅度提升</strong>，是促进 MCU 用量短缺的核心原因。</p><...",
+      "pubDate": "2026-05-06T03:37:07.000Z",
       "source": "IT之家"
+    },
+    {
+      "title": " 从“Vibe Coding”到“Vibe Planning”：AI如何改变规划师的工作方式 ",
+      "link": "https://www.huxiu.com/article/4855856.html?f=rss",
+      "summary": " <p data-check-id=\"815810\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA5MDUwOTI5MQ==&mid=2650074696&idx=1&sn=d00ae287bc5ca1ce57d6bdb7f426466e&ch...",
+      "pubDate": "2026-05-06T03:30:46.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
