@@ -1,21 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-06T03:48:58.879Z",
+  "updated": "2026-05-06T06:36:51.568Z",
   "items": [
     {
-      "title": "全球 AI 电源出货激增，海外公司大规模采购国产 MCU 芯片",
-      "link": "https://www.ithome.com/0/946/725.htm",
-      "summary": "<p data-vmark=\"a497\">IT之家 5 月 6 日消息，据界面新闻今日从国内 MCU 产业链获悉，现在大量海外的 AI 电源、光通信公司，<strong>正开始大规模采购国产 MCU 芯片</strong>，以应对高速扩张的算力和 AI 电源需求。产业链核心人士表示，<strong>服务器和光通信的电源功率大幅度提升</strong>，是促进 MCU 用量短缺的核心原因。</p><...",
-      "pubDate": "2026-05-06T03:37:07.000Z",
-      "source": "IT之家"
+      "title": " 豆包试水付费，DeepSeek会跟进吗？AI助手全面收费倒计时 ",
+      "link": "https://www.huxiu.com/article/4855913.html?f=rss",
+      "summary": " <p data-check-id=\"348757\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649802173&idx=1&sn=688d5b90eb9f40f7e84e5b87f35b8993&ch...",
+      "pubDate": "2026-05-06T06:21:03.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": " 从“Vibe Coding”到“Vibe Planning”：AI如何改变规划师的工作方式 ",
-      "link": "https://www.huxiu.com/article/4855856.html?f=rss",
-      "summary": " <p data-check-id=\"815810\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA5MDUwOTI5MQ==&mid=2650074696&idx=1&sn=d00ae287bc5ca1ce57d6bdb7f426466e&ch...",
-      "pubDate": "2026-05-06T03:30:46.000Z",
-      "source": " 虎嗅 "
+      "title": "AMD苏姿丰：有信心2027年实现数据中心人工智能业务年营收数百亿美元",
+      "link": "https://36kr.com/newsflashes/3797418420165633?f=rss",
+      "summary": "AMD（超威半导体）董事会主席兼首席执行官苏姿丰在2026年第一季度财报电话会上表示，展望未来，凭借领先性能、内存带宽与横向扩展能力，客户对赫利俄斯平台需求极为旺盛。赫利俄斯平台开发进展顺利，芯片、软件与系统均按关键节点高效推进。我们已向核心客户送样MI450系列图形处理器，按计划于今年下半年启动赫利俄斯平台量产出货。临近量产阶段，MI450系列图形处理器需求持续走强，核心客户需求预测已超我们初始...",
+      "pubDate": "2026-05-06T06:13:46.000Z",
+      "source": "36氪"
     }
   ]
 }
