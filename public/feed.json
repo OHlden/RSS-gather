@@ -1,6 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-08T09:45:49.198Z",
-  "items": []
+  "updated": "2026-05-08T14:05:39.517Z",
+  "items": [
+    {
+      "title": "因 AI 技术大幅提速漏洞追踪修复流程，甲骨文宣布加快安全补丁发布节奏",
+      "link": "https://www.ithome.com/0/947/967.htm",
+      "summary": "<p data-vmark=\"f0fb\">IT之家 5 月 8 日消息，长期以来甲骨文（Oracle）采用“按季度发布”模式为旗下产品推送安全更新，不过如今，该公司透露由于 AI 技术大幅度改进了漏洞发现与修复流程，因此该公司计划加快安全补丁的发布节奏。</p><p data-vmark=\"d12b\">参考甲骨文官方博客，目前该公司已经开始利用 Anthropic Claude Mythos Pr...",
+      "pubDate": "2026-05-08T13:22:31.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " AI消灭不了科层制，扁平化远非公司神药 ",
+      "link": "https://www.huxiu.com/article/4856450.html?f=rss",
+      "summary": " <p data-check-id=\"745746\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MTAwMzQ3OQ==&mid=2651575668&idx=1&sn=518eb31fe0c1e6283ee6715114ff9634&ch...",
+      "pubDate": "2026-05-08T13:15:00.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "索尼公布 PlayStation 游戏 AI 开发计划：相信将释放工作室的创造力",
+      "link": "https://www.ithome.com/0/947/964.htm",
+      "summary": "<p data-vmark=\"9181\">IT之家 5 月 8 日消息，据外媒 VGC 今日报道，索尼公布了 PlayStation 游戏开发中的 AI 应用规划，并明确表示<strong>未来会继续推进</strong>。</p><p data-vmark=\"07c4\">在索尼最新财报发布会上，索尼互动娱乐总裁兼 CEO 西野秀明解释了 AI 将如何帮助 PlayStation 提升游戏创作能力...",
+      "pubDate": "2026-05-08T13:13:29.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
