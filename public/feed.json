@@ -1,27 +1,27 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-08T14:05:39.517Z",
+  "updated": "2026-05-08T17:26:09.176Z",
   "items": [
     {
-      "title": "因 AI 技术大幅提速漏洞追踪修复流程，甲骨文宣布加快安全补丁发布节奏",
-      "link": "https://www.ithome.com/0/947/967.htm",
-      "summary": "<p data-vmark=\"f0fb\">IT之家 5 月 8 日消息，长期以来甲骨文（Oracle）采用“按季度发布”模式为旗下产品推送安全更新，不过如今，该公司透露由于 AI 技术大幅度改进了漏洞发现与修复流程，因此该公司计划加快安全补丁的发布节奏。</p><p data-vmark=\"d12b\">参考甲骨文官方博客，目前该公司已经开始利用 Anthropic Claude Mythos Pr...",
-      "pubDate": "2026-05-08T13:22:31.000Z",
+      "title": "文件称微软一度担心 OpenAI 会投奔亚马逊，还会“污蔑”Azure",
+      "link": "https://www.ithome.com/0/947/987.htm",
+      "summary": "<p data-vmark=\"d80d\">IT之家 5 月 8 日消息，据外媒 The Verge 今晚报道，马斯克诉奥尔特曼案披露的法庭文件显示，早在 OpenAI 还在试验 AI 游戏机器人时，微软 CEO 萨蒂亚 · 纳德拉和 OpenAI CEO 萨姆 · 奥尔特曼就已经开始酝酿 AI 合作。文件也罕见曝光了微软高层当年对投资 OpenAI 的内部讨论：一方面担心投入过大，另一方面又担心 ...",
+      "pubDate": "2026-05-08T15:50:02.000Z",
       "source": "IT之家"
     },
     {
-      "title": " AI消灭不了科层制，扁平化远非公司神药 ",
-      "link": "https://www.huxiu.com/article/4856450.html?f=rss",
-      "summary": " <p data-check-id=\"745746\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MTAwMzQ3OQ==&mid=2651575668&idx=1&sn=518eb31fe0c1e6283ee6715114ff9634&ch...",
-      "pubDate": "2026-05-08T13:15:00.000Z",
-      "source": " 虎嗅 "
+      "title": "安全公司曝光黑客架设山寨 Claude AI 网站，散播 Beagle 新型恶意木马",
+      "link": "https://www.ithome.com/0/947/981.htm",
+      "summary": "<p data-vmark=\"5cc1\">IT之家 5 月 8 日消息，安全公司 Sophos 发文，透露有黑客架设山寨 Claude 网站，并利用搜索引擎竞价排名机制及广告系统传播虚假网站，吸引不知情的用户访问。</p><p style=\"text-align: center;\" data-vmark=\"36d1\"><img src=\"https://img.ithome.com/newsupl...",
+      "pubDate": "2026-05-08T14:45:06.000Z",
+      "source": "IT之家"
     },
     {
-      "title": "索尼公布 PlayStation 游戏 AI 开发计划：相信将释放工作室的创造力",
-      "link": "https://www.ithome.com/0/947/964.htm",
-      "summary": "<p data-vmark=\"9181\">IT之家 5 月 8 日消息，据外媒 VGC 今日报道，索尼公布了 PlayStation 游戏开发中的 AI 应用规划，并明确表示<strong>未来会继续推进</strong>。</p><p data-vmark=\"07c4\">在索尼最新财报发布会上，索尼互动娱乐总裁兼 CEO 西野秀明解释了 AI 将如何帮助 PlayStation 提升游戏创作能力...",
-      "pubDate": "2026-05-08T13:13:29.000Z",
+      "title": "紫光展锐发布端边 AI 芯片平台 N9 系列：4nm 工艺，Arm v9.2 CPU",
+      "link": "https://www.ithome.com/0/947/978.htm",
+      "summary": "<p data-vmark=\"4f21\">IT之家 5 月 8 日消息，紫光展锐 (UNISOC) 在昨日举行的 2026 新紫光集团创新峰会上<strong>发布了端边 AI 芯片平台 N9 系列</strong>。其采用 4nm 工艺和 Arm v9.2 CPU 架构，以“归一 + 灵活”为设计理念，可在不同场景拓展所需算力。</p><p data-vmark=\"d6e1\">紫光展锐 N9 系...",
+      "pubDate": "2026-05-08T14:10:36.000Z",
       "source": "IT之家"
     }
   ]
