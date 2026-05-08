@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-07T21:09:31.403Z",
+  "updated": "2026-05-08T03:38:47.000Z",
   "items": [
     {
-      "title": " 从“殖民火星”到算力出租：马斯克玩崩了了xAI帝国 ",
-      "link": "https://www.huxiu.com/article/4856427.html?f=rss",
-      "summary": " <p data-check-id=\"211180\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4MjUyODUwNw==&mid=2651839540&idx=1&sn=6ec10dcb8421f809afefb4fc9617ae13&ch...",
-      "pubDate": "2026-05-07T16:01:14.000Z",
+      "title": " 豆包和OpenAI，都走在互联网变现的老路上 ",
+      "link": "https://www.huxiu.com/article/4856512.html?f=rss",
+      "summary": " <p data-check-id=\"420806\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzAwNTE0MTI3Ng==&mid=2456020818&idx=1&sn=af4023034d2bdb421f60154180c4a651&ch...",
+      "pubDate": "2026-05-08T03:28:25.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": "2023 年被罢免后，OpenAI CEO 奥尔特曼“短信轰炸”穆拉蒂寻求复职",
-      "link": "https://www.ithome.com/0/947/451.htm",
-      "summary": "<p data-vmark=\"e8b9\">IT之家 5 月 7 日消息，据《商业内幕》7 日（今天）晚间报道，马斯克诉奥尔特曼案中新披露的证据，展示了米拉 · 穆拉蒂和萨姆 · 奥尔特曼在 OpenAI 权力震荡期间的疯狂短信。2023 年末，奥尔特曼被短暂解除 OpenAI CEO 职务，穆拉蒂一度接任。</p><p data-vmark=\"4ef7\">短信显示，奥尔特曼<strong>急切希望...",
-      "pubDate": "2026-05-07T15:48:28.000Z",
+      "title": "三星与 SK 海力士竞逐 3D DRAM，争夺 AI 时代内存主导权",
+      "link": "https://www.ithome.com/0/947/594.htm",
+      "summary": "<p data-vmark=\"cc4f\">IT之家 5 月 8 日消息，科技媒体 Wccftech 昨日（5 月 7 日）发布博文，报道称为突破 10nm 以下制程微缩瓶颈，<strong>三星与 SK 海力士两大巨头正研发下一代 DRAM 制造工艺，争夺行业主导权。</strong></p><p data-vmark=\"bafc\">IT之家援引博文介绍，不同于处理器，DRAM 内存芯片必须依靠电...",
+      "pubDate": "2026-05-08T03:11:57.000Z",
       "source": "IT之家"
+    },
+    {
+      "title": " 快消巨头狂卷AI营销：效率拉满之后，问题浮出水面 ",
+      "link": "https://www.huxiu.com/article/4856505.html?f=rss",
+      "summary": " <p data-check-id=\"782488\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzUzOTc4NDQxMQ==&mid=2247552298&idx=1&sn=9867e81e72f30eb59b290ef706c5eae1&ch...",
+      "pubDate": "2026-05-08T03:11:25.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
