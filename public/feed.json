@@ -1,28 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-09T06:22:44.763Z",
+  "updated": "2026-05-09T09:25:29.279Z",
   "items": [
     {
-      "title": "缩水 40%，消息称软银缩减 OpenAI 持股质押贷款至 60 亿美元",
-      "link": "https://www.ithome.com/0/948/159.htm",
-      "summary": "<p data-vmark=\"d1e3\">IT之家 5 月 9 日消息，彭博社昨日（5 月 8 日）发布博文，报道称软银集团（SoftBank）调整以 OpenAI 持股作抵押的保证金贷款计划，<strong>目标规模从 100 亿美元（IT之家注：现汇率约合 681.57 亿元人民币）下调至 60 亿美元，缩水 40%。</strong></p><p data-vmark=\"a743\">消息称软...",
-      "pubDate": "2026-05-09T05:42:56.000Z",
+      "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
+      "link": "https://www.ithome.com/0/948/246.htm",
+      "summary": "<p data-vmark=\"3728\">IT之家 5 月 9 日消息，“工信微报”公众号今日发文称，近日，工业和信息化部印发通知，正式启动人工智能科技伦理审查与服务先导计划（以下简称“先导计划”），依托国家人工智能产业创新应用先导区所在省份，<strong>率先探索人工智能科技伦理审查与服务的落地路径</strong>，健全多方参与、协同高效的治理机制，支撑人工智能负责任创新和产业高质量发展。<...",
+      "pubDate": "2026-05-09T08:56:18.000Z",
       "source": "IT之家"
     },
     {
-      "title": "消息称 Anthropic 与美国 CDN 巨头阿卡迈达成 18 亿美元算力合作，应对 AI 需求激增",
-      "link": "https://www.ithome.com/0/948/157.htm",
-      "summary": "<p data-vmark=\"2983\">IT之家 5 月 9 日消息，据彭博社今天报道，知情人士透露，人工智能初创公司 Anthropic 与美国 CDN 巨头阿卡迈科技（Akamai Technologies）签署 18 亿美元（现汇率约合 122.68 亿元人民币）计算协议，应对 AI 软件需求激增。</p><p style=\"text-align: center;\" data-vmark=...",
-      "pubDate": "2026-05-09T05:36:01.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": " 给AI 讲道理, 真的有用吗? ",
-      "link": "https://www.huxiu.com/article/4856893.html?f=rss",
-      "summary": " <p data-check-id=\"783772\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA3OTYzMzI0Ng==&mid=2247484824&idx=1&sn=c658c1a2f40d10415db84782bbd610db&ch...",
-      "pubDate": "2026-05-09T05:33:45.000Z",
-      "source": " 虎嗅 "
+      "title": "光帆带摄像头AI耳机本月开售",
+      "link": "https://36kr.com/newsflashes/3801812857871876?f=rss",
+      "summary": "36氪获悉，光帆科技官方账号发布发售预热海报。海报显示，全球首款具备视觉感知能力的主动式AI耳机——光帆全感AI耳机，将于5月15日正式开售。...",
+      "pubDate": "2026-05-09T08:56:08.000Z",
+      "source": "36氪"
     }
   ]
 }
