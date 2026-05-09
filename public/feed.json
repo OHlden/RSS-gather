@@ -1,27 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-08T21:08:53.006Z",
+  "updated": "2026-05-09T03:40:00.028Z",
   "items": [
     {
-      "title": "文件称微软一度担心 OpenAI 会投奔亚马逊，还会“污蔑”Azure",
-      "link": "https://www.ithome.com/0/947/987.htm",
-      "summary": "<p data-vmark=\"d80d\">IT之家 5 月 8 日消息，据外媒 The Verge 今晚报道，马斯克诉奥尔特曼案披露的法庭文件显示，早在 OpenAI 还在试验 AI 游戏机器人时，微软 CEO 萨蒂亚 · 纳德拉和 OpenAI CEO 萨姆 · 奥尔特曼就已经开始酝酿 AI 合作。文件也罕见曝光了微软高层当年对投资 OpenAI 的内部讨论：一方面担心投入过大，另一方面又担心 ...",
-      "pubDate": "2026-05-08T15:50:02.000Z",
-      "source": "IT之家"
+      "title": " 豆包收费的背后，是AI碎钞机的残酷真相 ",
+      "link": "https://www.huxiu.com/article/4856852.html?f=rss",
+      "summary": " <p data-check-id=\"783305\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MTYzOTM0MA==&mid=2649372969&idx=1&sn=d9a69399af0d225dc95b5052a41553fb&ch...",
+      "pubDate": "2026-05-09T03:15:29.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": "安全公司曝光黑客架设山寨 Claude AI 网站，散播 Beagle 新型恶意木马",
-      "link": "https://www.ithome.com/0/947/981.htm",
-      "summary": "<p data-vmark=\"5cc1\">IT之家 5 月 8 日消息，安全公司 Sophos 发文，透露有黑客架设山寨 Claude 网站，并利用搜索引擎竞价排名机制及广告系统传播虚假网站，吸引不知情的用户访问。</p><p style=\"text-align: center;\" data-vmark=\"36d1\"><img src=\"https://img.ithome.com/newsupl...",
-      "pubDate": "2026-05-08T14:45:06.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "紫光展锐发布端边 AI 芯片平台 N9 系列：4nm 工艺，Arm v9.2 CPU",
-      "link": "https://www.ithome.com/0/947/978.htm",
-      "summary": "<p data-vmark=\"4f21\">IT之家 5 月 8 日消息，紫光展锐 (UNISOC) 在昨日举行的 2026 新紫光集团创新峰会上<strong>发布了端边 AI 芯片平台 N9 系列</strong>。其采用 4nm 工艺和 Arm v9.2 CPU 架构，以“归一 + 灵活”为设计理念，可在不同场景拓展所需算力。</p><p data-vmark=\"d6e1\">紫光展锐 N9 系...",
-      "pubDate": "2026-05-08T14:10:36.000Z",
+      "title": "MiniMax 不认马嘉祺？稀宇科技公布大模型“失语”原因：特定词元后训练不足导致",
+      "link": "https://www.ithome.com/0/948/092.htm",
+      "summary": "<p data-vmark=\"cfd9\">IT之家 5 月 9 日消息，在人工智能领域，一个大模型能够准确“复述”特定名词，看似是一项基础能力，却也可能因训练机制的细微偏差而“失灵”。</p><p data-vmark=\"7ca6\">稀宇科技（MiniMax）今日发布官方技术报告，就旗下 M2 系列模型无法正确输出“马嘉祺”等特定人名一事进行了解答，并宣布已通过全词表合成数据覆盖完成性能修复。</...",
+      "pubDate": "2026-05-09T03:15:10.000Z",
       "source": "IT之家"
     }
   ]
