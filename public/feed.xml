@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sat, 09 May 2026 20:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 03:56:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[两台 Figure AI 人形机器人大秀新技能：不到两分钟铺好一张床]]></title>
-            <link>https://www.ithome.com/0/948/378.htm</link>
-            <guid>https://www.ithome.com/0/948/378.htm</guid>
-            <pubDate>Sat, 09 May 2026 15:38:26 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="62cf">IT之家 5 月 9 日消息，当地时间 5 月 8 日，Figure AI 公布了一段视频：两台人形机器人走进一间极简风格卧室，开始协作整理房间。一台机器人挂起外套，另一台合上笔记本电脑并挂好耳机。随后，两台机器人分别来到床的两侧，调整枕头，把被子拉平铺好。两台机器人通过点头配合，协同完成抬被子、铺放和回拉等动作，<strong>不到两分钟就整理好一张床<...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="62cf">IT之家 5 月 9 日消息，当地时间 5 月 8 日，Figure AI 公布了一段视频：两台人形机器人走进一间极简风格卧室，开始协作整理房间。一台机器人挂起外套，另一台合上笔记本电脑并挂好耳机。随后，两台机器人分别来到床的两侧，调整枕头，把被子拉平铺好。两台机器人通过点头配合，协同完成抬被子、铺放和回拉等动作，<strong>不到两分钟就整理好一张床</strong>。</p><p data-vmark="a387" style="text-align: center;"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?bvid=bv14RRRBiEJi&amp;autoplay=0&amp;page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p><p data-vmark="3b90">铺床对人类来说只是普通家务，但对机器人来说难度很高。Figure AI 表示，难点主要有三方面。</p><p data-vmark="4eb4">首先，同一房间里的两台人形机器人，并不等于两台机器各干各的：一台机器人的每个动作，都需要<strong>被另一台理解</strong>。</p><p data-vmark="c356" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/9abecb07-907d-4ebd-b03a-e06571edf7bc.png?x-bce-process=image/format,f_auto" w="1076" h="638" data-weibo="0" data-vmark="d2fa" class="no-alt-img"></p><p data-vmark="80b1">其次，<strong>被子没有固定形状，也没有清楚边界</strong>，无法简单区分哪一侧属于哪台机器人。两台机器人必须预判彼此动作，并随着被子在手中折叠、垂落和滑动不断调整。</p><p data-vmark="168a">第三，机器人还需要在房间内移动，并在不同任务之间切换。</p><p data-vmark="86c6" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/472e7a32-5130-40a1-8496-5d221cee471c.png?x-bce-process=image/format,f_auto" w="1068" h="638" data-weibo="1" data-vmark="bdcd" class="no-alt-img"></p><p data-vmark="d704" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/0da1e6e7-1f47-429b-b870-e3787ef44fd7.png?x-bce-process=image/format,f_auto" w="1080" h="630" data-weibo="2" data-vmark="2d9c" class="no-alt-img"></p><p data-vmark="ee7c">Figure AI AI 主管科里 · 林奇在 X 上写道：“明确一点，这些机器人之间没有显式消息传递，它们完全通过视觉协调动作，比如点头。”他还强调，视频为正常速度播放，机器人完全自主运行，没有远程遥控。</p><p data-vmark="a66e">Figure AI 表示，公司使用新数据训练了<strong>今年早些时候推出的 Helix 02 模型</strong>，让机器人可以处理更复杂的任务，包括开门、推动家具和悬挂衣物。公司没有说明人形机器人何时会面向消费者上市。</p><p data-vmark="13e3">Figure AI 已融资超过 10 亿美元，估值达到 390 亿美元（IT之家注：现汇率约合 2658.11 亿元人民币）。阿德科克曾表示，他希望“打造一个新物种”，即能够繁殖并相互分享知识的机器人。“我认为我们会在有生之年看到这一场景。”</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
