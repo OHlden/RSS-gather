@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sun, 10 May 2026 03:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 06:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[超频三推出 AI 工作站解决方案，涵盖机箱、电源、散热]]></title>
+            <link>https://www.ithome.com/0/948/451.htm</link>
+            <guid>https://www.ithome.com/0/948/451.htm</guid>
+            <pubDate>Sun, 10 May 2026 06:18:41 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="5c24">IT之家 5 月 10 日消息，超频三 (PCcooler, CPS) 昨日正式推出 AI 工作站一站式解决方案，涵盖机箱、电源、散热类别。</p><p style="text-align: center;" data-vmark="2b02"><img src="https://img.ithome.com/newsuploadfiles/2026/5/...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="5c24">IT之家 5 月 10 日消息，超频三 (PCcooler, CPS) 昨日正式推出 AI 工作站一站式解决方案，涵盖机箱、电源、散热类别。</p><p style="text-align: center;" data-vmark="2b02"><img src="https://img.ithome.com/newsuploadfiles/2026/5/22daefb3-634c-489c-96fb-3f0c723b4f39.jpg?x-bce-process=image/format,f_auto" w="1080" h="1515" data-weibo="0" data-vmark="2353" class="no-alt-img"></p><p data-vmark="596e">该产品阵容包含部分IT之家此前已有介绍的产品，包括 SR700 超全塔工作站机箱，处理器风冷散热器 TR620M X、TS700D，以及 F9 R120、F5 T120 这两款风扇。</p><p data-vmark="9b20">而在新产品部分，超频三此次宣布了<strong>功率至高可达 2500W 的 Cybenetics 钛金效率认证 SU 系列电源</strong>。其采用碳化硅 (SiC) MOSFET 晶体管、全日系电解电容、135mm 智能启停风扇，主电容为 400V 105℃ 规格，符合 ATX 3.1 规范。</p><p data-vmark="3ceb">超频三还介绍 LR 系列工作站处理器水冷散热器，包括 360 / 480 规格的单路与双路变体。</p>]]></content:encoded>
+        </item>
     </channel>
 </rss>
