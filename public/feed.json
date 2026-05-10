@@ -1,14 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-10T09:43:42.940Z",
+  "updated": "2026-05-10T13:43:12.949Z",
   "items": [
     {
-      "title": " 当下最大的机会是AI，但最被低估的机会不是 ",
-      "link": "https://www.huxiu.com/article/4857173.html?f=rss",
-      "summary": " <p data-check-id=\"398387\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/nPZcjRJxme7iqcqI6kgR8w?mpshare=1&scene=1&srcid=0510MGVG7qvlOQKFnMUmPE2u&sharer_sha...",
-      "pubDate": "2026-05-10T09:12:18.000Z",
-      "source": " 虎嗅 "
+      "title": "Meta 拥抱 AI，员工遭监控与裁员双重压力",
+      "link": "https://www.ithome.com/0/948/542.htm",
+      "summary": "<p data-vmark=\"4f4e\">IT之家 5 月 10 日消息，据《纽约时报》报道，上个月，Meta 在一篇内部公告中告知美国员工，公司将推行一项新规，此举会波及数万名员工。</p><p data-vmark=\"8426\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/7...",
+      "pubDate": "2026-05-10T13:18:30.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "昆仑万维董事长方汉：每月订阅 AI 像交水电费，至少花 100 元在 Token 上才不会掉队",
+      "link": "https://www.ithome.com/0/948/532.htm",
+      "summary": "<p data-vmark=\"648c\">IT之家 5 月 10 日消息，5 月 7 日，昆仑万维董事长兼总经理方汉对凤凰网财经《封面》表示，AI 时代普通人要改变调整就要多用 AI、熟能生巧；每月花 100 元左右订阅 AI 服务就像交水电费，<strong>至少花 100 元在 AI Token 上才不会掉队</strong>。</p><p data-vmark=\"539f\" style=\"t...",
+      "pubDate": "2026-05-10T12:47:18.000Z",
+      "source": "IT之家"
     }
   ]
 }
