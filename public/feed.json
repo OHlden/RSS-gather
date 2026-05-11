@@ -1,21 +1,35 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-11T15:27:29.814Z",
+  "updated": "2026-05-11T18:00:10.379Z",
   "items": [
     {
-      "title": "OpenAI 豪掷 40 亿美元成立新公司，要帮企业部署 AI",
-      "link": "https://www.ithome.com/0/949/027.htm",
-      "summary": "<p data-vmark=\"e852\">IT之家 5 月 11 日消息，OpenAI 于当地时间周一宣布，将成立一家新公司，初始投资超 40 亿美元（IT之家注：现汇率约合 272.29 亿元人民币），助力各类机构搭建并落地人工智能系统；同时将收购人工智能咨询公司 Tomoro，以此快速壮大新业务板块。</p><p style=\"text-align: center;\" data-vmark=\"...",
-      "pubDate": "2026-05-11T15:02:13.000Z",
-      "source": "IT之家"
+      "title": " 英伟达启示录：AI时代的护城河，不是能做别人做不到的东西 ",
+      "link": "https://www.huxiu.com/article/4857506.html?f=rss",
+      "summary": " <p data-check-id=\"637476\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU4NDQwMTc3MQ==&mid=2247492905&idx=1&sn=8b00ddb754e34c5bac01e9df1d0e002b&ch...",
+      "pubDate": "2026-05-11T16:07:24.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": " 一个神级卡位的AI云产品 ",
-      "link": "https://www.huxiu.com/article/4857494.html?f=rss",
-      "summary": " <p data-check-id=\"186513\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU5NDAzNDEyMA==&mid=2247487730&idx=1&sn=98b6e4c029c234d4ad829e6efb3e5a9f&ch...",
-      "pubDate": "2026-05-11T14:22:38.000Z",
-      "source": " 虎嗅 "
+      "title": "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
+      "link": "https://36kr.com/newsflashes/3804875318812164?f=rss",
+      "summary": "5月11日消息，据报道，软银集团创始人孙正义正与法国总统马克龙进行深度磋商，计划在未来几周内宣布一项法国AI数据中心项目。作为软银构建全球人工智能基础设施战略的一部分，孙正义正考虑在法国投入数十亿美元。（界面）...",
+      "pubDate": "2026-05-11T12:39:19.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
+      "link": "https://36kr.com/newsflashes/3804850707570440?f=rss",
+      "summary": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元，此前目标为35亿美元。（财联社）...",
+      "pubDate": "2026-05-11T12:14:17.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "欧盟委员会对OpenAI开放新型ChatGPT模型访问权限表示欢迎",
+      "link": "https://36kr.com/newsflashes/3804814505123331?f=rss",
+      "summary": "欧盟委员会发言人托马斯·雷尼尔5月11日表示，欧盟委员会欢迎OpenAI拟开放其最新版ChatGPT模型访问权限的意向，本周将与OpenAI展开进一步交流。欧盟委员会发言人指出，与Anthropic公司就其Mythos模型进行的磋商目前处于不同阶段，双方正保持持续接触，欧盟委员会正寻求与Anthropic达成类似目前正与OpenAI探讨的解决方案。（财联社）...",
+      "pubDate": "2026-05-11T11:37:27.000Z",
+      "source": "36氪"
     }
   ]
 }
