@@ -1,34 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-11T11:31:17.500Z",
+  "updated": "2026-05-11T15:27:29.814Z",
   "items": [
     {
-      "title": "央行：展望未来，人工智能行业将为经济高质量发展注入更多动能",
-      "link": "https://36kr.com/newsflashes/3804805665906435?f=rss",
-      "summary": "36氪获悉，央行发布2026年第一季度中国货币政策执行报告，其中提到展望未来，人工智能行业将为经济高质量发展注入更多动能。一是技术迭代持续加速。随着多模态、强逻辑推理等关键技术不断突破，国产大模型性能有望进一步提升。二是产业融合向纵深发展。人工智能将深度融入智能制造、金融、医疗、交通等关键领域，推动传统产业全流程智能化重构。三是国际市场空间持续拓展。国内人工智能企业在东南亚、中东等新兴市场落地应用...",
-      "pubDate": "2026-05-11T11:28:28.000Z",
-      "source": "36氪"
+      "title": "OpenAI 豪掷 40 亿美元成立新公司，要帮企业部署 AI",
+      "link": "https://www.ithome.com/0/949/027.htm",
+      "summary": "<p data-vmark=\"e852\">IT之家 5 月 11 日消息，OpenAI 于当地时间周一宣布，将成立一家新公司，初始投资超 40 亿美元（IT之家注：现汇率约合 272.29 亿元人民币），助力各类机构搭建并落地人工智能系统；同时将收购人工智能咨询公司 Tomoro，以此快速壮大新业务板块。</p><p style=\"text-align: center;\" data-vmark=\"...",
+      "pubDate": "2026-05-11T15:02:13.000Z",
+      "source": "IT之家"
     },
     {
-      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
-      "link": "https://36kr.com/p/3804795647729411?f=rss",
-      "summary": "\n \n \n  <h2>大公司：</h2>\n  <p><strong>百济神州：第一季度净利润为16.08亿元，同比扭亏为盈</strong></p>\n  <p>36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动...",
-      "pubDate": "2026-05-11T11:24:52.000Z",
-      "source": "36氪"
-    },
-    {
-      "title": " AI过路费太暴利了，特朗普都忍不住了 ",
-      "link": "https://www.huxiu.com/article/4857443.html?f=rss",
-      "summary": " <p data-check-id=\"376881\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5ODU4OTU3MQ==&mid=2247501631&idx=1&sn=33e8ef27414ab040d220eb145205a1bd&ch...",
-      "pubDate": "2026-05-11T11:21:28.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " 大厂让程序员卷AI，4个月烧掉全年预算，CTO懵了 ",
-      "link": "https://www.huxiu.com/article/4857433.html?f=rss",
-      "summary": " <p data-check-id=\"807104\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651090760&idx=1&sn=33cf990e097d7bc7aa91525c2ba9fbb5&ch...",
-      "pubDate": "2026-05-11T11:10:00.000Z",
+      "title": " 一个神级卡位的AI云产品 ",
+      "link": "https://www.huxiu.com/article/4857494.html?f=rss",
+      "summary": " <p data-check-id=\"186513\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU5NDAzNDEyMA==&mid=2247487730&idx=1&sn=98b6e4c029c234d4ad829e6efb3e5a9f&ch...",
+      "pubDate": "2026-05-11T14:22:38.000Z",
       "source": " 虎嗅 "
     }
   ]
