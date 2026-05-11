@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sun, 10 May 2026 20:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 04:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能]]></title>
-            <link>https://www.ithome.com/0/948/556.htm</link>
-            <guid>https://www.ithome.com/0/948/556.htm</guid>
-            <pubDate>Sun, 10 May 2026 15:04:48 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="e0e0">IT之家 5 月 10 日消息，Safari 浏览器大概率将在苹果全球开发者大会（WWDC）上迎来新功能，用户能更轻松地创建标签组。适配 27 系列操作系统的 Safari 浏览器测试版，将借助人工智能自动为用户整理归类标签页。</p><p style="text-align: center;" data-vmark="bedb"><img src="ht...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="e0e0">IT之家 5 月 10 日消息，Safari 浏览器大概率将在苹果全球开发者大会（WWDC）上迎来新功能，用户能更轻松地创建标签组。适配 27 系列操作系统的 Safari 浏览器测试版，将借助人工智能自动为用户整理归类标签页。</p><p style="text-align: center;" data-vmark="bedb"><img src="https://img.ithome.com/newsuploadfiles/2026/5/66574a82-5bae-4510-9209-c0b6dd2aab35.jpg?x-bce-process=image/format,f_auto" w="1280" h="714" data-weibo="0" data-vmark="ab16" class="no-alt-img"></p><p data-vmark="e851">IT之家注意到，苹果早在 2021 年的 Safari 15 版本中就推出了标签组功能，方便用户整理和保存常用的浏览器标签页。时隔五年，苹果计划对这项功能再度升级。</p><p data-vmark="1b0e">彭博社记者马克・古尔曼在其专栏《Power On》中表示，适配 iOS 27、iPadOS 27 和 macOS 27 的 Safari 测试版已对标签组功能进行更新，新增自动整理功能。标签组切换的顶部中央按钮新增了一项测试选项，命名十分贴切 —— 整理标签页。</p><p data-vmark="6c35">开启该功能后，可让 Safari 自动将标签页归类分组，也可保留用户手动整理的布局。选中此项功能时，Safari 会提示：标签页将按浏览主题自动分组。</p><p data-vmark="a399">苹果并未将该功能标注为 Apple Intelligence 的配套功能，但其实则运用了人工智能技术。该功能的设计思路与备忘录的智能分类十分相似，备忘录可将列表内容自动划分类别，例如把购物清单按商品类型自动归类。</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
