@@ -1,6 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-12T10:38:25.118Z",
-  "items": []
+  "updated": "2026-05-12T14:39:44.387Z",
+  "items": [
+    {
+      "title": "Hugging Face 现山寨 OpenAI“Privacy Filter”模型项目：下载量超 20 万次、内含恶意木马",
+      "link": "https://www.ithome.com/0/949/518.htm",
+      "summary": "<p data-vmark=\"c337\">IT之家 5 月 12 日消息，近年来有大量黑客在各大项目托管平台设立山寨项目，意在让不知情的开发者上钩。例如 AI 安全公司 HiddenLayer 近期披露，他们在 Hugging Face 上发现一个名为“Open-OSS / privacy-filter”的恶意仓库，其主要伪装成 <a href=\"https://www.ithome.com/0/...",
+      "pubDate": "2026-05-12T14:03:35.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
