@@ -4,18 +4,18 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Tue, 12 May 2026 14:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 18:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[Hugging Face 现山寨 OpenAI“Privacy Filter”模型项目：下载量超 20 万次、内含恶意木马]]></title>
-            <link>https://www.ithome.com/0/949/518.htm</link>
-            <guid>https://www.ithome.com/0/949/518.htm</guid>
-            <pubDate>Tue, 12 May 2026 14:03:35 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="c337">IT之家 5 月 12 日消息，近年来有大量黑客在各大项目托管平台设立山寨项目，意在让不知情的开发者上钩。例如 AI 安全公司 HiddenLayer 近期披露，他们在 Hugging Face 上发现一个名为“Open-OSS / privacy-filter”的恶意仓库，其主要伪装成 <a href="https://www.ithome.com/0/...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="c337">IT之家 5 月 12 日消息，近年来有大量黑客在各大项目托管平台设立山寨项目，意在让不知情的开发者上钩。例如 AI 安全公司 HiddenLayer 近期披露，他们在 Hugging Face 上发现一个名为“Open-OSS / privacy-filter”的恶意仓库，其主要伪装成 <a href="https://www.ithome.com/0/943/900.htm" target="_blank">OpenAI 近期发布的隐私脱敏模型“Privacy Filter”</a>。</p><p data-vmark="6038">具体来看，该仓库在被安全公司投诉下架前，<strong>下载量已超过 20 万次</strong>。仓库中的文件目录与正版项目几乎完全一致，但其中实际暗藏有信息窃取类木马（Infostealer）。如果不知情的受害者按照页面说明下载并运行了库中的文件，便会遭到黑客入侵。</p><p data-vmark="64f6" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/1d26c0fa-29fd-456f-b744-1f09aa7dd3d6.png?x-bce-process=image/format,f_auto" w="1432" h="1078" data-weibo="0" data-vmark="79fd"></p><p data-vmark="620b">该安全公司建议，受影响的用户最好优先考虑彻底重建开发环境，而不是仅尝试手动清理恶意软件。在确认系统完全清理之前，用户不要继续登录电脑或输入任何敏感信息。</p><h3 data-vmark="3a56">相关阅读：</h3><p data-vmark="6730">《<a href="https://www.ithome.com/0/946/979.htm" target="_blank">微软警告有黑客假借 DeepSeek V4 名义，在 GitHub 建立虚假仓库传播木马</a>》</p>]]></content:encoded>
+            <title><![CDATA[谷歌今夏推进 Gemini Intelligence：重塑安卓手机 AI 交互，可操控浏览器填写表单等]]></title>
+            <link>https://www.ithome.com/0/949/544.htm</link>
+            <guid>https://www.ithome.com/0/949/544.htm</guid>
+            <pubDate>Tue, 12 May 2026 17:45:30 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="c19c">IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 The Android Show | I/O Edition 活动中，<strong>谷歌全面升级安卓智能助手生态，提出 Gemini Intelligence 系统性方案。</strong></p><p data-vma...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="c19c">IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 The Android Show | I/O Edition 活动中，<strong>谷歌全面升级安卓智能助手生态，提出 Gemini Intelligence 系统性方案。</strong></p><p data-vmark="5b4c" style="text-align: center;"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?bvid=bv1Cc536GE9A&amp;autoplay=0&amp;page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p><p data-vmark="e9b7">在定位方面，谷歌希望通过 Gemini Intelligence，在安卓生态中让 Gemini 从“问答助手”转型为更主动的安卓助手形态，重点不是单纯聊天，而是让系统更了解用户需求，并能跨应用、跨网页代为完成任务。</p><p data-vmark="f470">Gemini Intelligence 方案的核心，就是任务自动化。谷歌表示 Gemini Intelligence 不只支持在应用内处理任务，还能借助 Chrome 浏览器完成网页操作。只要一项事务原本能在网页上完成，未来 Gemini 也希望能代用户执行。IT之家附上相关演示视频如下：</p><p data-vmark="96c8" style="text-align: center;"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?bvid=bv1JM536qEbq&amp;autoplay=0&amp;page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p><p data-vmark="186e">最直接的落地场景之一就是填写表单。相比 Chrome 以往主要面向重复表单的自动填充，Gemini Intelligence 目标是代用户完成填写，可以驾驭各种复杂表单。</p><p data-vmark="c0fb" style="text-align: center;"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?bvid=bv1pc536GEUo&amp;autoplay=0&amp;page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p><p data-vmark="ddba">谷歌同时强调，这类自动化具备明确边界。Gemini 只会在用户允许的应用中工作，也只处理用户直接指派的任务。</p><p data-vmark="8462" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/296aa97c-6af2-4036-932e-cd0029d22120.png?x-bce-process=image/format,f_auto" w="470" h="581" data-weibo="0" data-vmark="39b2"></p><p data-vmark="3129">除自动化外，Gemini Intelligence 还加入 2 项新工具。Create My Widget（创建我的小组件）允许用户用文字描述需要的小组件功能，再由 Gemini 生成对应代码。</p><p data-vmark="0941" style="text-align: center;"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?bvid=bv1Wc536GEvD&amp;autoplay=0&amp;page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p><p data-vmark="3b8c">Gboard 的 Rambler（润写）模式则面向语音输入场景，可整理重复、修改频繁的口述内容，把杂乱表达整理成更流畅的文本。</p><p data-vmark="1d1a">在算力分配上，谷歌采用端侧与云端结合策略。简单请求可交给设备本地的 Gemini Nano（双子座轻量模型）处理，遇到更复杂需求时，再调用云端 Gemini。</p><p data-vmark="7967">车机方面，支持机型连接 Android Auto 后也会看到 Gemini Intelligence。</p><p data-vmark="80d2">谷歌目前计划分阶段陆续推送功能更新，其中 Chrome 自动浏览计划自 6 月起启动，Google Pixel 与部分三星 Galaxy 手机将从今年夏季开始分批获得这些能力。</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
