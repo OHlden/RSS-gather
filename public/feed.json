@@ -1,20 +1,27 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-12T03:51:01.842Z",
+  "updated": "2026-05-12T06:41:40.322Z",
   "items": [
     {
-      "title": "谷歌 AI 截图应用 Pixel Screenshots 有望走出手机端，登陆 Aluminum OS 桌面",
-      "link": "https://www.ithome.com/0/949/186.htm",
-      "summary": "<p data-vmark=\"e4c7\">IT之家 5 月 12 日消息，科技媒体 Android Authority 昨日（5 月 11 日）发布博文，报道称谷歌正测试拓展 Pixel Screenshots 应用至桌面设备，<strong>让其不再局限于 Pixel 手机端，可能会为 Aluminum OS 铺路。</strong></p><p data-vmark=\"b6b4\">该媒体通过挖...",
-      "pubDate": "2026-05-12T03:44:59.000Z",
-      "source": "IT之家"
+      "title": " 人工智能中的内省：大语言模型中自我意识的一丝曙光 ",
+      "link": "https://www.huxiu.com/article/4857651.html?f=rss",
+      "summary": " <p data-check-id=\"384020\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247731249&idx=1&sn=ee3d4ae7c7f1e81fc8bea05ce17c9ec4&ch...",
+      "pubDate": "2026-05-12T06:38:02.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": "npm 生态遭大范围投毒：TanStack、Mistral AI、UiPath 等受波及，可窃取云密钥与 GitHub 令牌",
-      "link": "https://www.ithome.com/0/949/178.htm",
-      "summary": "<p data-vmark=\"a240\">IT之家 5 月 12 日消息，网络安全检测机构 Socket 于当地时间 5 月 11 日发出警报，在开源工具库 TanStack 旗下约 84 个 NPM 软件包的恶意版本中发现疑似凭证窃取恶意代码。</p><p data-vmark=\"90b7\">受影响软件包覆盖 42 个 @tanstack/* 命名空间下的项目，其中 @tanstack / re...",
-      "pubDate": "2026-05-12T03:42:03.000Z",
+      "title": " 跨界AI产品经理，一个文科生走过四条“弯路” ",
+      "link": "https://www.huxiu.com/article/4857650.html?f=rss",
+      "summary": " <p data-check-id=\"752386\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI5Nzg2MTI3MA==&mid=2247733622&idx=1&sn=1ce6f56ff15599ee67aaa48820ef4aea&ch...",
+      "pubDate": "2026-05-12T06:35:52.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "BitFenix 推出 S7 / S12 处理器 AIO 水冷：搭载数显方屏 / 圆屏",
+      "link": "https://www.ithome.com/0/949/248.htm",
+      "summary": "<p data-vmark=\"9ce5\">IT之家 5 月 12 日消息，PC 硬件品牌 BitFenix（火鸟科技）本月推出了 2 款处理器一体式 (AIO) 液冷散热器新品，均在冷头集成数显模块，其中 <strong>S7 配备方形屏幕</strong>、<strong>S12 则是圆形屏幕</strong>。</p><p data-vmark=\"88c4\" style=\"text-align...",
+      "pubDate": "2026-05-12T06:35:12.000Z",
       "source": "IT之家"
     }
   ]
