@@ -1,27 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-11T21:22:40.159Z",
+  "updated": "2026-05-12T03:51:01.842Z",
   "items": [
     {
-      "title": " 英伟达启示录：AI时代的护城河，不是能做别人做不到的东西 ",
-      "link": "https://www.huxiu.com/article/4857506.html?f=rss",
-      "summary": " <p data-check-id=\"637476\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU4NDQwMTc3MQ==&mid=2247492905&idx=1&sn=8b00ddb754e34c5bac01e9df1d0e002b&ch...",
-      "pubDate": "2026-05-11T16:07:24.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "SpaceXAI 组建进行时，马斯克已提交商标注册申请",
-      "link": "https://www.ithome.com/0/949/033.htm",
-      "summary": "<p style=\"text-align: left;\" data-vmark=\"3a07\">xAI 撤销后，新的 SpaceXAI 正在建立。</p><p style=\"text-align: left;\" data-vmark=\"5ba4\">美国专利部门网站显示，马斯克已经提交了 SpaceXAI 的商标注册申请。</p><p style=\"text-align: center;\" data-...",
-      "pubDate": "2026-05-11T15:58:28.000Z",
+      "title": "谷歌 AI 截图应用 Pixel Screenshots 有望走出手机端，登陆 Aluminum OS 桌面",
+      "link": "https://www.ithome.com/0/949/186.htm",
+      "summary": "<p data-vmark=\"e4c7\">IT之家 5 月 12 日消息，科技媒体 Android Authority 昨日（5 月 11 日）发布博文，报道称谷歌正测试拓展 Pixel Screenshots 应用至桌面设备，<strong>让其不再局限于 Pixel 手机端，可能会为 Aluminum OS 铺路。</strong></p><p data-vmark=\"b6b4\">该媒体通过挖...",
+      "pubDate": "2026-05-12T03:44:59.000Z",
       "source": "IT之家"
     },
     {
-      "title": "OpenAI 豪掷 40 亿美元成立新公司，要帮企业部署 AI",
-      "link": "https://www.ithome.com/0/949/027.htm",
-      "summary": "<p data-vmark=\"e852\">IT之家 5 月 11 日消息，OpenAI 于当地时间周一宣布，将成立一家新公司，初始投资超 40 亿美元（IT之家注：现汇率约合 272.29 亿元人民币），助力各类机构搭建并落地人工智能系统；同时将收购人工智能咨询公司 Tomoro，以此快速壮大新业务板块。</p><p style=\"text-align: center;\" data-vmark=\"...",
-      "pubDate": "2026-05-11T15:02:13.000Z",
+      "title": "npm 生态遭大范围投毒：TanStack、Mistral AI、UiPath 等受波及，可窃取云密钥与 GitHub 令牌",
+      "link": "https://www.ithome.com/0/949/178.htm",
+      "summary": "<p data-vmark=\"a240\">IT之家 5 月 12 日消息，网络安全检测机构 Socket 于当地时间 5 月 11 日发出警报，在开源工具库 TanStack 旗下约 84 个 NPM 软件包的恶意版本中发现疑似凭证窃取恶意代码。</p><p data-vmark=\"90b7\">受影响软件包覆盖 42 个 @tanstack/* 命名空间下的项目，其中 @tanstack / re...",
+      "pubDate": "2026-05-12T03:42:03.000Z",
       "source": "IT之家"
     }
   ]
