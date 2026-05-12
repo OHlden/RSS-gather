@@ -1,8 +1,15 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-12T18:05:34.227Z",
+  "updated": "2026-05-12T21:24:28.854Z",
   "items": [
+    {
+      "title": " 谷歌发布安卓AI 系统，这就是苹果想象中的自己 ",
+      "link": "https://www.huxiu.com/article/4857829.html?f=rss",
+      "summary": " <p data-check-id=\"663874\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652452189&idx=1&sn=ffd04b5f0bef44c7be63ec40eb91b54b&ch...",
+      "pubDate": "2026-05-12T19:43:22.000Z",
+      "source": " 虎嗅 "
+    },
     {
       "title": "谷歌今夏推进 Gemini Intelligence：重塑安卓手机 AI 交互，可操控浏览器填写表单等",
       "link": "https://www.ithome.com/0/949/544.htm",
