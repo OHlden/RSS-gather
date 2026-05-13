@@ -1,7 +1,7 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-13T18:06:51.190Z",
+  "updated": "2026-05-13T21:40:12.535Z",
   "items": [
     {
       "title": " “中国最大AI包工头”冲击IPO，公司成立仅3年，创始人为清华90后，智谱既是客户也是投资人 ",
@@ -36,13 +36,6 @@
       "link": "https://www.ithome.com/0/950/068.htm",
       "summary": "<p data-vmark=\"5cc1\">IT之家 5 月 13 日消息，据外媒 TechCrunch 今晚报道，金融科技公司 Ramp 最新发布的 AI 指数显示，Anthropic 在企业客户采用率上首次超过 OpenAI。</p><p data-vmark=\"6290\">IT之家从数据中获悉，34.4% 的参与公司正在付费使用 Anthropic 产品，高于所有其他 AI 厂商，而 Open...",
       "pubDate": "2026-05-13T15:05:27.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "澳洲放羊大叔引爆 AI 编程革命！Claude Code 急推 goal 模式，不干完不许停",
-      "link": "https://www.ithome.com/0/950/063.htm",
-      "summary": "<p style=\"text-align: left;\" data-vmark=\"54aa\"><strong>澳洲牧羊大叔随手写的三行 bash，11 天内被 OpenAI、Anthropic 和 Hermes 集体收编了。</strong></p><p style=\"text-align: center;\" data-vmark=\"aa82\"><img src=\"https://img.itho...",
-      "pubDate": "2026-05-13T14:06:14.000Z",
       "source": "IT之家"
     }
   ]
