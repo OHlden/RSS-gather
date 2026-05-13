@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-12T21:24:28.854Z",
+  "updated": "2026-05-13T03:59:36.949Z",
   "items": [
     {
-      "title": " 谷歌发布安卓AI 系统，这就是苹果想象中的自己 ",
-      "link": "https://www.huxiu.com/article/4857829.html?f=rss",
-      "summary": " <p data-check-id=\"663874\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652452189&idx=1&sn=ffd04b5f0bef44c7be63ec40eb91b54b&ch...",
-      "pubDate": "2026-05-12T19:43:22.000Z",
+      "title": "雷神推出水冷 AI 迷你工作站：AMD 锐龙 AI Max+ 395 处理器 + 128GB 内存 + 2TB 存储，26999 元",
+      "link": "https://www.ithome.com/0/949/713.htm",
+      "summary": "<p data-vmark=\"7816\">IT之家 5 月 13 日消息，雷神新推出了一款 AI 迷你工作站，京东显示为 26999 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"https://3.cn/2NRH4-wD?jkl=\" target=\"_blank\" data-wxmpurl=\"ithome://openmp?appid=wx91...",
+      "pubDate": "2026-05-13T03:46:38.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 中国研发投入60年来首次登顶全球，AI牌局的玩法变了？ ",
+      "link": "https://www.huxiu.com/article/4857915.html?f=rss",
+      "summary": " <p data-check-id=\"437045\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4Njc3NTI4Mw==&mid=2651961750&idx=1&sn=f1c3e473b3b6dcc03d7698e86c54271f&ch...",
+      "pubDate": "2026-05-13T03:45:34.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": "谷歌今夏推进 Gemini Intelligence：重塑安卓手机 AI 交互，可操控浏览器填写表单等",
-      "link": "https://www.ithome.com/0/949/544.htm",
-      "summary": "<p data-vmark=\"c19c\">IT之家 5 月 13 日消息，科技媒体 Android Authority 今天（5 月 13 日）发布博文，报道称在 2026 年 The Android Show | I/O Edition 活动中，<strong>谷歌全面升级安卓智能助手生态，提出 Gemini Intelligence 系统性方案。</strong></p><p data-vma...",
-      "pubDate": "2026-05-12T17:45:30.000Z",
-      "source": "IT之家"
+      "title": " 栽倒在AI创业潮的创始人 ",
+      "link": "https://www.huxiu.com/article/4857912.html?f=rss",
+      "summary": " <p data-check-id=\"136570\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkzNzI3NTc1Mg==&mid=2247498992&idx=1&sn=1e482c0203589cc87c6f737faf5beb30&ch...",
+      "pubDate": "2026-05-13T03:34:55.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
