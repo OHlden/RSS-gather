@@ -1,28 +1,35 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-13T03:59:36.949Z",
+  "updated": "2026-05-13T06:54:17.843Z",
   "items": [
     {
-      "title": "雷神推出水冷 AI 迷你工作站：AMD 锐龙 AI Max+ 395 处理器 + 128GB 内存 + 2TB 存储，26999 元",
-      "link": "https://www.ithome.com/0/949/713.htm",
-      "summary": "<p data-vmark=\"7816\">IT之家 5 月 13 日消息，雷神新推出了一款 AI 迷你工作站，京东显示为 26999 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"https://3.cn/2NRH4-wD?jkl=\" target=\"_blank\" data-wxmpurl=\"ithome://openmp?appid=wx91...",
-      "pubDate": "2026-05-13T03:46:38.000Z",
+      "title": "理想汽车李想建议所有公司不要裁人：AI 时代容易把最好的人裁掉",
+      "link": "https://www.ithome.com/0/949/815.htm",
+      "summary": "<p data-vmark=\"6816\">IT之家 5 月 13 日消息，《罗永浩的十字路口》播客今日发布了第二十七期，请到的嘉宾是理想汽车创始人李想。</p><p data-vmark=\"6335\">IT之家注意到，罗永浩和李想谈到了 AI 时代的人才标准，李想建议所有公司不要裁人，因为在 AI 时代的人才和上个时代的标准大概率是不一样的，<strong>一上来就裁人很容易按照上个时代的标准把最...",
+      "pubDate": "2026-05-13T06:50:29.000Z",
       "source": "IT之家"
     },
     {
-      "title": " 中国研发投入60年来首次登顶全球，AI牌局的玩法变了？ ",
-      "link": "https://www.huxiu.com/article/4857915.html?f=rss",
-      "summary": " <p data-check-id=\"437045\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4Njc3NTI4Mw==&mid=2651961750&idx=1&sn=f1c3e473b3b6dcc03d7698e86c54271f&ch...",
-      "pubDate": "2026-05-13T03:45:34.000Z",
-      "source": " 虎嗅 "
+      "title": "消息称微软与 SK 海力士加强合作，降低在 AI 领域对英伟达的依赖",
+      "link": "https://www.ithome.com/0/949/805.htm",
+      "summary": "<p data-vmark=\"0ad2\">IT之家 5 月 13 日消息，据《韩国先驱报》13 日援引业内人士消息称，微软正试图在 AI 基础设施领域<strong>降低对英伟达的依赖</strong>，并加强与 SK 海力士等新伙伴的合作。</p><p data-vmark=\"9845\">消息称 SK 海力士 CEO 郭鲁正本周将在微软 2026 年 CEO 闭门峰会期间，会见微软联合创始人比尔...",
+      "pubDate": "2026-05-13T06:48:08.000Z",
+      "source": "IT之家"
     },
     {
-      "title": " 栽倒在AI创业潮的创始人 ",
-      "link": "https://www.huxiu.com/article/4857912.html?f=rss",
-      "summary": " <p data-check-id=\"136570\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkzNzI3NTc1Mg==&mid=2247498992&idx=1&sn=1e482c0203589cc87c6f737faf5beb30&ch...",
-      "pubDate": "2026-05-13T03:34:55.000Z",
-      "source": " 虎嗅 "
+      "title": "芯片厂商联发科发布AI智能体化引擎2.0，与多家手机厂商合作系统原生Claw",
+      "link": "https://36kr.com/newsflashes/3807358730657287?f=rss",
+      "summary": "36氪获悉，5月13日，芯片厂商联发科MediaTek发布天玑AI智能体化引擎2.0，借助天玑 SensingClaw技术，提供低功耗的全时感知能力，让下游设备厂商能够打造具备主动感知和跨应用驱动能力的Agent OS。此外，联发科还公布了与OPPO、小米和传音合作的系统原生Claw，具有主动感知、主动执行、跨端无缝流转能力，兼顾端侧隐私保护和数据安全。另外，联发科还推出天现AI开发套件3.0，升...",
+      "pubDate": "2026-05-13T06:45:35.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "GEEKOM 推出 2026 款 A9 Max 迷你主机：升级 AMD 锐龙 AI 9 HX 470",
+      "link": "https://www.ithome.com/0/949/788.htm",
+      "summary": "<p data-vmark=\"3eab\">IT之家 5 月 13 日消息，GEEKOM（积核）近期正式推出了 2026 款的 A9 Max 迷你主机。相较 2025 年的原始产品，新型号仅是<strong>将处理器升级到 \"Gorgon Point\" 家族的 AMD 锐龙 AI 9 HX 470</strong>。</p><p data-vmark=\"ec56\" style=\"text-align...",
+      "pubDate": "2026-05-13T06:36:29.000Z",
+      "source": "IT之家"
     }
   ]
 }
