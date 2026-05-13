@@ -1,35 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-13T10:36:55.140Z",
+  "updated": "2026-05-13T14:50:22.130Z",
   "items": [
     {
-      "title": " AI 时代的“裁员”大迂回战术，原来是这么玩的？ ",
-      "link": "https://www.huxiu.com/article/4858062.html?f=rss",
-      "summary": " <p data-check-id=\"431183\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg4MDY3MzcxMA==&mid=2247489743&idx=1&sn=d91c40a28c45c109c143982873b558b9&ch...",
-      "pubDate": "2026-05-13T10:17:00.000Z",
+      "title": "澳洲放羊大叔引爆 AI 编程革命！Claude Code 急推 goal 模式，不干完不许停",
+      "link": "https://www.ithome.com/0/950/063.htm",
+      "summary": "<p style=\"text-align: left;\" data-vmark=\"54aa\"><strong>澳洲牧羊大叔随手写的三行 bash，11 天内被 OpenAI、Anthropic 和 Hermes 集体收编了。</strong></p><p style=\"text-align: center;\" data-vmark=\"aa82\"><img src=\"https://img.itho...",
+      "pubDate": "2026-05-13T14:06:14.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " AIGC时代的内容产业究竟会怎么发展？ ",
+      "link": "https://www.huxiu.com/article/4858133.html?f=rss",
+      "summary": " <p data-check-id=\"155278\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzIxMDgyMTM0NQ==&mid=2247501935&idx=2&sn=0bb436c03cc4165a7628a7d0f0341635&ch...",
+      "pubDate": "2026-05-13T14:01:36.000Z",
       "source": " 虎嗅 "
-    },
-    {
-      "title": "欧洲央行敦促欧元区银行业加强防范人工智能网络攻击",
-      "link": "https://36kr.com/newsflashes/3807564451257858?f=rss",
-      "summary": "5月13日，欧洲中央银行执行委员会委员、银行监管委员会副主席弗兰克·埃尔德森（Frank Elderson）发出警告，敦促欧元区银行业迅速采取准备措施，以防范利用Anthropic公司“Mythos”人工智能模型或类似工具发起的潜在网络攻击。（新浪财经）...",
-      "pubDate": "2026-05-13T10:14:51.000Z",
-      "source": "36氪"
-    },
-    {
-      "title": " CoreWeave暴跌、Cerebras紧急IPO：OpenAI的“承诺”成了最危险的资产？ ",
-      "link": "https://www.huxiu.com/article/4858061.html?f=rss",
-      "summary": " <p data-check-id=\"527718\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzIwODU2NjQ5Mw==&mid=2247675975&idx=1&sn=046eaaa784abb43aedf5bca4e15b8969&ch...",
-      "pubDate": "2026-05-13T10:13:57.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "马化腾回应腾讯AI是否落后：现在感觉站上船但还坐不下去，希望船速能快一点",
-      "link": "https://36kr.com/newsflashes/3807562494091012?f=rss",
-      "summary": "今日，对于腾讯AI（人工智能）是否落后的问题，在腾讯股东大会上，腾讯董事会主席兼首席执行官马化腾表示，“原来一年前我们以为上了船，后来发现那个船漏水了，现在感觉站上去了，还坐不下去，还是希望船速能快一点”。马化腾表示，腾讯早期在AI领域的基础能力并非突出，近年通过人才建设、团队管理与内部培训持续补全短板，如今正逐步驶入发展轨道。马化腾坦言，腾讯不一定是业界最快抓住机遇的，但坚持走正确的道路，结合自...",
-      "pubDate": "2026-05-13T10:12:51.000Z",
-      "source": "36氪"
     }
   ]
 }
