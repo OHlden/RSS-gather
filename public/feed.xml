@@ -4,26 +4,34 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 14 May 2026 06:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 10:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[台积电预测 2030 年全球半导体市场将突破 1.5 万亿美元，AI 与高性能计算占主导]]></title>
-            <link>https://www.ithome.com/0/950/386.htm</link>
-            <guid>https://www.ithome.com/0/950/386.htm</guid>
-            <pubDate>Thu, 14 May 2026 06:46:04 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="364e">IT之家 5 月 14 日消息，据路透社报道，全球最大晶圆代工厂台积电今日在一场科技研讨会前夕发布的演示资料中预计，2030 年全球半导体市场规模将突破 1.5 万亿美元（IT之家注：现汇率约合 10.21 万亿元人民币），高于此前 1 万亿美元的预测值。</p><p data-vmark="6985" style="text-align: center;...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="364e">IT之家 5 月 14 日消息，据路透社报道，全球最大晶圆代工厂台积电今日在一场科技研讨会前夕发布的演示资料中预计，2030 年全球半导体市场规模将突破 1.5 万亿美元（IT之家注：现汇率约合 10.21 万亿元人民币），高于此前 1 万亿美元的预测值。</p><p data-vmark="6985" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/6/d95e32a9-8412-4581-9870-ae419400b3e8.jpg?x-bce-process=image/format,f_auto" w="624" h="416" data-weibo="0" data-vmark="7421"></p><p data-vmark="b592">具体细节如下：</p><ul class=" list-paddingleft-2"><li><p data-vmark="26db">台积电表示，在 1.5 万亿美元的市场规模中，人工智能与高性能计算领域预计占比 55%，智能手机占 20%，汽车应用占 10%。</p></li><li><p data-vmark="1108">台积电称，2025 至 2026 年正加快产能扩张步伐，并计划在 2026 年新建九期晶圆厂及先进封装厂房。</p></li><li><p data-vmark="93fb">这家芯片厂商将提升其最先进的 2 纳米芯片及下一代 A16 芯片的产能，2026 至 2028 年期间相关产能复合年均增长率达 70%。</p></li><li><p data-vmark="d779">台积电透露，2022 至 2027 年，其先进封装技术 CoWoS（晶圆上芯片基板封装）产能复合年均增长率预计超 80%。CoWoS 是一项关键芯片封装技术，广泛应用于英伟达等企业设计的人工智能芯片中。</p></li><li><p data-vmark="0823">公司表示，2022 年至 2026 年，AI 加速器晶圆需求量预计增长 11 倍。</p></li></ul><p data-vmark="093e"><strong>台积电全球布局</strong></p><p data-vmark="b6d6"><strong>美国亚利桑那州</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="991c">首座晶圆厂已投产；第二座晶圆厂计划于 2026 年下半年迁入设备；第三座晶圆厂正在建设中。第四座晶圆厂以及园区首座先进封装厂房，预计于今年动工。</p></li><li><p data-vmark="1930">台积电预计，2026 年亚利桑那工厂产能将同比提升 1.8 倍，良率将达到与台湾地区厂区相当的水平。</p></li><li><p data-vmark="86ac">该厂商已完成收购亚利桑那州第二块大面积地块，用于后续扩建。</p></li></ul><p data-vmark="5ccf"><strong>日本</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="588e">首座晶圆厂目前已实现 22 纳米、28 纳米芯片量产；受市场强劲需求推动，第二座晶圆厂规划已升级为 3 纳米制程。</p></li></ul><p data-vmark="611d"><strong>德国</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="44ca">工厂目前正在建设中，整体工程按计划推进，将率先落地 28 纳米、22 纳米制程技术，后续逐步投产 16 纳米、12 纳米工艺产品。</p></li></ul>]]></content:encoded>
+            <title><![CDATA[科翔股份：陶积电公司应用于AI领域的陶瓷基板目前仍处于研发打样阶段，在公司销售收入占比极小]]></title>
+            <link>https://36kr.com/newsflashes/3808991461334788?f=rss</link>
+            <guid>https://36kr.com/newsflashes/3808991461334788?f=rss</guid>
+            <pubDate>Thu, 14 May 2026 10:26:28 GMT</pubDate>
+            <description><![CDATA[36氪获悉，科翔股份公告，公司股票于5月12日至14日连续3个交易日收盘价涨幅偏离值累计超30%，属于股票交易异常波动。公司子公司广州陶积电电子科技有限公司（以下简称“陶积电公司”）的主营业务为陶瓷印制电路板、陶瓷基板的研发和生产制造，但陶积电公司应用于AI领域的陶瓷基板目前仍处于研发打样阶段，在公司销售收入占比极小，且后续产品的量产和销售，存在较大不确定性，请广大投资者注意投资风险。...]]></description>
+            <content:encoded><![CDATA[36氪获悉，科翔股份公告，公司股票于5月12日至14日连续3个交易日收盘价涨幅偏离值累计超30%，属于股票交易异常波动。公司子公司广州陶积电电子科技有限公司（以下简称“陶积电公司”）的主营业务为陶瓷印制电路板、陶瓷基板的研发和生产制造，但陶积电公司应用于AI领域的陶瓷基板目前仍处于研发打样阶段，在公司销售收入占比极小，且后续产品的量产和销售，存在较大不确定性，请广大投资者注意投资风险。]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI 热潮点燃韩国芯片股，SK 海力士市值逼近 1 万亿美元]]></title>
-            <link>https://www.ithome.com/0/950/378.htm</link>
-            <guid>https://www.ithome.com/0/950/378.htm</guid>
-            <pubDate>Thu, 14 May 2026 06:40:57 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="6220">IT之家 5 月 14 日消息，得益于人工智能需求旺盛，韩国稳居亚洲人工智能热潮的核心地带。就在三星电子市值突破 1 万亿美元大关数周后，SK 海力士也即将迈入万亿市值行列。</p><p style="text-align: center;" data-vmark="9d75"><img src="https://img.ithome.com/newsup...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="6220">IT之家 5 月 14 日消息，得益于人工智能需求旺盛，韩国稳居亚洲人工智能热潮的核心地带。就在三星电子市值突破 1 万亿美元大关数周后，SK 海力士也即将迈入万亿市值行列。</p><p style="text-align: center;" data-vmark="9d75"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e78cdcfb-c421-45ea-ae8f-385bcfb54b9e.jpg?x-bce-process=image/format,f_auto" w="768" h="600" data-weibo="0" data-vmark="f418" class="no-alt-img"></p><p data-vmark="ac08">受人工智能服务器所用的传统存储芯片及高带宽内存（HBM）芯片的相关需求拉动，SK 海力士股价 2025 年暴涨 274%，今年再度大涨超 200%。</p><p data-vmark="5390">若 SK 海力士紧随三星跻身万亿市值企业行列，韩国将成为美国以外首个拥有多家万亿美元市值企业的国家。</p><p data-vmark="ca74">悉尼 IG 集团市场分析师叶法比安表示：“市场正被错失恐惧症（FOMO）情绪主导，日韩人工智能相关概念股尤为明显。”</p><p data-vmark="ac65">本月早些时候，三星成为韩国首家万亿美元市值企业；而台积电目前市值超 1.83 万亿美元（IT之家注：现汇率约合 12.45 万亿元人民币），仍是亚洲市值最高的企业。</p><p data-vmark="7468">这三大芯片厂商创下营收新高，也让外界愈发关注其在全球人工智能供应链中的关键地位。</p><p data-vmark="5cb6">韩国综合股价指数（KOSPI）近乎直线攀升，屡创历史新高，海内外各类资金纷纷涌入芯片板块。该指数 2025 年飙升 75%，创下 1999 年以来最佳年度表现；今年涨幅又超 86%。自 2025 年初以来，韩国综合股价指数一直是全球表现最优的主要股市指数。</p><p data-vmark="25de">16 个月前市值尚不足 1000 亿美元的 SK 海力士，如今市值已逼近零售巨头沃尔玛，以及传奇投资人沃伦・巴菲特旗下的投资机构伯克希尔・哈撒韦。</p><p data-vmark="eaf7">周四，韩国大盘整体上涨 0.9%，距本周创下的历史高点仅一步之遥；其中 SK 海力士微跌 0.48%，三星电子大涨超 3% 并再创历史新高。按周三股价及汇率计算，SK 海力士当前市值约 9480 亿美元。</p>]]></content:encoded>
+            <title><![CDATA[OpenAI 首席未来学家阿奇亚姆：马斯克曾因 AI 安全问题骂我“蠢驴”]]></title>
+            <link>https://www.ithome.com/0/950/518.htm</link>
+            <guid>https://www.ithome.com/0/950/518.htm</guid>
+            <pubDate>Thu, 14 May 2026 10:24:08 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="5f09">IT之家 5 月 14 日消息，据《商业内幕》今日报道，OpenAI 首席未来学家约书亚 · 阿奇亚姆周三向联邦陪审团表示，在马斯克与奥尔特曼之间的加州民事审判中，马斯克曾因为 AI 安全问题与他激烈交锋，<strong>并当场骂他是“蠢驴”</strong>。阿奇亚姆回忆说，那是一次相当紧张的交流：“他突然发火，叫我蠢驴。”</p><p data-vma...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="5f09">IT之家 5 月 14 日消息，据《商业内幕》今日报道，OpenAI 首席未来学家约书亚 · 阿奇亚姆周三向联邦陪审团表示，在马斯克与奥尔特曼之间的加州民事审判中，马斯克曾因为 AI 安全问题与他激烈交锋，<strong>并当场骂他是“蠢驴”</strong>。阿奇亚姆回忆说，那是一次相当紧张的交流：“他突然发火，叫我蠢驴。”</p><p data-vmark="b028">2018 年 2 月，马斯克计划离开由他和奥尔特曼共同创办的 OpenAI。离职前，约 50 到 60 名员工参加了一场公司全员会议，并在会上进行问答。</p><p data-vmark="d85d">阿奇亚姆当时是 OpenAI 研究科学家。根据他的回忆，当时马斯克说自己要离开，是因为特斯拉很快会和 OpenAI 争夺顶尖 AI 人才，<strong>进而产生利益冲突</strong>。“他还说，自己总体上对 OpenAI 的发展方向缺乏信心。马斯克想离开去做自己的事情，并用自己的方式追求 AGI。听起来，他想向 AGI 发起冲刺，好像想<strong>非常快地把 AGI 做出来</strong>，因为非常担心，如果别人先拿到 AGI，会用 AGI 做错误的事情。”</p><p data-vmark="2953">阿奇亚姆直言，自己和另外几个人担心，向 AGI 发起冲刺是一个“相当不安全的设想”，马斯克提出的方案“看起来很鲁莽”。“我们当时并不知道，科幻小说里的超级智能自举事件到底是不是一种真实风险，也就是你在某天晚上启动那个系统，第二天早上回来时，那个系统已经聪明到令人难以置信，能够破解加密并接管世界。”</p><p data-vmark="1cf9">据IT之家了解，马斯克指控奥尔特曼和 OpenAI 通过转向营利性架构，窃取了最初“慈善机构”的定义。奥尔特曼则主张，马斯克提起诉讼是为了打击一个 AI 竞争对手。</p><p data-vmark="4100">OpenAI 律师问阿奇亚姆，马斯克称他为蠢驴，是否可能是在试图把他推出“舒适区”，阿奇亚姆回应说：“我不认为他那样叫我是因为这件事，只是因为<strong>受到挑战而生气</strong>。”</p><p data-vmark="2576">阿奇亚姆告诉陪审团，会议结束后，几名同事向他表达了感谢。在紧随其后的公司全员会议上，同事们向他颁发了一座奖杯，以纪念那次交流，并感谢他站出来对抗马斯克。那座奖杯是一座金色雕像，<strong>造型是一头“蠢驴”</strong>，上面刻着一句话：“永远不要停止‘为了安全而做一头蠢驴’。”</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Meta 首席 AI 官汪滔：行业大佬之间冲突频繁，我不喜欢这种氛围]]></title>
+            <link>https://www.ithome.com/0/950/511.htm</link>
+            <guid>https://www.ithome.com/0/950/511.htm</guid>
+            <pubDate>Thu, 14 May 2026 10:05:39 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="5a7b">IT之家 5 月 14 日消息，据《商业内幕》今日报道，AI 圈几位核心人物之间的关系，最近越来越紧张。无论是 OpenAI CEO 奥尔特曼与 Anthropic CEO 阿莫代伊，还是奥尔特曼与马斯克，AI 行业里的矛盾几乎已经公开化，甚至还有官司正在进行。</p><p data-vmark="3527">Meta 首席 AI 官汪滔（Alexandr...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="5a7b">IT之家 5 月 14 日消息，据《商业内幕》今日报道，AI 圈几位核心人物之间的关系，最近越来越紧张。无论是 OpenAI CEO 奥尔特曼与 Anthropic CEO 阿莫代伊，还是奥尔特曼与马斯克，AI 行业里的矛盾几乎已经公开化，甚至还有官司正在进行。</p><p data-vmark="3527">Meta 首席 AI 官汪滔（Alexandr Wang）直言，自己并不喜欢这种行业氛围，希望这些敌意未来能够慢慢消退。“大家最终应该意识到，我们正在开发的是一项<strong>非常重要的技术</strong>，因此所有人都需要更谨慎、更理性地推进这件事。”</p><p data-vmark="6d20">汪滔本人与 Meta 前首席 AI 科学家杨立昆之间也存在明显分歧。据IT之家了解，此前，杨立昆曾<strong>公开</strong><strong>批评汪滔“缺乏经验”</strong>，并认为他并不真正理解 AI 研究人员的工作方式。</p><p data-vmark="0108">不过，汪滔透露，在这个争议出现几周之后，自己曾在印度见到杨立昆。汪滔还提到，杨立昆后来其实<strong>也曾祝贺 Meta 超级智能实验室发布 Muse Spark AI 模型</strong>。“杨立昆一直都是个观点非常直接的人，大家通常都知道他在想什么”。</p><p data-vmark="8288">对于双方关系，汪滔依然保持乐观态度。随着 Meta 在超级智能方向继续推进，双方关系未来或许会有所缓和。“也许会先变得更糟，然后再慢慢变好。”</p><p data-vmark="c490">汪滔认为，外界对于许多 AI 行业人物存在不少误解。“虽然有时候确实令人沮丧，但我更愿意把精力放在工作本身上”。</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
