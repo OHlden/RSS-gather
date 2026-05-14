@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 14 May 2026 03:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 06:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[台积电预测 2030 年全球半导体市场将突破 1.5 万亿美元，AI 与高性能计算占主导]]></title>
+            <link>https://www.ithome.com/0/950/386.htm</link>
+            <guid>https://www.ithome.com/0/950/386.htm</guid>
+            <pubDate>Thu, 14 May 2026 06:46:04 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="364e">IT之家 5 月 14 日消息，据路透社报道，全球最大晶圆代工厂台积电今日在一场科技研讨会前夕发布的演示资料中预计，2030 年全球半导体市场规模将突破 1.5 万亿美元（IT之家注：现汇率约合 10.21 万亿元人民币），高于此前 1 万亿美元的预测值。</p><p data-vmark="6985" style="text-align: center;...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="364e">IT之家 5 月 14 日消息，据路透社报道，全球最大晶圆代工厂台积电今日在一场科技研讨会前夕发布的演示资料中预计，2030 年全球半导体市场规模将突破 1.5 万亿美元（IT之家注：现汇率约合 10.21 万亿元人民币），高于此前 1 万亿美元的预测值。</p><p data-vmark="6985" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/6/d95e32a9-8412-4581-9870-ae419400b3e8.jpg?x-bce-process=image/format,f_auto" w="624" h="416" data-weibo="0" data-vmark="7421"></p><p data-vmark="b592">具体细节如下：</p><ul class=" list-paddingleft-2"><li><p data-vmark="26db">台积电表示，在 1.5 万亿美元的市场规模中，人工智能与高性能计算领域预计占比 55%，智能手机占 20%，汽车应用占 10%。</p></li><li><p data-vmark="1108">台积电称，2025 至 2026 年正加快产能扩张步伐，并计划在 2026 年新建九期晶圆厂及先进封装厂房。</p></li><li><p data-vmark="93fb">这家芯片厂商将提升其最先进的 2 纳米芯片及下一代 A16 芯片的产能，2026 至 2028 年期间相关产能复合年均增长率达 70%。</p></li><li><p data-vmark="d779">台积电透露，2022 至 2027 年，其先进封装技术 CoWoS（晶圆上芯片基板封装）产能复合年均增长率预计超 80%。CoWoS 是一项关键芯片封装技术，广泛应用于英伟达等企业设计的人工智能芯片中。</p></li><li><p data-vmark="0823">公司表示，2022 年至 2026 年，AI 加速器晶圆需求量预计增长 11 倍。</p></li></ul><p data-vmark="093e"><strong>台积电全球布局</strong></p><p data-vmark="b6d6"><strong>美国亚利桑那州</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="991c">首座晶圆厂已投产；第二座晶圆厂计划于 2026 年下半年迁入设备；第三座晶圆厂正在建设中。第四座晶圆厂以及园区首座先进封装厂房，预计于今年动工。</p></li><li><p data-vmark="1930">台积电预计，2026 年亚利桑那工厂产能将同比提升 1.8 倍，良率将达到与台湾地区厂区相当的水平。</p></li><li><p data-vmark="86ac">该厂商已完成收购亚利桑那州第二块大面积地块，用于后续扩建。</p></li></ul><p data-vmark="5ccf"><strong>日本</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="588e">首座晶圆厂目前已实现 22 纳米、28 纳米芯片量产；受市场强劲需求推动，第二座晶圆厂规划已升级为 3 纳米制程。</p></li></ul><p data-vmark="611d"><strong>德国</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="44ca">工厂目前正在建设中，整体工程按计划推进，将率先落地 28 纳米、22 纳米制程技术，后续逐步投产 16 纳米、12 纳米工艺产品。</p></li></ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 热潮点燃韩国芯片股，SK 海力士市值逼近 1 万亿美元]]></title>
+            <link>https://www.ithome.com/0/950/378.htm</link>
+            <guid>https://www.ithome.com/0/950/378.htm</guid>
+            <pubDate>Thu, 14 May 2026 06:40:57 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="6220">IT之家 5 月 14 日消息，得益于人工智能需求旺盛，韩国稳居亚洲人工智能热潮的核心地带。就在三星电子市值突破 1 万亿美元大关数周后，SK 海力士也即将迈入万亿市值行列。</p><p style="text-align: center;" data-vmark="9d75"><img src="https://img.ithome.com/newsup...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="6220">IT之家 5 月 14 日消息，得益于人工智能需求旺盛，韩国稳居亚洲人工智能热潮的核心地带。就在三星电子市值突破 1 万亿美元大关数周后，SK 海力士也即将迈入万亿市值行列。</p><p style="text-align: center;" data-vmark="9d75"><img src="https://img.ithome.com/newsuploadfiles/2026/5/e78cdcfb-c421-45ea-ae8f-385bcfb54b9e.jpg?x-bce-process=image/format,f_auto" w="768" h="600" data-weibo="0" data-vmark="f418" class="no-alt-img"></p><p data-vmark="ac08">受人工智能服务器所用的传统存储芯片及高带宽内存（HBM）芯片的相关需求拉动，SK 海力士股价 2025 年暴涨 274%，今年再度大涨超 200%。</p><p data-vmark="5390">若 SK 海力士紧随三星跻身万亿市值企业行列，韩国将成为美国以外首个拥有多家万亿美元市值企业的国家。</p><p data-vmark="ca74">悉尼 IG 集团市场分析师叶法比安表示：“市场正被错失恐惧症（FOMO）情绪主导，日韩人工智能相关概念股尤为明显。”</p><p data-vmark="ac65">本月早些时候，三星成为韩国首家万亿美元市值企业；而台积电目前市值超 1.83 万亿美元（IT之家注：现汇率约合 12.45 万亿元人民币），仍是亚洲市值最高的企业。</p><p data-vmark="7468">这三大芯片厂商创下营收新高，也让外界愈发关注其在全球人工智能供应链中的关键地位。</p><p data-vmark="5cb6">韩国综合股价指数（KOSPI）近乎直线攀升，屡创历史新高，海内外各类资金纷纷涌入芯片板块。该指数 2025 年飙升 75%，创下 1999 年以来最佳年度表现；今年涨幅又超 86%。自 2025 年初以来，韩国综合股价指数一直是全球表现最优的主要股市指数。</p><p data-vmark="25de">16 个月前市值尚不足 1000 亿美元的 SK 海力士，如今市值已逼近零售巨头沃尔玛，以及传奇投资人沃伦・巴菲特旗下的投资机构伯克希尔・哈撒韦。</p><p data-vmark="eaf7">周四，韩国大盘整体上涨 0.9%，距本周创下的历史高点仅一步之遥；其中 SK 海力士微跌 0.48%，三星电子大涨超 3% 并再创历史新高。按周三股价及汇率计算，SK 海力士当前市值约 9480 亿美元。</p>]]></content:encoded>
+        </item>
     </channel>
 </rss>

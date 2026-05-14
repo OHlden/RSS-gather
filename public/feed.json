@@ -1,6 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-14T03:58:37.122Z",
-  "items": []
+  "updated": "2026-05-14T06:51:04.326Z",
+  "items": [
+    {
+      "title": "台积电预测 2030 年全球半导体市场将突破 1.5 万亿美元，AI 与高性能计算占主导",
+      "link": "https://www.ithome.com/0/950/386.htm",
+      "summary": "<p data-vmark=\"364e\">IT之家 5 月 14 日消息，据路透社报道，全球最大晶圆代工厂台积电今日在一场科技研讨会前夕发布的演示资料中预计，2030 年全球半导体市场规模将突破 1.5 万亿美元（IT之家注：现汇率约合 10.21 万亿元人民币），高于此前 1 万亿美元的预测值。</p><p data-vmark=\"6985\" style=\"text-align: center;...",
+      "pubDate": "2026-05-14T06:46:04.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "AI 热潮点燃韩国芯片股，SK 海力士市值逼近 1 万亿美元",
+      "link": "https://www.ithome.com/0/950/378.htm",
+      "summary": "<p data-vmark=\"6220\">IT之家 5 月 14 日消息，得益于人工智能需求旺盛，韩国稳居亚洲人工智能热潮的核心地带。就在三星电子市值突破 1 万亿美元大关数周后，SK 海力士也即将迈入万亿市值行列。</p><p style=\"text-align: center;\" data-vmark=\"9d75\"><img src=\"https://img.ithome.com/newsup...",
+      "pubDate": "2026-05-14T06:40:57.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
