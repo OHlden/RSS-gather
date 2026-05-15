@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 14 May 2026 21:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 04:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[ AI幻觉惹官司：为何有的免责，有的要赔礼道歉？ ]]></title>
+            <link>https://www.huxiu.com/article/4858597.html?f=rss</link>
+            <guid>4858597</guid>
+            <pubDate>Fri, 15 May 2026 03:49:16 GMT</pubDate>
+            <description><![CDATA[ <p data-check-id="857825"><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s?__biz=MzUzMDg2NTI4NA==&mid=2247485151&idx=1&sn=ebf6c560564d65ddc5e636a454e7c290&ch...]]></description>
+            <content:encoded><![CDATA[ <p data-check-id="857825"><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s?__biz=MzUzMDg2NTI4NA==&mid=2247485151&idx=1&sn=ebf6c560564d65ddc5e636a454e7c290&chksm=fb6cb1057d911954cef03f164dc562279daad2d2cacfafd7541130778277fc32b2cc64ab89b6#rd" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks"> 游云庭的工作生活记录 </span></a><span class="text-remarks">，作者：游云庭律师</span></p><p><br/></p><p data-check-id="665607">最近，两起和AI出现幻觉有关的案件，出现了完全不同的判决结果。一个是AI承诺答错赔10万元，但法院认定平台无需担责。百度AI却因为捏造律师被判刑的信息，却被法院认定构成名誉侵权。同样是AI生成错误内容，为什么法院态度差别这么大？关键就在于：一旦涉及名誉权，平台的注意义务会明显提高。</p><p data-check-id="568726"><br/></p><p data-check-id="381763">案例一：该案为杭州互联网法院AI幻觉第一案，用户向AI查询高校报考信息，用户发现AI生成不准确信息后，对AI应用进行了纠正和指责，AI应用仍坚称信息准确性，并称，若内容有误将向用户提供10万元赔偿。后用户将从该校官网查询到的招生信息提供给AI，此时AI承认其生成了错误信息，并建议用户到杭州互联网法院起诉索赔。用户遂起诉要求平台赔偿9999元。法院认为AI不具备独立法律人格，它随口生成的承诺没有法律效力，平台无需为此担责。</p><p data-check-id="801315"><br/></p><p data-check-id="734710">案例二：南京律师李某在百度搜索自己的名字和职务时，百度AI回复显示他因爆炸罪被判刑三年，还配上了他穿律师袍的照片。因此事子虚乌有，李小亮起诉百度，法院终审认定百度构成名誉侵权，判令赔礼道歉。该案AI出现错误的原因可能是，有与律师同名的李某，确实因为爆炸罪被判刑，且能在网上查到判决书，所以AI张冠李戴了。</p><p data-check-id="405486"><br/></p><p data-check-id="264246">这两个案件的关键区别在于，前者只是AI和用户之间的对话，不能遵守承诺是合同违约，后者则涉及对名誉权的实际损害。根据《民法典》和《生成式人工智能服务管理暂行办法》的规定，对于普通的AI生成内容，平台只要履行显著标识、违法内容过滤、备案与安全评估等义务，法院通常会认定其适用避风港原则，接到通知后删除争议内容即可。</p><p data-check-id="281744"><br/></p><p data-check-id="335358">但在涉及名誉侵权时，平台必须承担起更高的实质性审查标准。名誉侵权后果比较严重，捏造的内容是足以降低他人社会评价的虚假事实。生成式AI的效率远超传统平台，传统场景是张三编个虚假信息造谣李四，而AI则会系统性、规模化自动造谣：以近乎真实的语气24小时自动生成、批量输出、多版本改写。所以平台很难再完全以技术中立抗辩免责。</p><p data-check-id="815665"><br/></p><p data-check-id="687360">所以涉及名誉侵权时，AI平台的角色就从被动的服务提供者，向主动的内容发布者倾斜，需要承担更强的事前审核义务。具体来说，这种特殊注意义务体现在几个方面：</p><p data-check-id="466730"><br/></p><p data-check-id="820318">首先，是更高标准的事实核查与风险防控。当用户输入高度指向性的描述，如具体姓名和职业时，平台不能对AI可能生成的失实的贬损性内容坐视不管。法院在百度案判决中指出，平台应当预见到此类查询的高风险性，并设置更严格的提示词过滤与输出检测机制。此外，平台也应考虑在涉及人格权评价时，通过更醒目的方式提示用户相关内容可能存在事实错误。</p><p data-check-id="245788"><br/></p><p data-check-id="836571">其次，是更高效的干预与阻断机制。名誉侵权具有持续伤害的特性。如果平台在接到投诉后，仅仅删除了某一次生成的侵权记录，但用户使用相同或类似提示词仍能生成相同侵权内容，那么法院很可能认定平台未尽到必要的注意义务。百度案中，法院发现一审时已经消失的律师被判刑的幻觉内容，二审时又回来了。这意味着，平台需要建立更主动的干预机制，而不能再仅仅依赖被动的通知删除流程。</p><p data-check-id="443262"><br/></p><p data-check-id="165076">第三，是对真假混合内容的更高识别义务。有些侵权内容并非完全虚假，而是将事实夸大或扭曲，例如将公司正常的业务调整渲染为资金链断裂，或将学术争议升级为学术不端。这类半真半假的信息往往更具迷惑性和传播力。平台需要投入更多技术资源，提升对这类幻觉内容的识别能力。</p><p data-check-id="412111"><br/></p><p data-check-id="153884">最后，是对特定高风险群体的特别保护。公众人物、律师、医生等职业人士的社会评价与其职业发展紧密相连，一旦受损，后果更为严重。因此，平台在面对涉及这些群体的查询时，理应设置更高级别的审核与警示规则。</p><p data-check-id="743720"><br/></p><p data-check-id="433770">生成内容中的名誉侵权问题实际承载着大众对于AI服务商的信任，一旦信任出现瑕疵，商业和法律风险都非常大。传统的依赖算法或技术局限性的避风港机制应对名誉侵权的AI幻觉比较被动，平台需要探索建立合规重心前移的新的全链条机制，包括：内部高危词库，对相关结果进行事前审核。在生成阶段，应完善实时监测机制，对高风险输出及时拦截。一旦发生侵权，则应建立快速投诉和人工复核机制，并对类似内容同步限制。唯有如此，才能在技术创新与法律责任之间找到平衡点。</p> ]]></content:encoded>
+        </item>
     </channel>
 </rss>
