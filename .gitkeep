@@ -1,0 +1,5 @@
+mkdir public
+touch public/.gitkeep
+git add public/.gitkeep
+git commit -m "Add public directory"
+git push

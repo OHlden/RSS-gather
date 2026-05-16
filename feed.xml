@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>AI 精选周报</title>
+        <link>https://your-username.github.io/rss-ai-aggregator/</link>
+        <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
+        <lastBuildDate>Sat, 16 May 2026 20:57:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-cn</language>
+        <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[OpenAI 与马耳他政府合作，向该国公民免费提供一年 ChatGPT Plus]]></title>
+            <link>https://www.ithome.com/0/951/389.htm</link>
+            <guid>https://www.ithome.com/0/951/389.htm</guid>
+            <pubDate>Sat, 16 May 2026 13:42:47 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="0cd9">IT之家 5 月 16 日消息，OpenAI 今日宣布与马耳他政府达成一项全球首创的合作伙伴关系，旨在向所有马耳他公民推广 ChatGPT Plus。</p><p data-vmark="ae01">IT之家注：马耳他（Malta）是一个位于地中海中部的南欧岛国，国土面积仅 316 平方公里，全国人口约 57 万。</p><p data-vmark="38...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="0cd9">IT之家 5 月 16 日消息，OpenAI 今日宣布与马耳他政府达成一项全球首创的合作伙伴关系，旨在向所有马耳他公民推广 ChatGPT Plus。</p><p data-vmark="ae01">IT之家注：马耳他（Malta）是一个位于地中海中部的南欧岛国，国土面积仅 316 平方公里，全国人口约 57 万。</p><p data-vmark="38c5">根据马耳他的“AI4ALL（AI for All、全民人工智能）”倡议，马耳他大学开发了相关 AI 网络课程，为各种背景的人提供学习使用 AI 的机会。<strong>课程完成后，该国公民可以免费使用 ChatGPT Plus 一年</strong>。</p><p style="text-align: center;" data-vmark="8e42"><img src="https://img.ithome.com/newsuploadfiles/2026/5/7125a1ec-a208-4bec-85d4-979f08056d61.jpg?x-bce-process=image/format,f_auto" w="1440" h="882" data-weibo="0" data-mpos="2,0"  data-vmark="6192"></p><figcaption>▲ 马耳他 AI4ALL 计划（已翻译为中文）</figcaption><p data-vmark="17f4">该计划的第一阶段将于 5 月启动，由马耳他数字创新管理局负责向符合条件的参与者发放资格，该计划也将向旅居海外的马耳他公民开放。</p><p data-vmark="e8de">马耳他是首个推出此类计划的国家，OpenAI 未披露该协议的财务细节。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
