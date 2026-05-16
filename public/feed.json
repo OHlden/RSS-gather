@@ -1,14 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-16T06:27:48.317Z",
+  "updated": "2026-05-16T09:47:01.623Z",
   "items": [
     {
-      "title": "谷歌安卓 Gemini Intelligence 要求曝光：12GB 内存，Nano v3 端侧 AI 模型",
-      "link": "https://www.ithome.com/0/951/242.htm",
-      "summary": "<p data-vmark=\"4b96\">IT之家 5 月 16 日消息，消息源 @AssembleDebug 今天（5 月 16 日）发布博文，爆料分享了谷歌 Gemini Intelligence 的硬件门槛，<strong>要求安卓设备搭载旗舰芯片、运行 Gemini Nano v3，并至少配备 12GB 内存。</strong></p><p data-vmark=\"46dc\" style=...",
-      "pubDate": "2026-05-16T05:45:26.000Z",
-      "source": "IT之家"
+      "title": "阿里健康正式发布医学AI助手“氢离子”",
+      "link": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+      "summary": "36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审闭环。超300位中国临床专家参与共建评价标准，黄晓军、肖瑞平、于金明等10位顶级专家把关学术方向。...",
+      "pubDate": "2026-05-16T08:34:03.000Z",
+      "source": "36氪"
     }
   ]
 }
